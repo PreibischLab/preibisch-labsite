@@ -1,44 +1,55 @@
 /**
  * Site header
  */
+
 .site-header {
+    background: black;
+    background: linear-gradient(#1c1c1c, #333333);
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    padding-bottom: 15px;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 30px;
+    margin-top: 20px;
+    /*letter-spacing: -1px;*/
     float: left;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
+    .title-link {
+        color: white;
+        text-decoration: none;
     }
 }
 
-.site-nav {
-    float: right;
-    line-height: 56px;
+.expanded-title {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #666666;
+    font-size: 18px;
+    padding-top: 65px;
+    margin-bottom: 20px;
+}
 
-    .menu-icon {
-        display: none;
-    }
+.main-menu {
+    border-top: 3px solid green;
+    padding-top: 15px;
+    text-align: left;
+}
+
+
+.site-nav {
+
+    float: left !important;
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+        color: #d1d1d1;
+        line-height: $base-line-height;
+        margin-right: 40px;
+
     }
 
     @include media-query($on-palm) {
@@ -58,15 +69,6 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
         }
 
         .trigger {
@@ -92,11 +94,13 @@
  * Site footer
  */
 .site-footer {
+    background: linear-gradient(#1c1c1c, #333333);
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding-top: 10px;
 }
 
 .footer-heading {
+    color: white;
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
 }
@@ -133,6 +137,12 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.bismb-img {
+    margin-top: 50px;
+    opacity: 0.8;
+    float: right;
 }
 
 @include media-query($on-laptop) {
