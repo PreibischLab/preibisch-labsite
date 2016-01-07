@@ -2,4 +2,5 @@
 layout: page
 title: Projects
 permalink: /projects/
+weight: 3
 ---

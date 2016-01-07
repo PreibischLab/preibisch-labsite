@@ -2,6 +2,7 @@
 layout: page
 title: Lab Members
 permalink: /lab_members/
+weight: 4
 ---
 
 
