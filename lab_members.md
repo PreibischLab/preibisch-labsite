@@ -168,7 +168,7 @@ Some details...
 
 ### Andrea Grybowski
 
-#### Technician (?)
+#### Technical Assistants
 
 Some details...
 
