@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: Conferences and Events
 permalink: /events/
-weight: 5
+weight: 3
 ---

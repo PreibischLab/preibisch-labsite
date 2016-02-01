@@ -2,7 +2,7 @@
 layout: page
 title: Lab Members
 permalink: /lab_members/
-weight: 4
+weight: 2
 ---
 
 
@@ -45,7 +45,7 @@ Some details...
   <div class="col-xs-9" markdown="1">
 
 
-### Varun Kapur, PhD
+### Varun Kapoor, PhD
 
 #### Postdoc
 Some details...
