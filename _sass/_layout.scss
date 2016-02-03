@@ -135,14 +135,16 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width:         calc(40% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(43%);
+    width:         calc(43%);
 }
 
-.bismb-img {
+.bimsb-img {
     margin-top: 50px;
     opacity: 0.8;
-    float: right;
+    float: right; 
+    height:80px;
+    border:0;
 }
 
 @include media-query($on-laptop) {
@@ -164,6 +166,15 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+}
+
+.design-cred {
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    margin-right: 12px;
+    color: gray; 
+    font-size: 90%; 
+    float: right;
 }
 
 

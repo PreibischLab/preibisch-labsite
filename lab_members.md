@@ -9,7 +9,7 @@ weight: 2
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/stephan_preibisch.png" alt="Stephan Preibisch" class="member-img">
+    <img src="http://i.imgur.com/U1xTjsJ.png?1" alt="Stephan Preibisch" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -20,10 +20,10 @@ weight: 2
 
 Some details...
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+**Find him on:**
+[LinkedIn](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}, 
+[Twitter](https://twitter.com/preibischs){:target="_blank"}, 
+[Github](https://github.com/StephanPreibisch){:target="_blank"}
 
 **E-mail:** stephan.preibisch [at] mdc-berlin [dot] de
 
@@ -39,7 +39,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/varun.jpg" alt="Varun Kapur" class="member-img">
+    <img src="http://i.imgur.com/GoERyoc.jpg?1" alt="Varun Kapur" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -48,14 +48,13 @@ Some details...
 ### Varun Kapoor, PhD
 
 #### Postdoc
-Some details...
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+Varun graduated his studies of physics and mathematics from Panjab University in India and continued his postgraduate studies at the IMSc, India and the University of Manchester, UK. He did his Phd on laser-atom physics at the MPI-Heidelberg and the University of Rostock. At the end of my PhD he moved to the field of many-electron systems such as DNA and proteins at MPI-Göttingen. While working on entropy computations he implemented a data transformation algorithm which has cross-disciplinary applications. This work formed his current research interest.
 
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**Find him on:**
+[Github](https://github.com/kapoorlab){:target="_blank"}
+
+**E-mail:** Varun.Kapoor [at] mdc-berlin [dot] de
 
   </div>
 </div>
@@ -69,7 +68,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/ella.jpg" alt="Ella Bahry" class="member-img">
+    <img src="http://i.imgur.com/MZdqCut.jpg?3" alt="Ella Bahry" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -79,12 +78,10 @@ Some details...
 
 #### PhD Student
 
-Some details...
+Ella did her bachelor studies in computationan neuroscience at Bar Ilan University, Israel. She did her master's thesis at the epilepcy center of NYU on analysis of rs-fMRI as part of her neurocognitive psychology master's studies at LMU, Munich.
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+**Find her on:**
+[Github](https://github.com/bellonet){:target="_blank"}
 
 **E-mail:** XXXXX [at] mdc-berlin [dot] de
 
@@ -100,7 +97,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/laura.png" alt="Laura Breimann" class="member-img">
+    <img src="http://i.imgur.com/SyMNfAJ.jpg?1" alt="Laura Breimann" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -110,14 +107,12 @@ Some details...
 
 #### PhD Student
 
-Some details...
+Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She continued her studies with an M.Sc in Biochemistry at LMU Munich, where she specialised in epigenetics and chromatin biology. She did her master's thesis at the University of Oxford where she used single-molecule FISH techniques to examine transcription in single cells.
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+**Find her on:**
+[Github](https://xxx){:target="_blank"}
 
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**E-mail:** Laura.Breimann [at] mdc-berlin [dot] de
 
   </div>
 </div>
@@ -131,7 +126,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/dhana.jpeg" alt="Dhana Friedrich" class="member-img">
+    <img src="http://i.imgur.com/5Vt4bJa.jpg?1" alt="Dhana Friedrich" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -141,12 +136,10 @@ Some details...
 
 Some details...
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+**Find her on:**
+[LinkedIn](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
 
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**E-mail:** Dhana.Friedrich [at] mdc-berlin [dot] de
 
   </div>
 </div>
@@ -172,12 +165,10 @@ Some details...
 
 Some details...
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
+**Find her on:**
+[LinkedIn](http://xxx){:target="_blank"}
 
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**E-mail:** Andrea.Grybowski [at] mdc-berlin [dot] de
 
   </div>
 </div>
@@ -191,7 +182,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/regina.jpg" alt="Regina Philipp" class="member-img">
+    <img src="http://i.imgur.com/6ZjK1Hw.jpg?1" alt="Regina Philipp" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -203,12 +194,7 @@ Some details...
 
 Some details...
 
-**Websites:**
-[[LinkedIn]](http://xxx)
-[[Twitter]](http://xxx)
-[[Github]](https://xxx)
-
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**E-mail:**   Regina.Philipp [at] mdc-berlin [dot] de
 
   </div>
 </div>
