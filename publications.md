@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 5
+weight: 1
 ---
 
 <hr/> <!--line separator-->
