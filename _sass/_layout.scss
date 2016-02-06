@@ -194,20 +194,29 @@
 }
 
 .collage-cell-big {  
-    height: 280px;      
-}  
-  
+    height: 190px;      
+} 
+
 .collage-cell-small {  
-    height: 200px;
-    border-bottom: 10px solid $collage-border-color;
+    height: 100px;
 }  
+
+.collage-cell-mid {  
+    height: 150px;    
+    border-bottom: 10px solid $collage-border-color;  
+}   
 
 .collage-cell-left {
     border-left: 10px solid $collage-border-color;
 }
 
-.vid_needs_background {
+.vid_needs_white_background {
     padding-left: 20px !important;
+    background: white;
+}
+
+.vid_needs_black_background {
+    padding-left: 10px !important;
     background: black;
 }
 

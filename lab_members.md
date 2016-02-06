@@ -153,7 +153,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="/assets/andrea.png" alt="Andrea Grybowski" class="member-img">
+    <!-- <img src="" alt="Andrea Grybowski" class="member-img"> -->
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -182,7 +182,7 @@ Some details...
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/6ZjK1Hw.jpg?1" alt="Regina Philipp" class="member-img"/>
+    <!-- <img src="" alt="Regina Philipp" class="member-img"/> -->
   </div>
 
   <div class="col-xs-9" markdown="1">
