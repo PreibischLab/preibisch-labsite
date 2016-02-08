@@ -83,7 +83,7 @@ Ella did her bachelor studies in computationan neuroscience at Bar Ilan Universi
 **Find her on:**
 [Github](https://github.com/bellonet){:target="_blank"}
 
-**E-mail:** XXXXX [at] mdc-berlin [dot] de
+**E-mail:** ella.bahry [at] mdc-berlin [dot] de
 
   </div>
 </div>
