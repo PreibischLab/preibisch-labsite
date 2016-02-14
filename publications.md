@@ -7,7 +7,7 @@ weight: 1
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch*, Carlas Smith*, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015)  
+Stephan Preibisch, Carlas Smith, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015)  
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology 209(4), 609-619.*  
 [Publisher Webpage](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
@@ -44,7 +44,7 @@ Peter Pitrone, Johannes Schindelin, Luke Stuyvenberg, Stephan Preibisch, Michael
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch*, Tobias Pietzsch*, Pavel Tomancak and Stephan Saalfeld* (2012)  
+Stephan Preibisch, Tobias Pietzsch, Pavel Tomancak and Stephan Saalfeld (2012)  
 **ImgLib2 - Generic image processing in Java**  
 *Bioinformatics 2012, 28(22), 3009-3011.*  
 [Publisher Webpage](http://bioinformatics.oxfordjournals.org/content/28/22/3009.long){:target="_blank"},
