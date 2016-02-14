@@ -49,7 +49,7 @@ Some details...
 
 #### Postdoc
 
-Varun graduated his studies of physics and mathematics from Panjab University in India and continued his postgraduate studies at the IMSc, India and the University of Manchester, UK. He did his Phd on laser-atom physics at the MPI-Heidelberg and the University of Rostock. At the end of my PhD he moved to the field of many-electron systems such as DNA and proteins at MPI-Göttingen. While working on entropy computations he implemented a data transformation algorithm which has cross-disciplinary applications. This work formed his current research interest.
+Varun graduated from Panjab University in India specializing in physics and mathematics. He continued his postgraduate studies in theoretical physics at IMSc, India and the University of Manchester, UK with specialization in Quantum Chromodynamics. In his doctoral studies at the University of Rostock, he focused on obtaining atomic dynamics by solving respective PDE's and then moved to MPI in Göttingen focusing on multi-electron systems and biostatistics. Currently he is interested in developing generic algorithms and implementing them in a user-friendly interface to be used as general purpose tools for bio-physical applications.
 
 **Find him on:**
 [Github](https://github.com/kapoorlab){:target="_blank"}
@@ -126,7 +126,7 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/5Vt4bJa.jpg?1" alt="Dhana Friedrich" class="member-img"/>
+    <img src="http://i.imgur.com/BeS9yPC.jpg?1" alt="Dhana Friedrich" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -134,7 +134,9 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 ### Dhana Friedrich
 
-Some details...
+#### Collaborating PhD Student
+
+Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg. Afterwards she graduated with a Diploma in Biochemistry at the Freie Universität Berlin. She did her Diploma thesis at the MDC Berlin, working on p53 signaling dynamics in cancerous and non-cancerous cells. Since 2014 she is working on her phd project at the MDC and the IRI for the Life Sciences (Humboldt University Berlin) to understand the correlation between oscillatory transcription factors and stochastic gene expression, supervised by Alexander Loewer. To address her scientific aims, she is closely collaborating with the Preibisch lab as well as the research groups of Andreas Herrmann (HU) and Amit Meller (Technion, Israel).
 
 **Find her on:**
 [LinkedIn](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
@@ -163,11 +165,6 @@ Some details...
 
 #### Technical Assistants
 
-Some details...
-
-**Find her on:**
-[LinkedIn](http://xxx){:target="_blank"}
-
 **E-mail:** Andrea.Grybowski [at] mdc-berlin [dot] de
 
   </div>
@@ -191,8 +188,6 @@ Some details...
 ### Regina Philipp
 
 #### Administrative Assistant(?)
-
-Some details...
 
 **E-mail:**   Regina.Philipp [at] mdc-berlin [dot] de
 
