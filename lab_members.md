@@ -139,7 +139,8 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg. Afterwards she graduated with a Diploma in Biochemistry at the Freie Universität Berlin. She did her Diploma thesis at the MDC Berlin, working on p53 signaling dynamics in cancerous and non-cancerous cells. Since 2014 she is working on her phd project at the MDC and the IRI for the Life Sciences (Humboldt University Berlin) to understand the correlation between oscillatory transcription factors and stochastic gene expression, supervised by Alexander Loewer. To address her scientific aims, she is closely collaborating with the Preibisch lab as well as the research groups of Andreas Herrmann (HU) and Amit Meller (Technion, Israel).
 
 **Find her on:**
-[LinkedIn](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
+[LinkedIn](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}, 
+[ResearchGate](https://www.researchgate.net/profile/Dhana_Friedrich){:target="_blank"}
 
 **E-mail:** Dhana.Friedrich [at] mdc-berlin [dot] de
 
