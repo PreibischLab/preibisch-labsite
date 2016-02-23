@@ -21,9 +21,9 @@ weight: 2
 Some details...
 
 **Find him on:**
-[LinkedIn](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}, 
 [Twitter](https://twitter.com/preibischs){:target="_blank"}, 
-[Github](https://github.com/StephanPreibisch){:target="_blank"}
+[Github](https://github.com/StephanPreibisch){:target="_blank"}, 
+[LinkedIn](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}
 
 **E-mail:** stephan.preibisch [at] mdc-berlin [dot] de
 
@@ -68,7 +68,7 @@ Varun graduated from Panjab University in India specializing in physics and math
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/MZdqCut.jpg?3" alt="Ella Bahry" class="member-img"/>
+    <img src="http://i.imgur.com/rhYrijS.jpg" alt="Ella Bahry" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -78,7 +78,7 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 #### PhD Student
 
-Ella did her bachelor studies in computationan neuroscience at Bar Ilan University, Israel. She did her master's thesis at the epilepcy center of NYU on analysis of rs-fMRI as part of her neurocognitive psychology master's studies at LMU, Munich.
+Ella did her bachelor studies in computational neuroscience at Bar Ilan University, Israel. She did her master's thesis at the epilepcy center of NYU on analysis of rs-fMRI as part of her neurocognitive psychology master's studies at LMU, Munich.
 
 **Find her on:**
 [Github](https://github.com/bellonet){:target="_blank"}
@@ -97,7 +97,7 @@ Ella did her bachelor studies in computationan neuroscience at Bar Ilan Universi
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/SyMNfAJ.jpg?1" alt="Laura Breimann" class="member-img"/>
+    <img src="http://i.imgur.com/mr8Jp0r.jpg?1" alt="Laura Breimann" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -110,7 +110,7 @@ Ella did her bachelor studies in computationan neuroscience at Bar Ilan Universi
 Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She continued her studies with an M.Sc in Biochemistry at LMU Munich, where she specialised in epigenetics and chromatin biology. She did her master's thesis at the University of Oxford where she used single-molecule FISH techniques to examine transcription in single cells.
 
 **Find her on:**
-[Github](https://xxx){:target="_blank"}
+
 
 **E-mail:** Laura.Breimann [at] mdc-berlin [dot] de
 
@@ -188,7 +188,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 ### Regina Philipp
 
-#### Administrative Assistant(?)
+#### Administrative Assistant
 
 **E-mail:**   Regina.Philipp [at] mdc-berlin [dot] de
 

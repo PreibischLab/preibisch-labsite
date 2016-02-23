@@ -10,7 +10,7 @@ weight: 3
 ###Februar
 
 14 – 17
-Dhana will present her work at the [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel
+Dhana presented her work at the [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel
 
 <hr/> <!--line separator-->
 
