@@ -5,7 +5,6 @@ permalink: /lab_members/
 weight: 2
 ---
 
-
 <div class="row">
 
   <div class="col-xs-3">
