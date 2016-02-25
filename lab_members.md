@@ -109,7 +109,7 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She continued her studies with an M.Sc in Biochemistry at LMU Munich, where she specialised in epigenetics and chromatin biology. She did her master's thesis at the University of Oxford where she used single-molecule FISH techniques to examine transcription in single cells.
 
 **Find her on:**
-
+[ResearchGate](https://www.researchgate.net/profile/Laura_Breimann){:target="_blank"}
 
 **E-mail:** Laura.Breimann [at] mdc-berlin [dot] de
 
