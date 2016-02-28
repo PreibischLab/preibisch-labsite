@@ -25,7 +25,7 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 [Github](https://github.com/StephanPreibisch){:target="_blank"}, 
 [LinkedIn](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}
 
-**Personal Webpage:** [http://www.preibisch.net](http://www.preibisch.net){:target="_blank"}    
+**Personal Webpage:** [http://www.preibisch.net](http://www.preibisch.net){:target="_blank"}  
 **E-mail:** stephan.preibisch [at] mdc-berlin [dot] de
 
   </div>
