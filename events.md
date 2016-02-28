@@ -7,7 +7,7 @@ weight: 3
 
 <hr/> <!--line separator-->
 
-### Februar 2016
+### February 2016
 
 14 – 17  
 Dhana presented her work at the [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel.
@@ -17,7 +17,7 @@ Stephan was invited for an image processing seminar at the [Molecular Biology of
 
 <hr/> <!--line separator-->
 
-### Januar 2016
+### January 2016
 
 18 - 22  
 Laura was at the [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](http://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
