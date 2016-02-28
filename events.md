@@ -44,7 +44,7 @@ Stephan presented his work at the [Biochemistry Department](http://www.bioch.ox.
 ### October 2015
 
 29 - 30  
-Stephan presented the work on lightsheet microscopy reconstruction at the ETH Z&uumlrich [ETH Z&uumlrich](https://www.ethz.ch/){:target="_blank"} in Switzerland.
+Stephan presented the work on lightsheet microscopy reconstruction at the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland.
 
 14 - 16  
 Stephan presented the work on lightsheet microscopy reconstruction and the BigDataViewer at the [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the National Institute of Standards and Technology in Gaithersburg, MD, USA.
