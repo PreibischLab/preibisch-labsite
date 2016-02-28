@@ -17,7 +17,7 @@ weight: 2
 
 #### Principal Investigator
 
-Some details...
+Stephan Preibisch received his master of computer science from the Technical University of Dresden in 2006. During his studies he was working at the Interdisciplinary Center for Bioinformatics in Leipzig developing the 'Hook'-algorithm for the correction of microarray data. He did his PhD at the Max Planck Institute of Molecular Biology and Genetics in Dresden where he designed solutions for the reconstruction of lightsheet microscopy data and the image processing library ImgLib2, which is now part of Fiji and ImageJ2. During his time as bioinformatics specialist at HHMI Janelia (Ashburn, USA) and HFSP fellow at the Albert Einstein College of Medicine (New York) and MPI-CBG (Dresden, Germany) he was developing a complete computational representation of C. elegans dauer exit using a combination of experimental and computational methods. The Preibisch laboratory at the Berlin Institute of Medical Systems Biology of the Max Delbrück Center is now focused on lightsheet microscopy, single-molecule RNA imaging, and image processing, studying the regulation of developmental processes in C. elegans.
 
 **Find him on:**
 [Twitter](https://twitter.com/preibischs){:target="_blank"}, 
