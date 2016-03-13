@@ -159,7 +159,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 <div class="row">
 
   <div class="col-xs-3">
-    <!-- <img src="" alt="Andrea Grybowski" class="member-img"> -->
+    <img src="http://i.imgur.com/cWY0OmC.jpg?1" alt="Andrea Grybowski" class="member-img">
   </div>
 
   <div class="col-xs-9" markdown="1">
