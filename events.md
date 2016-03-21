@@ -5,6 +5,18 @@ permalink: /events/
 weight: 3
 ---
 
+
+<hr/> <!--line separator-->
+
+### March 2016
+
+14 – 16  
+Laura was at the [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html)){:target="_blank"} in Munich, Germany. 
+
+10 – 12  
+Laura attended the [Chromatin Dynamics Symposium](http://www.sfb1064.med.uni-muenchen.de/chromatin_symposium_2016/index.html){:target="_blank"} in Munich, Germany.
+
+
 <hr/> <!--line separator-->
 
 ### February 2016
