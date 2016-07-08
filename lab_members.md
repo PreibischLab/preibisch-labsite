@@ -159,6 +159,36 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 <div class="row">
 
   <div class="col-xs-3">
+    <img src="http://i.imgur.com/4vnYSzs.jpg" alt="Klim Kolyvanov" class="member-img"/>
+  </div>
+
+  <div class="col-xs-9" markdown="1">
+
+### Klim Kolyvanov
+
+#### PhD Student
+
+Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk Polytechnic University, Russia, followed by MSc. in Simulation Sciences at RWTH, Germany. He is passionate about PDEs, image processing and implementation of the related algorithms.
+
+**Find him on:**  
+[<img src="{{ site.baseurl }}/assets/github.png">](https://github.com/milkyklim){:target="_blank"}
+
+**Personal webpage and email:**  
+[<img src="{{ site.baseurl }}/assets/website.png">](http://milkyklim.com){:target="_blank"}
+[<img src="{{ site.baseurl }}/assets/email.png">](mailto:klim.kolyvanov@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
+<div class="row">
+
+  <div class="col-xs-3">
     <img src="http://i.imgur.com/cWY0OmC.jpg?1" alt="Andrea Grybowski" class="member-img">
   </div>
 

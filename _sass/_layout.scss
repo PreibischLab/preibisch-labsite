@@ -13,11 +13,13 @@
 }
 
 .site-title {
+    border-top: 3px solid #467AE2;
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 30px;
-    margin-top: 20px;
+    font-style: bold;
+    padding-top: 30px;
     /*letter-spacing: -1px;*/
-    float: left;
+    text-align: center;
 
     .title-link {
         color: white;
@@ -29,20 +31,19 @@
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: #666666;
     font-size: 18px;
-    padding-top: 65px;
+    padding-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .main-menu {
-    border-top: 3px solid #467AE2;
-    padding-top: 10px;
-    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 
 
 .site-nav {
-
-    float: left !important;
 
     .page-link {
 
@@ -88,7 +89,11 @@
     }
 }
 
-
+.item {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
 
 /**
  * Site footer
@@ -186,60 +191,14 @@
     padding: $spacing-unit 0;
 }
 
-.collage-cell {
-    border-top: 10px solid $collage-border-color;
-    border-right: 10px solid $collage-border-color;
-    overflow: hidden;
-    padding-left: 0px;
-}
 
-.collage-cell-big {  
-    height: 190px;      
-} 
-
-.collage-cell-small {  
-    height: 100px;
-}  
-
-.collage-cell-mid {  
-    height: 150px;    
-    border-bottom: 10px solid $collage-border-color;  
-}   
-
-.collage-cell-left {
-    border-left: 10px solid $collage-border-color;
-}
-
-.vid_needs_white_background {
-    padding-left: 20px !important;
-    background: white;
-}
-
-.vid_needs_black_background {
+.carousel-inner {
     
-    background: black;
 }
 
-.video-title {
-  position: absolute;
-  top: 2;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  font-size: 80%; 
-  color: #00FFFF;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  visibility: hidden;
-  
-
-}
-
-.hover-play:hover .video-title {
-  visibility: visible;
-  opacity: 1;
-}
 
 .page-heading {
+    color: white;
     font-size: 20px;
     font-weight: bold;
 }
@@ -271,7 +230,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1;
 

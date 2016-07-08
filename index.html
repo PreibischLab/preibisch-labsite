@@ -5,115 +5,66 @@ layout: default
 <div class="home">
 
   <div class="row">
+    <div class="col-xs-5">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
 
-      <div class="col-xs-4 collage-cell collage-cell-big collage-cell-left">
-        <a class="hover-play" href="http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2929.html#videos" target="_blank">
-          <video height="180" loop>
-          <source src="assets/1.mp4" type="video/mp4" /></video>
-          <div class="video-title">Deconvolution in <i>C. elegans</i></div>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <a href=""><img src="assets/de.jpg" onmouseover="this.src='assets/de.gif'" onmouseout="this.src='assets/de.jpg'" alt="Chania"></a>
+            <div class="carousel-caption">
+              <h3>Chania</h3>
+              <p>Drosophila embryo</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <a href=""><img src="assets/ce.jpg" onmouseover="this.src='assets/ce.gif'" onmouseout="this.src='assets/ce.jpg'" alt="Chania"></a>
+            <div class="carousel-caption">
+              <h3>Chania</h3>
+              <p>C. elegans nuclei</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <a href=""><img src="assets/decon.jpg" onmouseover="this.src='assets/decon.gif'" onmouseout="this.src='assets/decon.jpg'" alt="Chania"></a>
+            <div class="carousel-caption">
+              <h3>Flowers</h3>
+              <p>Deconvolution</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
         </a>
       </div>
-
-      <div class="col-xs-3 collage-cell collage-cell-big vid_needs_black_background">
-        <a class="hover-play" href="http://bioinformatics.oxfordjournals.org/content/suppl/2012/09/04/bts543.DC1/supplementary_methods.pdf" target="_blank">
-          <video height="165" loop>
-          <source src="assets/2.mp4" type="video/mp4" /></video>
-          <div class="video-title"><i>Drosophila</i> embryo</div>
-        </a>
-      </div>
-
-      <div class="col-xs-2 collage-cell collage-cell-big">
-        <a class="hover-play" href="http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2929.html" target="_blank">
-          <video height="185" loop>
-          <source src="assets/3.mp4" type="video/mp4" /></video>
-          <div class="video-title">&nbsp;Game of Death - &nbsp;ImgLib2 simulation</div>
-        </a>
-      </div>
-      <div class="col-xs-3 collage-cell collage-cell-big">
-        <a class="hover-play" href="http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html" target="_blank">
-          <video height="185" loop>
-          <source src="assets/4.mp4" type="video/mp4" /></video>
-          <div class="video-title">Global optimization of registration</div>
-        </a>
-      </div>
-      
-  </div>
-
-  <div class="row">
-
-      <div class="col-xs-2 collage-cell collage-cell-small collage-cell-left vid_needs_white_background">
-        <a class="hover-play" href="" target="_blank">
-          <video height="90" loop>
-          <source src="assets/5.mp4" type="video/mp4" /></video>
-        </a>
-      </div>
-
-      <div class="col-xs-6 collage-cell collage-cell-small">
-        <a class="hover-play" href="http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2929.html#videos" target="_blank">
-          <video height="90" loop>
-          <source src="assets/6.mp4" type="video/mp4" /></video>
-          <div class="video-title">Deconvolution of simulated dataset</div>
-        </a>
-      </div>
-
-      <div class="col-xs-2 collage-cell collage-cell-small vid_needs_black_background">
-        <a class="hover-play" href="" target="_blank">
-          <video height="90" loop>
-          <source src="assets/7.mp4" type="video/mp4" /></video>
-        </a>
-      </div>
-      <div class="col-xs-2 collage-cell collage-cell-small vid_needs_black_background">
-        <a class="hover-play" href="" target="_blank">
-          <video height="90" loop>
-          <source src="assets/8.mp4" type="video/mp4" /></video>
-        </a>
-      </div>
-  </div>
-
-  <div class="row">
-
-      <div class="col-xs-3 collage-cell collage-cell-mid collage-cell-left vid_needs_black_background">
-        <a class="hover-play" href="" target="_blank">
-          <video height="135" loop>
-          <source src="assets/9.mp4" type="video/mp4" /></video>
-        </a>
-      </div>
-
-      <div class="col-xs-2 collage-cell collage-cell-mid vid_needs_black_background">
-        <a class="hover-play" href="" target="_blank">
-          <video height="135" loop>
-          <source src="assets/10.mp4" type="video/mp4" /></video>
-          <div class="video-title">&nbsp;FISH in <i>C. elegans</i></div>
-        </a>
-      </div>
-
-      <div class="col-xs-3 collage-cell collage-cell-mid">
-        <a class="hover-play" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038011" target="_blank">
-          <video height="164" loop>
-          <source src="assets/11.mp4" type="video/mp4" /></video>
-          <div class="video-title">&nbsp;<i>C. elegans</i> EM reconstruction</div>
-        </a>
-      </div>
-
-      <div class="col-xs-3 collage-cell collage-cell-mid hover-play">
-        <video height="140" loop>
-        <source src="assets/12.mp4" type="video/mp4" /></video>
-      </div>
-      <div class="col-xs-1 collage-cell collage-cell-mid">
-        <a class="hover-play" href="" target="_blank">
-          <video height="160" loop>
-          <source src="assets/13.mp4" type="video/mp4" /></video>
-        </a>
-      </div>
-  </div>
+    </div>
+  
+  <div class="col-xs-7">
 
   </br>
-
   <h1 class="page-heading">Welcome!</h1>
 
   <p>Our lab combines light & electron microscopy, transcription imaging and deep sequencing with computer vision and software development. We develop tools and solutions in order to study and model transcriptional regulation in development using <i>C. elegans</i> and other major model organisms.</p>
   <p>We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.</p>
   <p>Our lab is a part of <a href="https://www.mdc-berlin.de/bimsb" target="_blank">Berlin Institute of Medical System Biology (BIMSB)</a> in <a href="https://www.mdc-berlin.de/en" target="_blank">MDC-Berlin</a>.</p>
+
+  </div>
+  </div>
+
 
   </br>
 
@@ -134,18 +85,15 @@ layout: default
 
   -->
 </div>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="javascripts/bootstrap.min.js"></script>
 <script>
-  $(document).ready(function () {
-      $(".hover-play").hover(function () {
-          $(this).children("video")[0].play();
-      }, function () {
-          var el = $(this).children("video")[0];
-          el.pause();
-          el.currentTime = 0;
-      });
+  $("img").on({
+   "mouseover" : function() {
+      this.src = 'assets/de.gif';
+    },
+    "mouseout" : function() {
+      this.src='assets/de.jpg';
+    }
   });
 </script>
-
