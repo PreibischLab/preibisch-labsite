@@ -6,63 +6,63 @@ layout: default
 
   <div id="intro" class="intro extendfull">
   </br>
-  <div class="row">
-    <div class="col-xs-5">
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
+    <div class="row">
+      <div class="col-xs-5">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+          </ol>
 
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner" role="listbox">
-          <div class="item active">
-            <a href=""><img id="de" src="assets/de.jpg" onmouseover="this.src='assets/de.gif'" onmouseout="this.src='assets/de.jpg'" alt="Chania"></a>
-            <div class="carousel-caption">
-              <p><i>Drosophila</i> embryo</p>
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <a href=""><img id="de" src="assets/de.jpg" onmouseover="this.src='assets/de.gif'" onmouseout="this.src='assets/de.jpg'" alt="Chania"></a>
+              <div class="carousel-caption">
+                <p><i>Drosophila</i> embryo</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <a href=""><img src="assets/ce.jpg" onmouseover="this.src='assets/ce.gif'" onmouseout="this.src='assets/ce.jpg'" alt="Chania"></a>
+              <div class="carousel-caption">
+                <p><i>C. elegans</i> nuclei</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <a href=""><img src="assets/cee.jpg" onmouseover="this.src='assets/cee.gif'" onmouseout="this.src='assets/cee.jpg'" alt="Chania"></a>
+              <div class="carousel-caption">
+                <p><i>C. elegans</i> embryo</p>
+              </div>
             </div>
           </div>
 
-          <div class="item">
-            <a href=""><img src="assets/ce.jpg" onmouseover="this.src='assets/ce.gif'" onmouseout="this.src='assets/ce.jpg'" alt="Chania"></a>
-            <div class="carousel-caption">
-              <p><i>C. elegans</i> nuclei</p>
-            </div>
-          </div>
-
-          <div class="item">
-            <a href=""><img src="assets/cee.jpg" onmouseover="this.src='assets/cee.gif'" onmouseout="this.src='assets/cee.jpg'" alt="Chania"></a>
-            <div class="carousel-caption">
-              <p><i>C. elegans</i> embryo</p>
-            </div>
-          </div>
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
         </div>
-
-        <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
       </div>
+      
+      <div class="col-xs-7 lab-description-section">
+
+        <h4><b>Welcome!</b></h4>
+
+        <p>Our lab combines light & electron microscopy, transcription imaging and deep sequencing with computer vision and software development. We develop tools and solutions in order to study and model transcriptional regulation in development using <i>C. elegans</i> and other major model organisms.</p>
+        <p>We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.</p>
+        <p>Our lab is a part of <a href="https://www.mdc-berlin.de/bimsb" target="_blank">Berlin Institute of Medical System Biology (BIMSB)</a> in <a href="https://www.mdc-berlin.de/en" target="_blank">MDC-Berlin</a>.</p>
+
+      </div>
+
     </div>
-    
-    <div class="col-xs-7 lab-description-section">
-
-      <h4><b>Welcome!</b></h4>
-
-      <p>Our lab combines light & electron microscopy, transcription imaging and deep sequencing with computer vision and software development. We develop tools and solutions in order to study and model transcriptional regulation in development using <i>C. elegans</i> and other major model organisms.</p>
-      <p>We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.</p>
-      <p>Our lab is a part of <a href="https://www.mdc-berlin.de/bimsb" target="_blank">Berlin Institute of Medical System Biology (BIMSB)</a> in <a href="https://www.mdc-berlin.de/en" target="_blank">MDC-Berlin</a>.</p>
-
-    </div>
-
-  </div>
 
   </br>
 
@@ -70,8 +70,13 @@ layout: default
 
   <h1 class="page-heading">Lab Updates:</h1>
 
+  <div class="row">
+
   <ul class="post-list">
+
     {% for post in site.posts %}
+
+    <div class="col-xs-4">
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -79,8 +84,10 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+    </div>
+
     {% endfor %}
-  </ul>
+      </ul>
 
   </br></br></br></br></br></br>
 
