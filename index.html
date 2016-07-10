@@ -17,9 +17,8 @@ layout: default
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <a href=""><img src="assets/de.jpg" onmouseover="this.src='assets/de.gif'" onmouseout="this.src='assets/de.jpg'" alt="Chania"></a>
+            <a href=""><img id="de" src="assets/de.jpg" onmouseover="this.src='assets/de.gif'" onmouseout="this.src='assets/de.jpg'" alt="Chania"></a>
             <div class="carousel-caption">
-              <h3>Chania</h3>
               <p>Drosophila embryo</p>
             </div>
           </div>
@@ -27,16 +26,14 @@ layout: default
           <div class="item">
             <a href=""><img src="assets/ce.jpg" onmouseover="this.src='assets/ce.gif'" onmouseout="this.src='assets/ce.jpg'" alt="Chania"></a>
             <div class="carousel-caption">
-              <h3>Chania</h3>
               <p>C. elegans nuclei</p>
             </div>
           </div>
 
           <div class="item">
-            <a href=""><img src="assets/decon.jpg" onmouseover="this.src='assets/decon.gif'" onmouseout="this.src='assets/decon.jpg'" alt="Chania"></a>
+            <a href=""><img src="assets/cee.jpg" onmouseover="this.src='assets/cee.gif'" onmouseout="this.src='assets/cee.jpg'" alt="Chania"></a>
             <div class="carousel-caption">
-              <h3>Flowers</h3>
-              <p>Deconvolution</p>
+              <p>C. elegans embryo</p>
             </div>
           </div>
         </div>
@@ -53,16 +50,16 @@ layout: default
       </div>
     </div>
   
-  <div class="col-xs-7">
+    <div class="col-xs-7">
 
-  </br>
-  <h1 class="page-heading">Welcome!</h1>
+      </br>
+      <h1 class="page-heading">Welcome!</h1>
 
-  <p>Our lab combines light & electron microscopy, transcription imaging and deep sequencing with computer vision and software development. We develop tools and solutions in order to study and model transcriptional regulation in development using <i>C. elegans</i> and other major model organisms.</p>
-  <p>We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.</p>
-  <p>Our lab is a part of <a href="https://www.mdc-berlin.de/bimsb" target="_blank">Berlin Institute of Medical System Biology (BIMSB)</a> in <a href="https://www.mdc-berlin.de/en" target="_blank">MDC-Berlin</a>.</p>
+      <p>Our lab combines light & electron microscopy, transcription imaging and deep sequencing with computer vision and software development. We develop tools and solutions in order to study and model transcriptional regulation in development using <i>C. elegans</i> and other major model organisms.</p>
+      <p>We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.</p>
+      <p>Our lab is a part of <a href="https://www.mdc-berlin.de/bimsb" target="_blank">Berlin Institute of Medical System Biology (BIMSB)</a> in <a href="https://www.mdc-berlin.de/en" target="_blank">MDC-Berlin</a>.</p>
 
-  </div>
+    </div>
   </div>
 
 
@@ -87,13 +84,3 @@ layout: default
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="javascripts/bootstrap.min.js"></script>
-<script>
-  $("img").on({
-   "mouseover" : function() {
-      this.src = 'assets/de.gif';
-    },
-    "mouseout" : function() {
-      this.src='assets/de.jpg';
-    }
-  });
-</script>
