@@ -191,12 +191,32 @@
     padding: $spacing-unit 0;
 }
 
+.intro {
+    /*background: #666666;*/
+    margin-top: -30px !important;
+    overflow-x: hidden;
+}
+
+/**
+.extendfull, .extendleft
+{
+    padding-left: 3000px;
+    margin-left: -3000px;
+}
+
+.extendfull, .extendright
+{
+    padding-right: 3000px;
+    margin-right: -3000px;
+}
+*/
+
 .carousel-inner {
     background: black;
 }
 
 .carousel .item {
-  height: 300px;
+  height: 280px;
 }
 
 .carousel-inner > .item > img, 
@@ -210,8 +230,11 @@
     margin: auto;
 }
 
+.lab-description-section {
+    padding-top: 5px;
+}
+
 .page-heading {
-    color: white;
     font-size: 20px;
     font-weight: bold;
 }

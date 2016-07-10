@@ -173,7 +173,7 @@
 
 .carousel-indicators {
   position: absolute;
-  bottom: 10px;
+  bottom: 0px !important;
   left: 50%;
   z-index: 15;
   width: 60%;
@@ -219,10 +219,10 @@
   position: absolute;
   left: 15%;
   right: 15%;
-  bottom: 20px;
+  bottom: 15px;
   z-index: 10;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px !important;
   color: $carousel-caption-color;
   text-align: center;
   text-shadow: $carousel-text-shadow;
