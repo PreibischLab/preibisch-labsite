@@ -118,7 +118,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: #FFFFFF;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -177,7 +177,7 @@
     margin-top: 10px;
     margin-bottom: 10px; 
     margin-right: 12px;
-    color: gray; 
+    color: #FFFFFF; 
     font-size: 90%; 
     float: right;
 }
@@ -232,10 +232,6 @@
 
 .lab-description-section {
     padding-top: 5px;
-}
-
-.welcome-title {
-    color: #00589C;
 }
 
 .page-heading {
