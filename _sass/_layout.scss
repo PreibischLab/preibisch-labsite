@@ -4,7 +4,7 @@
 
 .site-header {
     background: black;
-    background: linear-gradient(#1c1c1c, #333333);
+    background: linear-gradient(#003d6d, #00589C);
     border-top: 5px solid $grey-color-dark;
 
     // Positioning context for the mobile navigation icon
@@ -13,7 +13,7 @@
 }
 
 .site-title {
-    border-top: 3px solid #467AE2;
+    border-top: 3px solid #ffffff;
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 30px;
     font-style: bold;
@@ -29,7 +29,7 @@
 
 .expanded-title {
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    color: #666666;
+    color: #FFFFFF;
     font-size: 18px;
     padding-top: 10px;
     margin-bottom: 20px;
@@ -47,7 +47,7 @@
 
     .page-link {
 
-        color: #d1d1d1;
+        color: #FFFFFF;
         line-height: $base-line-height;
         margin-right: 40px;
 
@@ -99,7 +99,7 @@
  * Site footer
  */
 .site-footer {
-    background: linear-gradient(#1c1c1c, #333333);
+    background: linear-gradient(#003d6d, #00589C);
     border-top: 1px solid $grey-color-light;
     padding-top: 10px;
 }
@@ -234,9 +234,14 @@
     padding-top: 5px;
 }
 
+.welcome-title {
+    color: #00589C;
+}
+
 .page-heading {
     font-size: 20px;
     font-weight: bold;
+    color: #00589C;
 }
 
 .post-list {
