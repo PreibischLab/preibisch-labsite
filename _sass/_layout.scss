@@ -9,7 +9,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .site-title {
@@ -17,7 +17,7 @@
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 30px;
     font-style: bold;
-    padding-top: 30px;
+    padding-top: 20px;
     /*letter-spacing: -1px;*/
     text-align: center;
 
@@ -31,17 +31,21 @@
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: #FFFFFF;
     font-size: 18px;
-    padding-top: 10px;
+    padding-top: 5px;
     margin-bottom: 20px;
     text-align: center;
+
+    .title-link {
+        color: white;
+        text-decoration: none;
+    }
 }
 
 .main-menu {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
 }
-
 
 .site-nav {
 
@@ -107,13 +111,18 @@
 .footer-heading {
     color: white;
     font-size: 18px;
-    margin-top: 20px;
-    margin-bottom: $spacing-unit / 2;
+    margin-top: 10px;
+    margin-bottom: $spacing-unit / 4;
 }
 
 .contact-list {
     list-style: none;
     margin-left: 0;
+}
+
+.lab-address {
+    margin-top: 10px;
+    margin-bottom: 0px !important;
 }
 
 .footer-col-wrapper {
@@ -125,7 +134,7 @@
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 10;
     padding-left: $spacing-unit / 2;
 }
 
@@ -174,15 +183,13 @@
 }
 
 .design-cred {
-    margin-top: 10px;
-    margin-bottom: 10px; 
+    margin-top: 5px;
+    margin-bottom: 5px; 
     margin-right: 12px;
-    color: #FFFFFF; 
+    color: #FFFFFF !important; 
     font-size: 90%; 
     float: right;
 }
-
-
 
 /**
  * Page content

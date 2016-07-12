@@ -10,14 +10,17 @@ weight: 3
 ### September 2016
 
 1 – 6  
-Dhana Will attend the SignGene symposium [](http://iplab.dmi.unict.it/miss16/LocalArrangements.htm){:target="_blank"} in Sicily, Italy. 
+Dhana Will attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
 
 ### August 2016
 
+17-XXXX  
+Varun and Klim will attend the sports .....
+
 1 – 6  
-Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/LocalArrangements.htm){:target="_blank"} in Sicily, Italy. 
+Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
 

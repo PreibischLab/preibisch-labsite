@@ -8,7 +8,7 @@ weight: 2
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/U1xTjsJ.png?1" alt="Stephan Preibisch" class="member-img"/>
+    <img src="http://i.imgur.com/J4zjb7R.png" alt="Stephan Preibisch" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -41,7 +41,7 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/GoERyoc.jpg?1" alt="Varun Kapur" class="member-img"/>
+    <img src="http://i.imgur.com/mUxe9VD.jpg" alt="Varun Kapur" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -71,7 +71,7 @@ Varun graduated from Panjab University in India specializing in physics and math
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/rhYrijS.jpg" alt="Ella Bahry" class="member-img"/>
+    <img src="http://i.imgur.com/h4sMUr2.jpg" alt="Ella Bahry" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -100,7 +100,7 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/mr8Jp0r.jpg?1" alt="Laura Breimann" class="member-img"/>
+    <img src="http://i.imgur.com/jlvMGMA.jpg" alt="Laura Breimann" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -129,7 +129,7 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/BeS9yPC.jpg?1" alt="Dhana Friedrich" class="member-img"/>
+    <img src="http://i.imgur.com/YI5I3ls.jpg" alt="Dhana Friedrich" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -159,7 +159,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/4vnYSzs.jpg" alt="Klim Kolyvanov" class="member-img"/>
+    <img src="http://i.imgur.com/6KL6rbH.jpg" alt="Klim Kolyvanov" class="member-img"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -189,7 +189,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 <div class="row">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/cWY0OmC.jpg?1" alt="Andrea Grybowski" class="member-img">
+    <img src="http://i.imgur.com/yi80S2r.jpg" alt="Andrea Grybowski" class="member-img">
   </div>
 
   <div class="col-xs-9" markdown="1">
