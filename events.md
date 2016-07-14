@@ -7,6 +7,13 @@ weight: 3
 
 <hr/> <!--line separator-->
 
+### October 2016
+
+6 – 20  
+We're going to porto rico!!!
+
+<hr/> <!--line separator-->
+
 ### September 2016
 
 1 – 6  
