@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We develop tools and solutions in order to study and model transcriptional regulation in development using C. elegans and other major model organisms.
   We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.
   Our lab is a part of Berlin Institute of Medical System Biology (BIMSB) in MDC-Berlin.
-baseurl: "/preibisch-labsite" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 /**twitter_username: jekyllrb
 ?**github_username:  XXXXX

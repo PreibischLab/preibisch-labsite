@@ -68,28 +68,31 @@ layout: default
 
   </div>
 
-  <h1 class="page-heading">Lab Updates:</h1>
+  <div class="lab-updates extendfull extendright extendleft">
+    </br>
+    <h1 class="page-heading">Lab Updates:</h1>
 
-  <div class="row inline-block-row">
+    <div class="row inline-block-row">
 
-    {% for post in site.posts %}<div class="col-xs-4">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      {% for post in site.posts %}<div class="col-xs-4">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h4 class="post-header-index"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          <h4 class="post-header-index"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
 
-        <div class="post-excerpt-index">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-        {% capture content_words %} 
-        {{ post.content | number_of_words }} 
-        {% endcapture %} 
-        {% capture excerpt_words %} 
-        {{ post.excerpt | number_of_words }} 
-        {% endcapture %} 
-        {% if excerpt_words != content_words %}
-        <a href="{{ post.url }}">Read more</a>
-        {% endif %}</div>
+          <div class="post-excerpt-index">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+          {% capture content_words %} 
+          {{ post.content | number_of_words }} 
+          {% endcapture %} 
+          {% capture excerpt_words %} 
+          {{ post.excerpt | number_of_words }} 
+          {% endcapture %} 
+          {% if excerpt_words != content_words %}
+          <a href="{{ post.url }}">Read more</a>
+          {% endif %}</div>
 
-      </div>{% endfor %}
+        </div>{% endfor %}
 
+    </div>
   </div>
 
 </div>

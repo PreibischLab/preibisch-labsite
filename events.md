@@ -6,22 +6,17 @@ weight: 3
 ---
 
 <hr/> <!--line separator-->
+<br/>
 
-### October 2016
-
-6 – 20  
-We're going to porto rico!!!
-
-<hr/> <!--line separator-->
-
-### September 2016
+#### **September 2016**
 
 1 – 6  
 Dhana Will attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
+<br/>
 
-### August 2016
+#### **August 2016**
 
 17-XXXX  
 Varun and Klim will attend the sports .....
@@ -30,8 +25,9 @@ Varun and Klim will attend the sports .....
 Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
+<br/>
 
-### July 2016
+#### **July 2016**
 
 17-22  
 Varun will attand the [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
@@ -40,8 +36,9 @@ Varun will attand the [International Computer Vision Summer School](http://svg.d
 Stephan gave a talk about lightsheet reconstruction at the EMBO Course [](){:target="_blank"} in Heidelberg, Germany. 
 
 <hr/> <!--line separator-->
+<br/>
 
-### Juni 2016
+#### **June 2016**
 
 27 – 30  
 Stephan gave a talk and a workshop and Ella presented her work in a poster at the Mouse Development Workshop in Janelia, USA. 
@@ -56,8 +53,9 @@ Stephan was at the EU-Life Meeting [](){:target="_blank"} in São Paulo, Brazil.
 The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}, where Ella Presented a poster. 
 
 <hr/> <!--line separator-->
+<br/>
 
-### April 2016
+#### **April 2016**
 
 14 – 16  
 Laura was at the [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
@@ -66,8 +64,9 @@ Laura was at the [International Meeting of the the German Society for Cell Biolo
 Stephan gave a talk at the BioImaging Symposium in Munich, Germany.
 
 <hr/> <!--line separator-->
+<br/>
 
-### March 2016
+#### **March 2016**
 
 14 – 16  
 Laura was at the [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
@@ -77,8 +76,9 @@ Laura attended the [Chromatin Dynamics Symposium](http://www.sfb1064.med.uni-mue
 
 
 <hr/> <!--line separator-->
+<br/>
 
-### February 2016
+#### **February 2016**
 
 14 – 17  
 Dhana presented her work at the [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel.
@@ -87,22 +87,25 @@ Dhana presented her work at the [SignGene Winter School](https://signgene-events
 Stephan was invited for an image processing seminar at the [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} in Paris, France.
 
 <hr/> <!--line separator-->
+<br/>
 
-### January 2016
+#### **January 2016**
 
 18 - 22  
 Laura was at the [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](http://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
 
 <hr/> <!--line separator-->
+<br/>
 
-### December 2015
+#### **December 2015**
 
 01 - 05  
 Laura and Stephan presented at the annual [BIMSB-NYU retreat](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in New York, USA.
 
 <hr/> <!--line separator-->
+<br/>
 
-### November 2015
+#### **November 2015**
 
 23 - 24  
 Stephan was invivted speaker at the [Bioimage Informatics Meeting](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in Paris, France.
@@ -111,8 +114,9 @@ Stephan was invivted speaker at the [Bioimage Informatics Meeting](https://www.m
 Stephan presented his work at the [Biochemistry Department](http://www.bioch.ox.ac.uk){:target="_blank"} in Oxford, UK.
 
 <hr/> <!--line separator-->
+<br/>
 
-### October 2015
+#### **October 2015**
 
 29 - 30  
 Stephan presented the work on lightsheet microscopy reconstruction at the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland.

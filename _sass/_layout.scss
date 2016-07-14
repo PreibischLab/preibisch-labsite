@@ -42,6 +42,7 @@
 }
 
 .main-menu {
+    background: #003662;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
@@ -235,6 +236,23 @@
 
 /******/
 
+
+
+.extendfull, .extendleft
+{
+    padding-left: 3000px;
+    margin-left: -3000px;
+}
+.extendfull, .extendright
+{
+    padding-right: 3000px;
+    margin-right: -3000px;
+}
+
+
+.lab-updates {
+    background: #f6f6f6;
+}
 
 .inline-block-row .col-xs-4 {
     vertical-align: top;
