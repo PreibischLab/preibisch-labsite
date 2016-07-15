@@ -11,18 +11,18 @@ weight: 3
 #### **September 2016**
 
 01 – 06  
-Dhana Will attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
+Dhana Wwill attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
 <br/>
 
 #### **August 2016**
 
-17 – XXXX  
-Varun and Klim will attend the sports .....
+22 – 27  
+Varun and Klim will attend the [Vision and Sports Summer School](http://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
 
 01 – 06  
-Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
+Ella will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
 <br/>
@@ -30,7 +30,7 @@ Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.uni
 #### **July 2016**
 
 17 – 22  
-Varun will attand the [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
+Varun will attend the [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
 
 06 – 09   
 Stephan gave a talk about lightsheet reconstruction at the EMBO Course [](){:target="_blank"} in Heidelberg, Germany. 
@@ -44,13 +44,13 @@ Stephan gave a talk about lightsheet reconstruction at the EMBO Course [](){:tar
 Stephan gave a talk and a workshop and Ella presented her work in a poster at the Mouse Development Workshop in Janelia, USA. 
 
 13 – 17  
-Dana presented her work in a poster at the [](){:target="_blank"} in Boston, USA. 
+Dana presented her work in a poster at the [WHERE](){:target="_blank"} in Boston, USA. 
 
 06 – 11  
 Stephan was at the EU-Life Meeting [](){:target="_blank"} in São Paulo, Brazil. 
 
 01 – 03  
-The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}, where Ella Presented a poster. 
+The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}, where Ella presented a poster. 
 
 <hr/> <!--line separator-->
 <br/>
@@ -100,7 +100,7 @@ Laura was at the [FranceBioimaging Advanced Training (FBIAT) microscopy workshop
 #### **December 2015**
 
 01 – 05  
-Laura and Stephan presented at the annual [BIMSB-NYU retreat](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in New York, USA.
+Laura and Stephan were at the annual [BIMSB-NYU retreat](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in New York, USA.
 
 <hr/> <!--line separator-->
 <br/>
