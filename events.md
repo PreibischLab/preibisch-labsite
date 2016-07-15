@@ -60,7 +60,7 @@ The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/
 14 – 16  
 Laura was at the [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
 
-07 - 08  
+07 – 08  
 Stephan gave a talk at the BioImaging Symposium in Munich, Germany.
 
 <hr/> <!--line separator-->
@@ -91,7 +91,7 @@ Stephan was invited for an image processing seminar at the [Molecular Biology of
 
 #### **January 2016**
 
-18 - 22  
+18 – 22  
 Laura was at the [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](http://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
 
 <hr/> <!--line separator-->
@@ -99,7 +99,7 @@ Laura was at the [FranceBioimaging Advanced Training (FBIAT) microscopy workshop
 
 #### **December 2015**
 
-01 - 05  
+01 – 05  
 Laura and Stephan presented at the annual [BIMSB-NYU retreat](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in New York, USA.
 
 <hr/> <!--line separator-->
@@ -107,10 +107,10 @@ Laura and Stephan presented at the annual [BIMSB-NYU retreat](https://www.mdc-be
 
 #### **November 2015**
 
-23 - 24  
+23 – 24  
 Stephan was invivted speaker at the [Bioimage Informatics Meeting](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in Paris, France.
 
-09 - 10  
+09 – 10  
 Stephan presented his work at the [Biochemistry Department](http://www.bioch.ox.ac.uk){:target="_blank"} in Oxford, UK.
 
 <hr/> <!--line separator-->
@@ -118,10 +118,10 @@ Stephan presented his work at the [Biochemistry Department](http://www.bioch.ox.
 
 #### **October 2015**
 
-29 - 30  
+29 – 30  
 Stephan presented the work on lightsheet microscopy reconstruction at the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland.
 
-14 - 16  
+14 – 16  
 Stephan presented the work on lightsheet microscopy reconstruction and the BigDataViewer at the [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the National Institute of Standards and Technology in Gaithersburg, MD, USA.
 
 
