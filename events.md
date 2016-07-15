@@ -11,7 +11,7 @@ weight: 3
 #### **September 2016**
 
 01 – 06  
-Dhana Wwill attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
+Dhana will attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
 <br/>
@@ -44,7 +44,7 @@ Stephan gave a talk about lightsheet reconstruction at the EMBO Course [](){:tar
 Stephan gave a talk and a workshop and Ella presented her work in a poster at the Mouse Development Workshop in Janelia, USA. 
 
 13 – 17  
-Dana presented her work in a poster at the [WHERE](){:target="_blank"} in Boston, USA. 
+Dhana presented her work in a poster at the [WHERE](){:target="_blank"} in Boston, USA. 
 
 06 – 11  
 Stephan was at the EU-Life Meeting [](){:target="_blank"} in São Paulo, Brazil. 
