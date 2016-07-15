@@ -10,7 +10,7 @@ weight: 3
 
 #### **September 2016**
 
-1 – 6  
+01 – 06  
 Dhana Will attend the SignGene symposium [](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
@@ -18,10 +18,10 @@ Dhana Will attend the SignGene symposium [](){:target="_blank"} in XXXXX.
 
 #### **August 2016**
 
-17-XXXX  
+17 – XXXX  
 Varun and Klim will attend the sports .....
 
-1 – 6  
+01 – 06  
 Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
@@ -29,10 +29,10 @@ Ella Will attend the [Medical Imaging Summer School (MISS)](http://iplab.dmi.uni
 
 #### **July 2016**
 
-17-22  
+17 – 22  
 Varun will attand the [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
 
-6 – 9  
+06 – 09   
 Stephan gave a talk about lightsheet reconstruction at the EMBO Course [](){:target="_blank"} in Heidelberg, Germany. 
 
 <hr/> <!--line separator-->
@@ -46,10 +46,10 @@ Stephan gave a talk and a workshop and Ella presented her work in a poster at th
 13 – 17  
 Dana presented her work in a poster at the [](){:target="_blank"} in Boston, USA. 
 
-6 – 11  
+06 – 11  
 Stephan was at the EU-Life Meeting [](){:target="_blank"} in São Paulo, Brazil. 
 
-1 – 3  
+01 – 03  
 The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}, where Ella Presented a poster. 
 
 <hr/> <!--line separator-->
@@ -60,7 +60,7 @@ The MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/
 14 – 16  
 Laura was at the [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
 
-7-8  
+07 - 08  
 Stephan gave a talk at the BioImaging Symposium in Munich, Germany.
 
 <hr/> <!--line separator-->
@@ -123,4 +123,6 @@ Stephan presented the work on lightsheet microscopy reconstruction at the [ETH Z
 
 14 - 16  
 Stephan presented the work on lightsheet microscopy reconstruction and the BigDataViewer at the [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the National Institute of Standards and Technology in Gaithersburg, MD, USA.
+
+
 
