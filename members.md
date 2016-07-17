@@ -1,14 +1,30 @@
 ---
 layout: page
-title: Lab Members
+title: Members
 permalink: /lab_members/
 weight: 2
 ---
 
-<div class="row">
+
+
+<img src="" class="member-img-small img-stephan" onclick="scroll_down('stephan');"/>
+<img src="" class="member-img-small img-varun" onclick="scroll_down('varun');"/>
+<img src="" class="member-img-small img-ella" onclick="scroll_down('ella');"/>
+<img src="" class="member-img-small img-laura" onclick="scroll_down('laura');"/>
+<img src="" class="member-img-small img-dhana" onclick="scroll_down('dhana');"/>
+<img src="" class="member-img-small img-klim" onclick="scroll_down('klim');"/>
+<img src="" class="member-img-small img-andrea" onclick="scroll_down('andrea');"/>
+
+
+<br/><br/>
+
+---------------------------------------
+<br/>
+
+<div class="row stephan">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/J4zjb7R.png" alt="Stephan Preibisch" class="member-img"/>
+    <img src="" class="member-img img-stephan"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -38,10 +54,10 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 
 <br>
 
-<div class="row">
+<div class="row varun">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/mUxe9VD.jpg" alt="Varun Kapur" class="member-img"/>
+    <img src="" class="member-img img-varun"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -68,10 +84,10 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 <br>
 
-<div class="row">
+<div class="row ella">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/h4sMUr2.jpg" alt="Ella Bahry" class="member-img"/>
+    <img src="" class="member-img img-ella"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -97,10 +113,10 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 
 <br>
 
-<div class="row">
+<div class="row laura">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/jlvMGMA.jpg" alt="Laura Breimann" class="member-img"/>
+    <img src="" class="member-img img-laura"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -126,10 +142,10 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 <br>
 
-<div class="row">
+<div class="row dhana">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/YI5I3ls.jpg" alt="Dhana Friedrich" class="member-img"/>
+    <img src="" class="member-img img-dhana"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -156,10 +172,10 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 <br>
 
-<div class="row">
+<div class="row klim">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/6KL6rbH.jpg" alt="Klim Kolyvanov" class="member-img"/>
+    <img src="" class="member-img img-klim"/>
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -186,10 +202,10 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div class="row">
+<div class="row andrea">
 
   <div class="col-xs-3">
-    <img src="http://i.imgur.com/yi80S2r.jpg" alt="Andrea Grybowski" class="member-img">
+    <img src="" class="member-img img-andrea laa">
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -229,3 +245,21 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 </div>
 
 <br>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>
+$('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
+$('.img-varun').attr({src: "http://i.imgur.com/mUxe9VD.jpg", alt: "Varun Kapoor"});
+$('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
+$('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
+$('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
+$('.img-klim').attr({src: "http://i.imgur.com/6KL6rbH.jpg", alt: "Klim Kolyvanov"});
+$('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
+
+function scroll_down(member_name) {
+      $('html,body').animate({
+        scrollTop: $("."+member_name).offset().top},
+        'slow');
+};
+</script>  
+

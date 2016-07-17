@@ -5,6 +5,9 @@ permalink: /events/
 weight: 3
 ---
 
+<div id="events" markdown="1">
+
+
 <hr/> <!--line separator-->
 <br/>
 
@@ -122,7 +125,18 @@ Stephan presented his work at the [Biochemistry Department](http://www.bioch.ox.
 Stephan presented the work on lightsheet microscopy reconstruction at the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland.
 
 14 – 16  
-Stephan presented the work on lightsheet microscopy reconstruction and the BigDataViewer at the [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the National Institute of Standards and Technology in Gaithersburg, MD, USA.
+Stephan presented the work on lightsheet microscopy reconstruction and the BigDataViewer at the [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the National Institute of Standards and Technology in Gaithersburg, MD, USA.  
+
+</div>
+<div id="future-events">
+</div> 
+<div id="past-events">
+</div>
+
+
+<script>
+var today = new Date().toJSON().slice(0,10);
+</script>
 
 
 

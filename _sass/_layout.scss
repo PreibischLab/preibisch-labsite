@@ -236,8 +236,6 @@
 
 /******/
 
-
-
 .extendfull, .extendleft
 {
     padding-left: 3000px;
@@ -328,6 +326,30 @@
 /********************************************************/
 /*******************Lab Members**************************/
 
+.members-tu {
+    text-align: justify;
+    width: 100px;
+}
+
+.members-tu img {
+    display: block;
+    margin: 0 auto;
+}
+
+.member-img-small {
+
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    padding: 0;
+    margin-left: 20px;
+}
+
 .member-img {
 
     width: 200px;
@@ -339,4 +361,12 @@
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     padding: 0;
+}
+
+/********************************************************/
+/***********************Jobs*****************************/
+
+.jobs-contact a:link {
+    color: black;
+    text-decoration: underline;
 }

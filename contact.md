@@ -18,6 +18,3 @@ Germany, 13125
 
 <a href="#">stephan.preibisch@mdc-berlin.de</a>
 <br><br>
-
-#### Open positions
-For up-to-date oppurtunities for prospective students and postdocs, please contact Dr. Preibisch.
