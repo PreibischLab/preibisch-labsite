@@ -5,6 +5,27 @@ permalink: /publications/
 weight: 1
 ---
 
+<div class="lab-updates extendfull extendright extendleft">
+	<br/>
+	<h4 class="page-heading">Selected Papers:</h4>
+<div markdown="1">
+
+
+<hr/> <!--line separator-->
+
+Stephan Preibisch, Stephan Saalfeld, Johannes Schindelin and Pavel Tomancak (2010)  
+**Software for bead-based registration of selective plane illumination microscopy data**  
+*Nature Methods 7(6), 418-419.*  
+[Publisher Webpage](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"},
+[Overview Supplementary Data](http://www.nature.com/nmeth/journal/v7/n6/suppinfo/nmeth0610-418_S1.html){:target="_blank"}  
+[Optimizer (movie)](http://www.nature.com/nmeth/journal/v7/n6/extref/nmeth0610-418-S5.mov){:target="_blank"}  
+[Drosophila Embryogenesis (movie)](http://www.nature.com/nmeth/journal/v7/n6/extref/nmeth0610-418-S7.mov){:target="_blank"}
+
+
+</div>
+<br/>
+</div>
+
 <hr/> <!--line separator-->
 
 Stephan Preibisch, Carlas Smith, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015)  
@@ -70,16 +91,6 @@ Mohammad Shorif Uddin, Hwee Kuan Lee, Stephan Preibisch and Pavel Tomancak (2011
 **Restoration of Uneven Illumination in Light Sheet Microscopy Images**  
 *Microscopy and Microanalysis 17(4), 607-613.*  
 [Publisher Webpage](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8332640){:target="_blank"}
-
-<hr/> <!--line separator-->
-
-Stephan Preibisch, Stephan Saalfeld, Johannes Schindelin and Pavel Tomancak (2010)  
-**Software for bead-based registration of selective plane illumination microscopy data**  
-*Nature Methods 7(6), 418-419.*  
-[Publisher Webpage](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"},
-[Overview Supplementary Data](http://www.nature.com/nmeth/journal/v7/n6/suppinfo/nmeth0610-418_S1.html){:target="_blank"}  
-[Optimizer (movie)](http://www.nature.com/nmeth/journal/v7/n6/extref/nmeth0610-418-S5.mov){:target="_blank"}  
-[Drosophila Embryogenesis (movie)](http://www.nature.com/nmeth/journal/v7/n6/extref/nmeth0610-418-S7.mov){:target="_blank"}
 
 <hr/> <!--line separator-->
 
