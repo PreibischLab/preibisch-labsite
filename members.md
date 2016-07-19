@@ -6,17 +6,37 @@ weight: 2
 ---
 
 
-
-<img src="" class="member-img-small img-stephan" onclick="scroll_down('stephan');"/>
-<img src="" class="member-img-small img-varun" onclick="scroll_down('varun');"/>
-<img src="" class="member-img-small img-ella" onclick="scroll_down('ella');"/>
-<img src="" class="member-img-small img-laura" onclick="scroll_down('laura');"/>
-<img src="" class="member-img-small img-dhana" onclick="scroll_down('dhana');"/>
-<img src="" class="member-img-small img-klim" onclick="scroll_down('klim');"/>
-<img src="" class="member-img-small img-andrea" onclick="scroll_down('andrea');"/>
-
-
-<br/><br/>
+<div class="sticky-members extendfull extendright extendleft">
+  <div class="member-img-small">
+    <img src="" class="img-stephan" onclick="scrollDown('stephan');" onmouseover="displayName('stephan');" onmouseout="hideName('stephan');"/>
+    <p class="stephan-img-text">Stephan<br/>Preibisch</p>
+  </div>
+  <div class="member-img-small">
+    <img src="" class="img-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
+    <p class="varun-img-text">Varun<br/>Kapoor</p>
+  </div>
+  <div class="member-img-small">
+    <img src="" class="img-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
+    <p class="ella-img-text">Ella<br/>Bahry</p>
+  </div>
+  <div class="member-img-small" >
+    <img src="" class="img-laura" onclick="scrollDown('laura');" onmouseover="displayName('laura');" onmouseout="hideName('laura');"/>
+    <p class="laura-img-text">Laura<br/>Breimann</p>
+  </div>
+  <div class="member-img-small">
+    <img src="" class="img-dhana" onclick="scrollDown('dhana');" onmouseover="displayName('dhana');" onmouseout="hideName('dhana');"/>
+    <p class="dhana-img-text">Dhana<br/>Friedrich</p>
+  </div>
+  <div class="member-img-small">
+    <img src="" class="img-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
+    <p class="klim-img-text">Klim<br/>Kolyvanov</p>
+  </div>
+  <div class="member-img-small">
+    <img src="" class="img-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
+    <p class="andrea-img-text">Andrea<br/>Grybowski</p>
+  </div>
+  <hr/>
+</div>
 
 ---------------------------------------
 <br/>
@@ -256,10 +276,45 @@ $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedri
 $('.img-klim').attr({src: "http://i.imgur.com/6KL6rbH.jpg", alt: "Klim Kolyvanov"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
 
-function scroll_down(member_name) {
-      $('html,body').animate({
-        scrollTop: $("."+member_name).offset().top},
-        'slow');
+function scrollDown(member_name) {
+
+if($(window).scrollTop()>256){  
+  $('html,body').animate({ scrollTop: $("."+member_name).offset().top-150}, 'slow');
+} else {
+  $('html,body').animate({ scrollTop: $("."+member_name).offset().top-300}, 'slow');
+}
+
 };
+
+function displayName(member_name) {
+  $("."+member_name+"-img-text").css({'visibility':'visible'});
+};
+
+function hideName(member_name) {
+  $("."+member_name+"-img-text").css({'visibility':'hidden'});
+};
+
 </script>  
+
+<script>
+$(document).ready(function() {
+  var stickyNavTop = $('.sticky-members').offset().top;
+ 
+  var stickyNav = function(){
+var scrollTop = $(window).scrollTop();
+      
+if (scrollTop > stickyNavTop) { 
+    $('.sticky-members').addClass('sticky');
+} else {
+    $('.sticky-members').removeClass('sticky'); 
+}
+};
+ 
+stickyNav();
+ 
+$(window).scroll(function() {
+  stickyNav();
+});
+});
+</script>
 

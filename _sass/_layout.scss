@@ -238,13 +238,13 @@
 
 .extendfull, .extendleft
 {
-    padding-left: 3000px;
-    margin-left: -3000px;
+    padding-left: 200px;
+    margin-left: -200px;
 }
 .extendfull, .extendright
 {
-    padding-right: 3000px;
-    margin-right: -3000px;
+    padding-right: 200px;
+    margin-right: -200px;
 }
 
 
@@ -326,18 +326,35 @@
 /********************************************************/
 /*******************Lab Members**************************/
 
-.members-tu {
-    text-align: justify;
-    width: 100px;
+.sticky-members {
+    background: white;
 }
 
-.members-tu img {
-    display: block;
-    margin: 0 auto;
+.sticky {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
 }
 
 .member-img-small {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: -200px;
+    padding-bottom: -200px;
+}
 
+.member-img-small p {
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+    visibility: hidden;
+    pointer-events:none; 
+    font-size: 15px;
+}
+
+.member-img-small img {
     width: 100px;
     height: 100px;
     -webkit-border-radius: 100px;
@@ -347,17 +364,17 @@
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     padding: 0;
-    margin-left: 20px;
+    margin-bottom: -20px;
 }
 
-
-img.member-img-small:hover {
+.member-img-small img:hover {
     cursor: pointer;
     opacity: 0.2;
 }
 
-.member-img {
 
+.member-img {
+    margin-left: 10px;
     width: 200px;
     height: 200px;
     -webkit-border-radius: 100px;
