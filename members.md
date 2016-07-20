@@ -1,38 +1,38 @@
 ---
 layout: page
 title: Members
-permalink: /lab_members/
+permalink: /members/
 weight: 2
 ---
 
 
 <div class="sticky-members extendfull extendright extendleft">
   <div class="member-img-small">
-    <img src="" class="img-stephan" onclick="scrollDown('stephan');" onmouseover="displayName('stephan');" onmouseout="hideName('stephan');"/>
+    <img src="" class="img-stephan" id="small-stephan" onclick="scrollDown('stephan');" onmouseover="displayName('stephan');" onmouseout="hideName('stephan');"/>
     <p class="stephan-img-text">Stephan<br/>Preibisch</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
+    <img src="" class="img-varun" id="small-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
     <p class="varun-img-text">Varun<br/>Kapoor</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
+    <img src="" class="img-ella" id="small-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
     <p class="ella-img-text">Ella<br/>Bahry</p>
   </div>
   <div class="member-img-small" >
-    <img src="" class="img-laura" onclick="scrollDown('laura');" onmouseover="displayName('laura');" onmouseout="hideName('laura');"/>
+    <img src="" class="img-laura" id="small-laura" onclick="scrollDown('laura');" onmouseover="displayName('laura');" onmouseout="hideName('laura');"/>
     <p class="laura-img-text">Laura<br/>Breimann</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-dhana" onclick="scrollDown('dhana');" onmouseover="displayName('dhana');" onmouseout="hideName('dhana');"/>
+    <img src="" class="img-dhana" id="small-dhana" onclick="scrollDown('dhana');" onmouseover="displayName('dhana');" onmouseout="hideName('dhana');"/>
     <p class="dhana-img-text">Dhana<br/>Friedrich</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
+    <img src="" class="img-klim" id="small-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
     <p class="klim-img-text">Klim<br/>Kolyvanov</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
+    <img src="" class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
   </div>
   <hr/>
@@ -41,7 +41,7 @@ weight: 2
 ---------------------------------------
 <br/>
 
-<div class="row stephan">
+<div class="row member" id="stephan">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-stephan"/>
@@ -74,7 +74,7 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 
 <br>
 
-<div class="row varun">
+<div class="row member"  id="varun">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-varun"/>
@@ -104,7 +104,7 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 <br>
 
-<div class="row ella">
+<div class="row member"  id="ella">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-ella"/>
@@ -133,7 +133,7 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 
 <br>
 
-<div class="row laura">
+<div class="row member"  id="laura">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-laura"/>
@@ -162,7 +162,7 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 <br>
 
-<div class="row dhana">
+<div class="row member"  id="dhana">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-dhana"/>
@@ -192,7 +192,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 <br>
 
-<div class="row klim">
+<div class="row member"  id="klim">
 
   <div class="col-xs-3">
     <img src="" class="member-img img-klim"/>
@@ -222,10 +222,10 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div class="row andrea">
+<div class="row member" id="andrea">
 
   <div class="col-xs-3">
-    <img src="" class="member-img img-andrea laa">
+    <img src="" class="member-img img-andrea">
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -246,10 +246,9 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div class="row">
+<div class="row member"  id="regina">
 
   <div class="col-xs-3">
-    <!-- <img src="" alt="Regina Philipp" class="member-img"/> -->
   </div>
 
   <div class="col-xs-9" markdown="1">
@@ -267,7 +266,10 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 <br>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <script>
+
+// YOU CAN CHANGE YOUR IMAGE SOURCE HERE:
 $('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
 $('.img-varun').attr({src: "http://i.imgur.com/mUxe9VD.jpg", alt: "Varun Kapoor"});
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
@@ -278,43 +280,59 @@ $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybo
 
 function scrollDown(member_name) {
 
-if($(window).scrollTop()>256){  
-  $('html,body').animate({ scrollTop: $("."+member_name).offset().top-150}, 'slow');
+if($(window).scrollTop() > ($("#stephan").offset().top)){  
+  $('html,body').animate({ scrollTop: $("#"+member_name).offset().top-150}, 'slow');
 } else {
-  $('html,body').animate({ scrollTop: $("."+member_name).offset().top-300}, 'slow');
+  $('html,body').animate({ scrollTop: $("#"+member_name).offset().top-300}, 'slow');
 }
 
 };
 
 function displayName(member_name) {
   $("."+member_name+"-img-text").css({'visibility':'visible'});
+  $("#small-"+member_name).css({'opacity':'0.2'});
 };
 
 function hideName(member_name) {
   $("."+member_name+"-img-text").css({'visibility':'hidden'});
+  $("#small-"+member_name).css({'opacity':'1'});
 };
 
-</script>  
-
-<script>
 $(document).ready(function() {
   var stickyNavTop = $('.sticky-members').offset().top;
  
   var stickyNav = function(){
-var scrollTop = $(window).scrollTop();
+  var scrollTop = $(window).scrollTop();
       
-if (scrollTop > stickyNavTop) { 
-    $('.sticky-members').addClass('sticky');
-} else {
-    $('.sticky-members').removeClass('sticky'); 
-}
-};
- 
-stickyNav();
- 
-$(window).scroll(function() {
+  if (scrollTop > stickyNavTop) { 
+      $('.sticky-members').addClass('sticky');
+  } else {
+      $('.sticky-members').removeClass('sticky'); 
+  }
+  };
+   
   stickyNav();
+   
+  $(window).scroll(function() {
+    stickyNav();
+
+    /* THIS FEATURE IS DISABLED - SHOW NAME WHILE ON PERSON'S DIV
+    $(".member").each(function() { 
+      if ($(window).scrollTop() > $("#"+this.id).offset().top-200) {
+
+        $(".member").each(function() { 
+          hideName(this.id);
+        });
+
+        displayName(this.id);
+      }
+
+    });
+    */
+
+  });
 });
-});
+
+
 </script>
 
