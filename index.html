@@ -7,7 +7,7 @@ layout: default
   <div id="intro" class="intro">
   </br>
     <div class="row">
-      <div class="col-xs-5">
+      <div class="col-md-5">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">
@@ -52,7 +52,7 @@ layout: default
         </div>
       </div>
       
-      <div class="col-xs-7 lab-description-section">
+      <div class="col-md-7 lab-description-section">
 
         <h1 class="page-heading">Welcome!</h1>
 
@@ -74,7 +74,7 @@ layout: default
 
     <div class="row inline-block-row">
 
-      {% for post in site.posts %}<div class="col-xs-4">
+      {% for post in site.posts %}<div class="col-md-4 col-sm-6">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h4 class="post-header-index"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
