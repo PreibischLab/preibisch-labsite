@@ -43,11 +43,11 @@ weight: 2
 
 <div class="row member" id="stephan">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-stephan"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 ### Stephan Preibisch, PhD
 
@@ -76,11 +76,11 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 
 <div class="row member"  id="varun">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-varun"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Varun Kapoor, PhD
@@ -106,11 +106,11 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 <div class="row member"  id="ella">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-ella"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Ella Bahry
@@ -135,11 +135,11 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 
 <div class="row member"  id="laura">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-laura"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Laura Breimann
@@ -164,11 +164,11 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 <div class="row member"  id="dhana">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-dhana"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Dhana Friedrich
@@ -194,11 +194,11 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 <div class="row member"  id="klim">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-klim"/>
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 ### Klim Kolyvanov
 
@@ -224,11 +224,11 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <div class="row member" id="andrea">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
     <img src="" class="member-img img-andrea">
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Andrea Grybowski
@@ -248,10 +248,10 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <div class="row member"  id="regina">
 
-  <div class="col-xs-3">
+  <div class="col-md-3">
   </div>
 
-  <div class="col-xs-9" markdown="1">
+  <div class="col-md-9" markdown="1">
 
 
 ### Regina Philipp
