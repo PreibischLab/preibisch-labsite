@@ -181,8 +181,8 @@
     }
 
     .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
     }
 }
 
@@ -369,8 +369,6 @@
     margin-top: 10px;
     margin-bottom: -200px;
     padding-bottom: -200px;
-
-
 
 }
 
