@@ -299,6 +299,7 @@ function hideName(member_name) {
 };
 
 $(document).ready(function() {
+
   var stickyNavTop = $('.sticky-members').offset().top;
  
   var stickyNav = function(){
