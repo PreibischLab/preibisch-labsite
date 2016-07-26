@@ -4,7 +4,7 @@
 
 .site-header {
     background: black;
-    background: linear-gradient(#003d6d, #00589C);
+    background: linear-gradient($main-color, $main-color-light);
     border-top: 5px solid $grey-color-dark;
 
     // Positioning context for the mobile navigation icon
@@ -42,16 +42,25 @@
 }
 
 .main-menu {
-    background: #003662;
+    background: $main-color-dark;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
+
+    @include media-query($on-laptop) {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
 }
 
 .site-nav {
 
-    .page-link {
+    .menu-icon {
+        display: none;
+        margin-bottom: 5px;
+    }
 
+    .page-link {
         color: #FFFFFF;
         line-height: $base-line-height;
         margin-right: 40px;
@@ -59,10 +68,25 @@
     }
 
     @include media-query($on-laptop) {
+        position: absolute;
         top: 9px;
         right: 30px;
+        background-color: $main-color-dark;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
+        text-align: right;
+        z-index: 100;
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 40px;
+            height: 20px;
+            line-height: 0;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            text-align: center;
+        }
 
         .trigger {
             clear: both;

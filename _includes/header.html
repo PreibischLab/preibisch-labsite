@@ -5,6 +5,10 @@
     <div class="main-menu extendfull extendleft extendright"> 
       <nav class="site-nav">
 
+        <a href="#" class="menu-icon">
+           <span class="glyphicon glyphicon-list" style="color:white" aria-hidden="true"></span>
+        </a>
+
         <div class="trigger">
           {% assign pages = site.pages | sort:"weight"  %}
           {% for page in pages %}
