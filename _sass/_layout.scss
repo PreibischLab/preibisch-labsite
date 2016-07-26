@@ -58,24 +58,11 @@
 
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
+    @include media-query($on-laptop) {
         top: 9px;
         right: 30px;
-        background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-        }
 
         .trigger {
             clear: both;
@@ -238,13 +225,23 @@
 
 .extendfull, .extendleft
 {
-    padding-left: 200px;
-    margin-left: -200px;
+    padding-left: 20%;
+    margin-left: -20%;
+
+    @include media-query($on-laptop) {
+        padding-left: 5%;
+        margin-left: -5%;
+    }
 }
 .extendfull, .extendright
 {
-    padding-right: 200px;
-    margin-right: -200px;
+    padding-right: 20%;
+    margin-right: -20%;
+
+    @include media-query($on-laptop) {
+        padding-right: 5%;
+        margin-right: -5%;
+    }
 }
 
 
