@@ -2,6 +2,11 @@
  * Site header
  */
 
+#page-footer {
+    position:absolute;
+    bottom:0;
+}
+
 .site-header {
     background: black;
     background: linear-gradient($main-color, $main-color-light);
@@ -252,6 +257,7 @@
 {
     padding-left: 18%;
     margin-left: -18%;
+    border-radius: 5px;
 
     @include media-query($on-laptop) {
         padding-left: 1%;
