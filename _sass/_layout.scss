@@ -2,6 +2,10 @@
  * Site header
  */
 
+.body {
+    min-height:100%;
+}
+
 .site-header {
     background: black;
     background: linear-gradient($main-color, $main-color-light);
