@@ -1,11 +1,22 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 250px;
+    min-height: 100%;
+
+    @include media-query($on-laptop) {
+    padding-bottom: 350px;
+    }
+}
+
 /**
  * Site header
  */
-
-#page-footer {
-    position:absolute;
-    bottom:0;
-}
 
 .site-header {
     background: black;
@@ -123,6 +134,10 @@
     background: linear-gradient(#003d6d, #00589C);
     border-top: 1px solid $grey-color-light;
     padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .footer-heading {
@@ -176,6 +191,10 @@
     float: right; 
     height:80px;
     border:0;
+
+    @include media-query($on-laptop) {
+        float: left;
+    }
 }
 
 @include media-query($on-laptop) {
