@@ -254,8 +254,8 @@
 
 .extendfull, .extendleft
 {
-    padding-left: 19%;
-    margin-left: -19%;
+    padding-left: 18%;
+    margin-left: -18%;
 
     @include media-query($on-laptop) {
         padding-left: 1%;
@@ -264,8 +264,8 @@
 }
 .extendfull, .extendright
 {
-    padding-right: 19%;
-    margin-right: -19%;
+    padding-right: 18%;
+    margin-right: -18%;
 
     @include media-query($on-laptop) {
         padding-right: 1%;
