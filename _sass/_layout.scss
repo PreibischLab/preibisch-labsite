@@ -349,6 +349,7 @@
 
 .sticky-members {
     background: white;
+    text-align:center;
 
     @include media-query($on-laptop) {
         visibility: hidden !important;
@@ -358,6 +359,9 @@
 
 .sticky {
   position: fixed;
+  left: 0px;
+  right: 0px;
+  text-align:center;
   top: 0;
   z-index: 100;
   border-top: 0;
@@ -366,10 +370,10 @@
 
 .member-img-small {
     display: inline-block;
+    margin: 10px;
     margin-top: 10px;
     margin-bottom: -200px;
     padding-bottom: -200px;
-
 }
 
 .member-img-small p {
