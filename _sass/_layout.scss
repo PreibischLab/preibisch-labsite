@@ -131,7 +131,7 @@ body {
  * Site footer
  */
 .site-footer {
-    background: linear-gradient(#003d6d, #00589C);
+    background: linear-gradient($main-color, $main-color-light);
     border-top: 1px solid $grey-color-light;
     padding-top: 10px;
     position: absolute;
@@ -263,7 +263,7 @@ body {
 .page-heading {
     font-size: 20px;
     font-weight: bold;
-    color: #00589C;
+    color: $main-color;
 }
 
 .lab-description-section {
