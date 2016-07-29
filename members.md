@@ -57,14 +57,14 @@ weight: 2
 Stephan Preibisch received his master of computer science from the Technical University of Dresden in 2006. During his studies he was working at the Interdisciplinary Center for Bioinformatics in Leipzig developing the 'Hook'-algorithm for the correction of microarray data. He did his PhD at the Max Planck Institute of Molecular Biology and Genetics in Dresden where he designed solutions for the reconstruction of lightsheet microscopy data and the image processing library ImgLib2, which is now part of Fiji and ImageJ2. During his time as bioinformatics specialist at HHMI Janelia (Ashburn, USA) and HFSP fellow at the Albert Einstein College of Medicine (New York) and MPI-CBG (Dresden, Germany) he was developing a complete computational representation of C. elegans dauer exit using a combination of experimental and computational methods. The Preibisch laboratory at the Berlin Institute of Medical Systems Biology of the Max Delbrück Center is now focused on lightsheet microscopy, single-molecule RNA imaging, and image processing, studying the regulation of developmental processes in C. elegans.
 
 **Find him on:**  
-[<img src="" class="img-twitter">](https://twitter.com/preibischs){:target="_blank"}
-[<img src="" class="img-youtube">](https://www.youtube.com/channel/UCUOeVtJdFsOddNJCZGmgm3g){:target="_blank"}
-[<img src="" class="img-github">](https://github.com/StephanPreibisch){:target="_blank"}
-[<img src="" class="img-linkedin">](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}
+[<img class="img-twitter">](https://twitter.com/preibischs){:target="_blank"}
+[<img class="img-youtube">](https://www.youtube.com/channel/UCUOeVtJdFsOddNJCZGmgm3g){:target="_blank"}
+[<img class="img-github">](https://github.com/StephanPreibisch){:target="_blank"}
+[<img class="img-linkedin">](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}
 
 **Personal webpage and email:**  
-[<img src="" class="img-website">](http://www.preibisch.net){:target="_blank"}
-[<img src="" class="img-email">](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"}
+[<img class="img-website">](http://www.preibisch.net){:target="_blank"}
+[<img class="img-email">](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -91,9 +91,9 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 Varun graduated from Panjab University in India specializing in physics and mathematics. He continued his postgraduate studies in theoretical physics at IMSc, India and the University of Manchester, UK with specialization in Quantum Chromodynamics. In his doctoral studies at the University of Rostock, he focused on obtaining atomic dynamics by solving respective PDE's and then moved to MPI in Göttingen focusing on multi-electron systems and biostatistics. Currently he is interested in developing generic algorithms and implementing them in a user-friendly interface to be used as general purpose tools for bio-physical applications.
 
 **Find him on:**
-[<img src="" class="img-github">](https://github.com/kapoorlab){:target="_blank"}
+[<img class="img-github">](https://github.com/kapoorlab){:target="_blank"}
 
-**E-mail:** [<img src="" class="img-email">](mailto:Varun.Kapoor@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto:Varun.Kapoor@mdc-berlin.de){:target="_blank"}
 
 
   </div>
@@ -124,7 +124,7 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 **Find her on:**
 [<img class="img-github">](https://github.com/bellonet){:target="_blank"}
 
-**E-mail:** [<img src="" class="img-email">](mailto:ella.bahry@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto:ella.bahry@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -154,7 +154,7 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 **Find her on:**
 [<img src="" class="img-rg">](https://www.researchgate.net/profile/Laura_Breimann){:target="_blank"}
 
-**E-mail:** [<img src="" class="img-email">](mailto:laura.breimann@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto:laura.breimann@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -185,7 +185,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 [<img src="" class="img-linkedin">](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
 [<img src="" class="img-rg">](https://www.researchgate.net/profile/Dhana_Friedrich){:target="_blank"}
 
-**E-mail:** [<img src="" class="img-email">](mailto:Dhana.Friedrich@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto:Dhana.Friedrich@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -215,8 +215,8 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 [<img src="" class="img-github">](https://github.com/milkyklim){:target="_blank"}
 
 **Personal webpage and email:**  
-[<img src="" class="img-website">](http://milkyklim.com){:target="_blank"}
-[<img src="" class="img-email">](mailto:klim.kolyvanov@mdc-berlin.de){:target="_blank"}
+[<img class="img-website">](http://milkyklim.com){:target="_blank"}
+[<img class="img-email">](mailto:klim.kolyvanov@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -241,7 +241,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 #### Technical Assistants
 
-**E-mail:** [<img src="" class="img-email">](mailto:andrea.grybowski@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto:andrea.grybowski@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -265,7 +265,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 #### Administrative Assistant
 
-**E-mail:** [<img src="" class="img-email">](mailto: Regina.Philipp@mdc-berlin.de){:target="_blank"}
+**E-mail:** [<img class="img-email">](mailto: Regina.Philipp@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
