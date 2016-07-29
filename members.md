@@ -152,7 +152,7 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She continued her studies with an M.Sc in Biochemistry at LMU Munich, where she specialised in epigenetics and chromatin biology. She did her master's thesis at the University of Oxford where she used single-molecule FISH techniques to examine transcription in single cells.
 
 **Find her on:**
-[<img src="" class="img-rg">](https://www.researchgate.net/profile/Laura_Breimann){:target="_blank"}
+[<img class="img-rg">](https://www.researchgate.net/profile/Laura_Breimann){:target="_blank"}
 
 **E-mail:** [<img class="img-email">](mailto:laura.breimann@mdc-berlin.de){:target="_blank"}
 
@@ -182,8 +182,8 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg. Afterwards she graduated with a Diploma in Biochemistry at the Freie Universität Berlin. She did her Diploma thesis at the MDC Berlin, working on p53 signaling dynamics in cancerous and non-cancerous cells. Since 2014 she is working on her phd project at the MDC and the IRI for the Life Sciences (Humboldt University Berlin) to understand the correlation between oscillatory transcription factors and stochastic gene expression, supervised by Alexander Loewer. To address her scientific aims, she is closely collaborating with the Preibisch lab as well as the research groups of Andreas Herrmann (HU) and Amit Meller (Technion, Israel).
 
 **Find her on:**
-[<img src="" class="img-linkedin">](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
-[<img src="" class="img-rg">](https://www.researchgate.net/profile/Dhana_Friedrich){:target="_blank"}
+[<img class="img-linkedin">](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
+[<img class="img-rg">](https://www.researchgate.net/profile/Dhana_Friedrich){:target="_blank"}
 
 **E-mail:** [<img class="img-email">](mailto:Dhana.Friedrich@mdc-berlin.de){:target="_blank"}
 
@@ -212,7 +212,7 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk Polytechnic University, Russia, followed by MSc. in Simulation Sciences at RWTH, Germany. He is passionate about PDEs, image processing and implementation of the related algorithms.
 
 **Find him on:**  
-[<img src="" class="img-github">](https://github.com/milkyklim){:target="_blank"}
+[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
 
 **Personal webpage and email:**  
 [<img class="img-website">](http://milkyklim.com){:target="_blank"}
