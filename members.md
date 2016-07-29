@@ -8,31 +8,31 @@ weight: 2
 
 <div class="sticky-members extendfull extendright extendleft">
   <div class="member-img-small">
-    <img src="" class="img-stephan" id="small-stephan" onclick="scrollDown('stephan');" onmouseover="displayName('stephan');" onmouseout="hideName('stephan');"/>
+    <img class="img-stephan" id="small-stephan" onclick="scrollDown('stephan');" onmouseover="displayName('stephan');" onmouseout="hideName('stephan');"/>
     <p class="stephan-img-text">Stephan<br/>Preibisch</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-varun" id="small-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
+    <img class="img-varun" id="small-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
     <p class="varun-img-text">Varun<br/>Kapoor</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-ella" id="small-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
+    <img class="img-ella" id="small-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
     <p class="ella-img-text">Ella<br/>Bahry</p>
   </div>
   <div class="member-img-small" >
-    <img src="" class="img-laura" id="small-laura" onclick="scrollDown('laura');" onmouseover="displayName('laura');" onmouseout="hideName('laura');"/>
+    <img class="img-laura" id="small-laura" onclick="scrollDown('laura');" onmouseover="displayName('laura');" onmouseout="hideName('laura');"/>
     <p class="laura-img-text">Laura<br/>Breimann</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-dhana" id="small-dhana" onclick="scrollDown('dhana');" onmouseover="displayName('dhana');" onmouseout="hideName('dhana');"/>
+    <img class="img-dhana" id="small-dhana" onclick="scrollDown('dhana');" onmouseover="displayName('dhana');" onmouseout="hideName('dhana');"/>
     <p class="dhana-img-text">Dhana<br/>Friedrich</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-klim" id="small-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
+    <img class="img-klim" id="small-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
     <p class="klim-img-text">Klim<br/>Kolyvanov</p>
   </div>
   <div class="member-img-small">
-    <img src="" class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
+    <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
   </div>
   <hr/>
@@ -41,10 +41,11 @@ weight: 2
 ---------------------------------------
 <br/>
 
-<div class="row member" id="stephan">
+<div id="stephan" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-stephan"/>
+    <img class="member-img img-stephan"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -73,10 +74,11 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 
 <br>
 
-<div class="row member"  id="varun">
+<div id="varun" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-varun"/>
+    <img class="member-img img-varun"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -103,10 +105,11 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 <br>
 
-<div class="row member"  id="ella">
+<div id="ella" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-ella"/>
+    <img class="member-img img-ella"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -119,7 +122,7 @@ Varun graduated from Panjab University in India specializing in physics and math
 Ella did her bachelor studies in computational neuroscience at Bar Ilan University, Israel. She did her master's thesis at the epilepcy center of NYU on analysis of rs-fMRI as part of her neurocognitive psychology master's studies at LMU, Munich.
 
 **Find her on:**
-[<img src="" class="img-github">](https://github.com/bellonet){:target="_blank"}
+[<img class="img-github">](https://github.com/bellonet){:target="_blank"}
 
 **E-mail:** [<img src="" class="img-email">](mailto:ella.bahry@mdc-berlin.de){:target="_blank"}
 
@@ -132,10 +135,11 @@ Ella did her bachelor studies in computational neuroscience at Bar Ilan Universi
 
 <br>
 
-<div class="row member"  id="laura">
+<div id="laura" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-laura"/>
+    <img class="member-img img-laura"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -161,10 +165,11 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 <br>
 
-<div class="row member"  id="dhana">
+<div id="dhana" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-dhana"/>
+    <img class="member-img img-dhana"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -176,7 +181,7 @@ Laura did her B.Sc. in biochemistry at the University of Tübingen, Germany. She
 
 Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg. Afterwards she graduated with a Diploma in Biochemistry at the Freie Universität Berlin. She did her Diploma thesis at the MDC Berlin, working on p53 signaling dynamics in cancerous and non-cancerous cells. Since 2014 she is working on her phd project at the MDC and the IRI for the Life Sciences (Humboldt University Berlin) to understand the correlation between oscillatory transcription factors and stochastic gene expression, supervised by Alexander Loewer. To address her scientific aims, she is closely collaborating with the Preibisch lab as well as the research groups of Andreas Herrmann (HU) and Amit Meller (Technion, Israel).
 
-**Find her on:**  
+**Find her on:**
 [<img src="" class="img-linkedin">](https://de.linkedin.com/in/dhana-friedrich-81882b101){:target="_blank"}
 [<img src="" class="img-rg">](https://www.researchgate.net/profile/Dhana_Friedrich){:target="_blank"}
 
@@ -191,10 +196,11 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 <br>
 
-<div class="row member"  id="klim">
+<div id="klim" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-klim"/>
+    <img class="member-img img-klim"/>
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -221,10 +227,11 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div class="row member" id="andrea">
+<div id="andrea" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
-    <img src="" class="member-img img-andrea">
+    <img class="member-img img-andrea">
   </div>
 
   <div class="col-md-9" markdown="1">
@@ -245,7 +252,8 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div class="row member"  id="regina">
+<div id="regina" class="member"></div>
+<div class="row">
 
   <div class="col-md-3">
   </div>
@@ -289,11 +297,13 @@ $('.img-rg').attr({src: "http://i.imgur.com/HQdLAxp.png", alt: "researchgate"});
 
 function scrollDown(member_name) {
 
-if($(window).scrollTop() > ($("#stephan").offset().top)){  
-  $('html,body').animate({ scrollTop: $("#"+member_name).offset().top-150}, 'slow');
-} else {
-  $('html,body').animate({ scrollTop: $("#"+member_name).offset().top-300}, 'slow');
-}
+  if($(window).scrollTop() > ($("#stephan").offset().top)){  
+    window.location = "/members/#" + member_name;
+    $('html,body').animate({ scrollTop: $("#"+member_name).offset().top+150}, 'slow');
+  } else {
+    window.location = "/members/#" + member_name;
+    $('html,body').animate({ scrollTop: $("#"+member_name).offset().top}, 'slow');
+  }
 
 };
 

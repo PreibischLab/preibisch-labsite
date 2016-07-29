@@ -14,7 +14,7 @@ weight: 3
 #### **September 2016**
 
 01 – 06  
-Dhana @ SignGene symposium [LINK](){:target="_blank"} in XXXXX. 
+<a class="link-dhana">Dhana</a> @ SignGene symposium [LINK](){:target="_blank"} in XXXXX. 
 
 <hr/> <!--line separator-->
 <br/>
@@ -22,7 +22,7 @@ Dhana @ SignGene symposium [LINK](){:target="_blank"} in XXXXX.
 #### **August 2016**
 
 22 – 27  
-Varun and Klim @ [Vision and Sports Summer School](http://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
+<a class="link-varun">Varun</a> and <a class="link-klim">Klim</a>  @ [Vision and Sports Summer School](http://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
 
 01 – 06  
 Ella @ [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
@@ -135,17 +135,14 @@ Stephan @ [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/
 <small>with his talk about the work on lightsheet microscopy reconstruction and the BigDataViewer<small>
 
 
-[Dhana]: http://www.google.com "funny"
-
-</div>
-<div id="future-events">
-</div> 
-<div id="past-events">
-</div>
-
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
-var today = new Date().toJSON().slice(0,10);
+$('.link-stephan').attr("href", "/members#stephan");
+$('.link-varun').attr("href", "/members#varun");
+$('.link-ella').attr("href", "/members#ella");
+$('.link-laura').attr("href", "/members#laura");
+$('.link-dhana').attr("href", "/members#dhana");
+$('.link-klim').attr("href", "/members#klim");
 </script>
 
 

@@ -428,6 +428,12 @@ body {
     cursor: pointer;
 }
 
+.member {
+    display: block;
+    position: relative;
+    top: -300px;
+    visibility: hidden;
+}
 
 .member-img {
     margin-left: 10px;
