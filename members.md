@@ -298,10 +298,10 @@ $('.img-rg').attr({src: "http://i.imgur.com/HQdLAxp.png", alt: "researchgate"});
 function scrollDown(member_name) {
 
   if($(window).scrollTop() > ($("#stephan").offset().top)){  
-    window.location = "/members/#" + member_name;
+    window.location = "{{ site.baseurl }}/members/#" + member_name;
     $('html,body').animate({ scrollTop: $("#"+member_name).offset().top+150}, 'slow');
   } else {
-    window.location = "/members/#" + member_name;
+    window.location = "{{ site.baseurl }}/members/#" + member_name;
     $('html,body').animate({ scrollTop: $("#"+member_name).offset().top}, 'slow');
   }
 

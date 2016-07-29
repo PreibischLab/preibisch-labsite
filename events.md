@@ -137,12 +137,12 @@ Stephan @ [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
-$('.link-stephan').attr("href", "/members#stephan");
-$('.link-varun').attr("href", "/members#varun");
-$('.link-ella').attr("href", "/members#ella");
-$('.link-laura').attr("href", "/members#laura");
-$('.link-dhana').attr("href", "/members#dhana");
-$('.link-klim').attr("href", "/members#klim");
+	$('.link-stephan').attr("href", "{{ site.baseurl }}/members#stephan");
+	$('.link-varun').attr("href", "{{ site.baseurl }}/members#varun");
+	$('.link-ella').attr("href", "{{ site.baseurl }}/members#ella");
+	$('.link-laura').attr("href", "{{ site.baseurl }}/members#laura");
+	$('.link-dhana').attr("href", "{{ site.baseurl }}/members#dhana");
+	$('.link-klim').attr("href", "{{ site.baseurl }}/members#klim");
 </script>
 
 

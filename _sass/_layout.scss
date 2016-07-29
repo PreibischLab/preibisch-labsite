@@ -433,6 +433,10 @@ body {
     position: relative;
     top: -300px;
     visibility: hidden;
+
+    @include media-query($on-laptop) {
+        top: 0px;
+    }
 }
 
 .member-img {
