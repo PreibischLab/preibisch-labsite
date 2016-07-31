@@ -56,8 +56,8 @@ weight: 3
 <a class="link-dhana">Dhana</a> @ [WHERE](){:target="_blank"} in Boston, USA  
 <small>with a poster about "".</small>
 
-06 – 11  
-<a class="link-stephan">Stephan</a> @ EU-Life Meeting [](){:target="_blank"} in São Paulo, Brazil. 
+06 – 10  
+<a class="link-stephan">Stephan</a> @  [EU-Life Meeting](http://eu-life.eu/event/fapespeu-life-symposium-cancer-genomics-inflammation-immunity){:target="_blank"} at [FAPESP](http://www.fapesp.br/){:target="_blank"} in São Paulo, Brazil. 
 
 01 – 03  
 We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}.  
