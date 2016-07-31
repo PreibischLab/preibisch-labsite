@@ -24,6 +24,10 @@ weight: 3
 22 – 27  
 <a class="link-varun">Varun</a> and <a class="link-klim">Klim</a>  @ [Vision and Sports Summer School](http://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
 
+17 - 19
+<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "Lightsheet microscopy"](http://events.embo.org/16-lsm/){:target="_blank"} at the [MPI-CBG](http://www.mpi-cbg.de){:target="_blank"} in Dresden, Germany.   
+<small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
+
 01 – 06  
 <a class="link-ella">Ella</a> @ [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
