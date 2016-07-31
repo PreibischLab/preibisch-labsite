@@ -36,7 +36,7 @@ weight: 3
 <a class="link-varun">Varun</a> @ [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
 
 06 – 08   
-<a class="link-stephan">Stephan</a> @ EMBO Practical Course [](){:target="_blank"} at the [Gulbenkian Institute](http://www.igc.gulbenkian.pt){:target="_blank"} in Oeiras, Portugal.   
+<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "3D developmental imaging"](http://events.embo.org/16-developmental-imaging/){:target="_blank"} at the [Gulbenkian Institute](http://www.igc.gulbenkian.pt){:target="_blank"} in Oeiras, Portugal.   
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 <hr/> <!--line separator-->
