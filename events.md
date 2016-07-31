@@ -72,7 +72,7 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 <a class="link-laura">Laura</a> @ [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
 
 07 – 08  
-Stephan @ the BioImaging Symposium in Munich, Germany.
+<a class="link-stephan">Stephan</a> @ the [BioImaging Symposium](https://www.nano-initiative-munich.de/de/aktuelles/aktuelles/n/bioimaging-symposium/){:target="_blank"} of the LMU Munich, Germany.
 
 <hr/> <!--line separator-->
 <br/>
@@ -91,12 +91,15 @@ Stephan @ the BioImaging Symposium in Munich, Germany.
 
 #### **February 2016**
 
+15 – 18  
+<a class="link-stephan">Stephan</a> @ [Genshagener Kreis](http://www.genshagenerkreis.de/){:target="_blank"} at Schloss Genshagen, Berlin, Germany.  
+
 14 – 17  
 <a class="link-dhana">Dhana</a> @ [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel  
 <small>with her talk "XXXX"</small>
 
 02 – 03  
-<a class="link-stephan">Stephan</a> @ an image processing seminar at the [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} in Paris, France.
+<a class="link-stephan">Stephan</a> @ [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} at the [Institute Pasteur](http://www.pasteur.fr/){:target="_blank"} in Paris, France.
 
 <hr/> <!--line separator-->
 <br/>
@@ -119,7 +122,7 @@ Stephan @ the BioImaging Symposium in Munich, Germany.
 
 #### **November 2015**
 
-23 – 24  
+22 – 24  
 <a class="link-stephan">Stephan</a> @ [Bioimage Informatics Meeting](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in Paris, France.
 
 09 – 10  
@@ -131,13 +134,41 @@ Stephan @ the BioImaging Symposium in Munich, Germany.
 #### **October 2015**
 
 29 – 30  
-<a class="link-stephan">Stephan</a> @ the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland  
-<small>with a talk about lightsheet microscopy reconstruction</small>
+<a class="link-stephan">Stephan</a> @ the [ETH Z&uuml;rich](https://www.ethz.ch/){:target="_blank"} in Switzerland.  
+<small>with a talk about lightsheet microscopy reconstruction.</small>
 
 14 – 16  
-<a class="link-stephan">Stephan</a> @ [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the NIST in Gaithersburg, MD, USA  
-<small>with his talk about the work on lightsheet microscopy reconstruction and the BigDataViewer<small>
+<a class="link-stephan">Stephan</a> @ [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the NIST in Gaithersburg, MD, USA.  
+<small>with his talk about the work on lightsheet microscopy reconstruction and the BigDataViewer.<small>
 
+6 – 7  
+<a class="link-stephan">Stephan</a> @ the annual [BIMSB-MRC retreat](https://www.mdc-berlin.de/45092112/en/research/themes/bimsb/images_and_PDFs/Joint-Retreat-programme-6_7Oct2015.pdf){:target="_blank"} in Berlin, Germany.
+
+<hr/> <!--line separator-->
+<br/>
+
+#### **September 2015**
+
+9 – 11  
+<a class="link-stephan">Stephan</a> @ the [BIMSB retreat](https://www.mdc-berlin.de/45019740/en/research/themes/bimsb/images_and_PDFs/BIMSB_retreat_2015_program.pdf){:target="_blank"} in Lindow, Germany.  
+
+<hr/> <!--line separator-->
+<br/>
+
+#### **July 2015**
+
+12 – 15  
+<a class="link-stephan">Stephan</a> @ the [HFSP Meeting Awardee Meeting](http://www.hfsp.org/awardees/past-awardees-meetings/san-diego-usa-2015){:target="_blank"} at the [Salk Institute](http://www.salk.edu/){:target="_blank"} in San Diego, CA, USA.  
+
+
+<hr/> <!--line separator-->
+<br/>
+
+#### **June 2015**
+
+29 – 3  
+<a class="link-stephan">Stephan</a> organized a Hackathon at the [BIMSB/MDC](http://www.mdc-berlin.de/bimsb){:target="_blank"} in Berlin, Germany.
+<small>The focus of the hackathon was to adapt the [Multiview Reconstruction software](http://imagej.net/Multiview-Reconstruction){:target="_blank"} so it is easier to call it externaly and to introduce more programmers into the general layout and functionality of the software.</small>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
