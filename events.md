@@ -167,7 +167,7 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 #### **June 2015**
 
 29 – 3  
-<a class="link-stephan">Stephan</a> organized a Hackathon at the [BIMSB/MDC](http://www.mdc-berlin.de/bimsb){:target="_blank"} in Berlin, Germany. 
+<a class="link-stephan">Stephan</a> organized a Hackathon at the [BIMSB/MDC](http://www.mdc-berlin.de/bimsb){:target="_blank"} in Berlin, Germany.  
 <small>The focus of the hackathon was to adapt the [Multiview Reconstruction software](http://imagej.net/Multiview-Reconstruction){:target="_blank"} so it is easier to call it externaly and to introduce more programmers into the general layout and functionality of the software.</small>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
