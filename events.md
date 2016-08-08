@@ -12,6 +12,12 @@ weight: 3
 <br/>
 
 #### **September 2016**
+13 – 17  
+<a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor. 
+
+<hr/> <!--line separator-->
+<br/>
+
 
 01 – 06  
 <a class="link-dhana">Dhana</a> @ SignGene symposium [LINK](){:target="_blank"} in XXXXX. 
@@ -68,8 +74,6 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 
 #### **April 2016**
 
-14 – 16  
-<a class="link-laura">Laura</a> @ [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
 
 07 – 08  
 <a class="link-stephan">Stephan</a> @ the [BioImaging Symposium](https://www.nano-initiative-munich.de/de/aktuelles/aktuelles/n/bioimaging-symposium/){:target="_blank"} of the LMU Munich, Germany.
