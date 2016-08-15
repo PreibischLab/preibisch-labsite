@@ -20,7 +20,7 @@ weight: 3
 
 
 01 – 06  
-<a class="link-dhana">Dhana</a> @ SignGene symposium [LINK](){:target="_blank"} in XXXXX. 
+<a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam. 
 
 <hr/> <!--line separator-->
 <br/>
