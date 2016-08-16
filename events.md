@@ -12,7 +12,7 @@ weight: 3
 <br/>
 
 #### **September 2016**
-22 - 25
+22 – 25  
 <a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-dhana">Dhana</a>  @  [MDC/FMP Phd Retreat] (https://phd-retreat.mdc-berlin.de) in Schorfheide {:target="_blank"}.  
 
 13 – 17  
@@ -88,9 +88,9 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 10 – 12  
 <a class="link-laura">Laura</a> @ [Chromatin Dynamics Symposium](http://www.sfb1064.med.uni-muenchen.de/chromatin_symposium_2016/index.html){:target="_blank"} in Munich, Germany.
 
-Feb 27 - Mar 05
-<a class="link-dhana">Dhana</a> @ [SysBio2016 Advanced Lecture Course on Systems Biology] <@ [SignGene Winter School](http://www.sysbio2016.org){:target="_blank"} in Innsbruck, Austria.  
-<small> Poster presentation about experimental and mathematical approaches to correlate transcription factor dynamics and stochastic gene expression. </small>)
+Feb 27 – Mar 05  
+<a class="link-dhana">Dhana</a> @ [SysBio2016 - Advanced Lecture Course on Systems Biology](http://www.sysbio2016.org){:target="_blank"} in Innsbruck, Austria.  
+<small> Poster presentation about experimental and mathematical approaches to correlate transcription factor dynamics and stochastic gene expression. </small>
 
 
 <hr/> <!--line separator-->
