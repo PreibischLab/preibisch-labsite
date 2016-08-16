@@ -12,15 +12,15 @@ weight: 3
 <br/>
 
 #### **September 2016**
+22 - 25
+<a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-dhana">Dhana</a>  @  [MDC/FMP Phd Retreat] (https://phd-retreat.mdc-berlin.de) in Schorfheide {:target="_blank"}.  
+
 13 – 17  
 <a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor. 
 
-<hr/> <!--line separator-->
-<br/>
-
-
 01 – 06  
-<a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam. 
+<a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam, Germany. 
+<small>Short Talk and Poster presentation about p53 dependent gene expression.</small>
 
 <hr/> <!--line separator-->
 <br/>
@@ -59,8 +59,8 @@ weight: 3
 <small>Stephan gave a talk and a workshop and Ella presented her work in a poster.</small>
 
 13 – 17  
-<a class="link-dhana">Dhana</a> @ [WHERE](){:target="_blank"} in Boston, USA  
-<small>with a poster about "".</small>
+<a class="link-dhana">Dhana</a> @ [Systems Biology of Human Disease (SBHD) Conference](){:target="_blank"} at Harvard Medical School in Cambridge/Boston, USA.  
+<small>Poster presentation on p53 signaling dynamics and stochastic gene expression.</small>
 
 06 – 10  
 <a class="link-stephan">Stephan</a> @  [EU-Life Meeting](http://eu-life.eu/event/fapespeu-life-symposium-cancer-genomics-inflammation-immunity){:target="_blank"} at [FAPESP](http://www.fapesp.br/){:target="_blank"} in São Paulo, Brazil. 
@@ -73,7 +73,6 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 <br/>
 
 #### **April 2016**
-
 
 07 – 08  
 <a class="link-stephan">Stephan</a> @ the [BioImaging Symposium](https://www.nano-initiative-munich.de/de/aktuelles/aktuelles/n/bioimaging-symposium/){:target="_blank"} of the LMU Munich, Germany.
@@ -89,6 +88,10 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 10 – 12  
 <a class="link-laura">Laura</a> @ [Chromatin Dynamics Symposium](http://www.sfb1064.med.uni-muenchen.de/chromatin_symposium_2016/index.html){:target="_blank"} in Munich, Germany.
 
+Feb 27 - Mar 05
+<a class="link-dhana">Dhana</a> @ [SysBio2016 Advanced Lecture Course on Systems Biology] <@ [SignGene Winter School](http://www.sysbio2016.org){:target="_blank"} in Innsbruck, Austria.  
+<small> Poster presentation about experimental and mathematical approaches to correlate transcription factor dynamics and stochastic gene expression. </small>)
+
 
 <hr/> <!--line separator-->
 <br/>
@@ -99,8 +102,8 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 <a class="link-stephan">Stephan</a> @ [Genshagener Kreis](http://www.genshagenerkreis.de/){:target="_blank"} at Schloss Genshagen, Berlin, Germany.  
 
 14 – 17  
-<a class="link-dhana">Dhana</a> @ [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel  
-<small>with her talk "XXXX"</small>
+<a class="link-dhana">Dhana</a> @ [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel.  
+<small> Talk about "Building the bridge: From p53 dynamics to stochatic gene expression". </small>
 
 02 – 03  
 <a class="link-stephan">Stephan</a> @ [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} at the [Institute Pasteur](http://www.pasteur.fr/){:target="_blank"} in Paris, France.
