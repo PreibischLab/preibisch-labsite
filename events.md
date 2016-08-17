@@ -13,13 +13,13 @@ weight: 3
 
 #### **September 2016**
 22 – 25  
-<a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-dhana">Dhana</a>  @  [MDC/FMP Phd Retreat] (https://phd-retreat.mdc-berlin.de) in Schorfheide {:target="_blank"}.  
+<a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-dhana">Dhana</a>  @  [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide. 
 
 13 – 17  
 <a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor. 
 
 01 – 06  
-<a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam, Germany. 
+<a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam, Germany.  
 <small>Short Talk and Poster presentation about p53 dependent gene expression.</small>
 
 <hr/> <!--line separator-->
