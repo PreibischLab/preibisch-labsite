@@ -282,7 +282,7 @@ $('.img-varun').attr({src: "http://i.imgur.com/mUxe9VD.jpg", alt: "Varun Kapoor"
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
-$('.img-klim').attr({src: "http://i.imgur.com/GBx0IRv.jpg", alt: "Klim Kolyvanov"});
+$('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
 
 
