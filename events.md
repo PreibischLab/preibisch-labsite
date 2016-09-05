@@ -28,7 +28,7 @@ weight: 3
 #### **August 2016**
 
 31 – 2 Sep  
-<a class="link-stephan">Stephan</a> @ [3rd Light Sheet Fluorescence Microscopy International Conference](http://www.lsfm2016.org/){:target="_blank"} at the [University Sheffield](http://www.mpi-cbg.de){:target="_blank"} in Sheffield, UK.   
+<a class="link-stephan">Stephan</a> @ [3rd Light Sheet Fluorescence Microscopy International Conference](http://www.lsfm2016.org/){:target="_blank"} at the [University Sheffield](http://www.sheffield.ac.uk/){:target="_blank"} in Sheffield, UK.   
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 22 – 27  
