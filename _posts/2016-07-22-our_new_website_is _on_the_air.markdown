@@ -2,7 +2,6 @@
 layout: post
 title:  "Our New Website is on the Air!"
 date:   2016-07-20  
-categories: jekyll update
 ---
 
 Welcome to our new lab website. Where you can learn more about our research and lab-life.
