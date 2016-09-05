@@ -2,7 +2,6 @@
 layout: post
 title:  "EU-Life Course: Biological Image Reconstruction and Analysis"
 date:   2016-09-05    
-categories: jekyll update
 ---
 
 November 14-18th we are organizing the EU-Life Course: "Biological Image Reconstruction and Analysis".
