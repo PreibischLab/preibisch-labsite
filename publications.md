@@ -38,7 +38,7 @@ Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark 
 
 Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)  
 **Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
-*Bioinformatics 2009, 25(11), 1463-1465;*
+*Bioinformatics, 25(11), 1463-1465;*
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
 [PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
 
@@ -49,6 +49,11 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
 <hr/> <!--line separator-->
+
+Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2015)
+**An automated workflow for parallel processing of large multiview SPIM recordings **
+*Bioinformatics 32(7), 1112-1114;*
+[Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
 
 Tobias Pietzsch, Stephan Saalfeld, Stephan Preibisch, Pavel Tomancak (2015)  
 **BigDataViewer: visualization and processing for large image data sets**  
