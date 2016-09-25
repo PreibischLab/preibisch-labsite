@@ -19,5 +19,6 @@ The second paper by Jaroslav Icha is a JoVE video tutorial publication that desc
 &nbsp;&nbsp;&nbsp;**Using Light Sheet Fluorescence Microscopy to Image Zebrafish Eye Development**  
 &nbsp;&nbsp;&nbsp;*Journal of Visualized Experiments (JoVE)* **110**:e53966; [Link to Paper](http://www.jove.com/video/53966/using-light-sheet-fluorescence-microscopy-to-image-zebrafish-eye){:target="_blank"}
 
+The results of the multiview reconstruction speak for themselves:
 ![alt text](http://www.jove.com/files/ftp_upload/53966/53966movie3.jpg "The results of the multiview reconstruction speak for themselves")
 
