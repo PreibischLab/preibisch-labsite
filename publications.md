@@ -6,8 +6,9 @@ weight: 1
 ---
 
 <div class="lab-updates extendfull extendright extendleft">
-	<br/>
-	<h4 class="page-heading">Selected Papers:</h4>
+<br/>
+<h4 class="page-heading">Selected Papers:</h4>
+&#42; indicates co-authorship
 <div markdown="1">
 
 <!-- SELECTED PUBLICATIONS GO HERE -->
@@ -30,17 +31,17 @@ Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. S
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
-**Software for bead-based registration of selective plane illumination microscopy data**  
-*Nature Methods 7(6), 418-419;*
-[Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
-
-<hr/> <!--line separator-->
-
 Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak and Albert Cardona (2012)  
 **Fiji - an open source platform for biological image analysis**  
 *Nature Methods 9(7), 676-682;*
 [Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
+**Software for bead-based registration of selective plane illumination microscopy data**  
+*Nature Methods 7(6), 418-419;*
+[Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
@@ -54,6 +55,7 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 <br/>
 </div>
 
+<h4 class="page-heading">Publications sorted by year:</h4>
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
 <hr/> <!--line separator-->
