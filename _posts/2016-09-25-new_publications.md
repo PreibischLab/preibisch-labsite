@@ -10,8 +10,8 @@ New publications on multiview reconstruction of lightsheet microscopy images.
 We contributed to two new publications dealing with the reconstruction of lightsheet microscopy data. The first paper by Christopher Schmied describes an ImageJ macro based pipeline for the registration and deconvolution of massive lightsheet datasets using our [Multiview Reconstruction software](http://imagej.net/Multiview-Reconstruction){:target="_blank"} on a computing cluster:
 
 <sub>
-Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)  
-**An automated workflow for parallel processing of large multiview SPIM recordings**  
+Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)<br/>
+**An automated workflow for parallel processing of large multiview SPIM recordings**<br/>
 *Bioinformatics* **32**(7), 1112-1114; [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
 </sub>
 
