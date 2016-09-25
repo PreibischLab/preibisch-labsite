@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Video tutorial: sample-based registration"
-date:   2016-09-05    
+date:   2016-09-25    
 ---
 
 New video tutorial on sample-based registration using the Multiview Reconstruction.
