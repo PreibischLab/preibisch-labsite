@@ -50,8 +50,8 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
 <hr/> <!--line separator-->
 
-Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2015)
-**An automated workflow for parallel processing of large multiview SPIM recordings **
+Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2015)  
+**An automated workflow for parallel processing of large multiview SPIM recordings**
 *Bioinformatics 32(7), 1112-1114;*
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
 
