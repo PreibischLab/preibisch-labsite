@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-&#42; indicates co-authorship  
+&#42; indicates cofirst-authorship  
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -13,7 +13,7 @@ weight: 1
 
 <!-- SELECTED PUBLICATIONS GO HERE -->
 
-Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
+Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015) 
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology* **209**(4), 609-619;
 [Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
@@ -21,7 +21,7 @@ Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd St
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers and Pavel Tomancak (2014)  
+Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers, Pavel Tomancak (2014)  
 **Efficient Bayesian-based multiview deconvolution**   
 *Nature Methods* **11**(6), 645-648;
 [Link to Paper](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2929.html){:target="_blank"},
@@ -29,26 +29,25 @@ Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. S
 
 <hr/> <!--line separator-->
 
-Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak and Albert Cardona (2012)  
+Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak, Albert Cardona (2012)  
 **Fiji - an open source platform for biological image analysis**  
 *Nature Methods* **9**(7), 676-682;
 [Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
+Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin, Pavel Tomancak (2010)  
 **Software for bead-based registration of selective plane illumination microscopy data**  
 *Nature Methods* **7**(6), 418-419;
 [Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)  
+Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)  
 **Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
 *Bioinformatics* **25**(11), 1463-1465;
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
 [PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
-
 </div>
 <br/>
 </div>
@@ -72,7 +71,7 @@ Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel 
 
 <hr/> <!--line separator-->
 
-Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
+Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015) 
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology* **209**(4), 609-619;
 [Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
@@ -87,7 +86,7 @@ Tobias Pietzsch, Stephan Saalfeld, Stephan Preibisch, Pavel Tomancak (2015)
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers and Pavel Tomancak (2014)  
+Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers, Pavel Tomancak (2014)  
 **Efficient Bayesian-based multiview deconvolution**   
 *Nature Methods* **11**(6), 645-648;
 [Link to Paper](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2929.html){:target="_blank"},
@@ -102,14 +101,14 @@ Florian Jug, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2014)
 
 <hr/> <!--line separator-->
 
-Peter Pitrone, Johannes Schindelin, Luke Stuyvenberg, Stephan Preibisch, Michael Weber, Kevin W. Eliceiri, Jan Huisken and Pavel Tomancak (2013)  
+Peter Pitrone, Johannes Schindelin, Luke Stuyvenberg, Stephan Preibisch, Michael Weber, Kevin W. Eliceiri, Jan Huisken, Pavel Tomancak (2013)  
 **OpenSPIM - an open access platform for light sheet microscopy**  
 *Nature Methods* **10**(7), 598-599;
 [Link to Paper](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2507.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Tobias Pietzsch, Pavel Tomancak and Stephan Saalfeld (2012)  
+Tobias Pietzsch&#42;, Stephan Preibisch&#42;, Pavel Tomancak, Stephan Saalfeld&#42; (2012)  
 **ImgLib2 - Generic image processing in Java**  
 *Bioinformatics* **28**(22), 3009-3011;
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/28/22/3009.long){:target="_blank"},
@@ -117,28 +116,28 @@ Stephan Preibisch, Tobias Pietzsch, Pavel Tomancak and Stephan Saalfeld (2012)
 
 <hr/> <!--line separator-->
 
-Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak and Albert Cardona (2012)  
+Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak, Albert Cardona (2012)  
 **Fiji - an open source platform for biological image analysis**  
 *Nature Methods* **9**(7), 676-682;
 [Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Albert Cardona, Stephan Saalfeld, Johannes Schindelin, Ignacio Arganda-Carreras, Stephan Preibisch, Mark Longair, Pavel Tomancak, Volker Hartenstein and Rodney Douglas (2012)  
+Albert Cardona, Stephan Saalfeld, Johannes Schindelin, Ignacio Arganda-Carreras, Stephan Preibisch, Mark Longair, Pavel Tomancak, Volker Hartenstein, Rodney Douglas (2012)  
 **TrakEM2 software for neural circuit reconstruction**  
 *PLoS One* **7**(6), e38011;
 [Link to Paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0038011){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Mohammad Shorif Uddin, Hwee Kuan Lee, Stephan Preibisch and Pavel Tomancak (2011)  
+Mohammad Shorif Uddin, Hwee Kuan Lee, Stephan Preibisch, Pavel Tomancak (2011)  
 **Restoration of Uneven Illumination in Light Sheet Microscopy Images**  
 *Microscopy and Microanalysis* **17**(4), 607-613;
 [Link to Paper](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8332640){:target="_blank"}
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
+Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin, Pavel Tomancak (2010)  
 **Software for bead-based registration of selective plane illumination microscopy data**  
 *Nature Methods* **7**(6), 418-419;
 [Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
@@ -159,7 +158,7 @@ Fernando-Carrillo Österreich, Stephan Preibisch, Karla Neugebauer (2010)
 
 <hr/> <!--line separator-->
 
-Albert Cardona, Stephan Saalfeld, Stephan Preibisch, Benjamin Schmid, Pavel Tomancak, Anchi Cheng, Jim Pulokas, and Volker Hartenstein (2010)  
+Albert Cardona, Stephan Saalfeld, Stephan Preibisch, Benjamin Schmid, Pavel Tomancak, Anchi Cheng, Jim Pulokas, Volker Hartenstein (2010)  
 **An integrated micro- and macroarchitectural analysis of the Drosophila brain by computer-assisted serial section electron microscopy**  
 *PLoS Biology* **8**(10), e1000502;
 [Link to Paper](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000502){:target="_blank"}
@@ -173,7 +172,7 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)  
+Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)  
 **Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
 *Bioinformatics* **25**(11), 1463-1465;
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
@@ -181,7 +180,7 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 
 <hr/> <!--line separator-->
 
-Hans Binder and Stephan Preibisch (2008)     
+Hans Binder, Stephan Preibisch (2008)     
 **"Hook"-calibration of GeneChip-microarrays: Theory and algorithm**  
 *Algorithms for Molecular Biology* **3**:11;
 [Link to Paper](http://almob.biomedcentral.com/articles/10.1186/1748-7188-3-12){:target="_blank"}, 
@@ -189,7 +188,7 @@ Hans Binder and Stephan Preibisch (2008)
 
 <hr/> <!--line separator-->
 
-Hans Binder, Knut Krohn and Stephan Preibisch (2008)  
+Hans Binder, Knut Krohn, Stephan Preibisch (2008)  
 **"Hook"-calibration of GeneChip-microarrays: Chip characteristics and expression measures**   
 *Algorithms for Molecular Biology* **3**:12;
 [Link to Paper](http://almob.biomedcentral.com/articles/10.1186/1748-7188-3-11){:target="_blank"}, 
@@ -197,7 +196,7 @@ Hans Binder, Knut Krohn and Stephan Preibisch (2008)
 
 <hr/> <!--line separator-->
 
-Hans Binder and Stephan Preibisch (2006)  
+Hans Binder, Stephan Preibisch (2006)  
 **GeneChip microarrays-signal intensities, RNA concentrations and probe sequences.**  
 *Journal of Physics: Condensed Matter* **18**(18), 537-566;
 [Link to Paper](http://iopscience.iop.org/article/10.1088/0953-8984/18/18/S04/meta;jsessionid=41B33BA35E060256533A5AEEBD17E2CC.c1.iopscience.cld.iop.org){:target="_blank"}, 
@@ -205,7 +204,7 @@ Hans Binder and Stephan Preibisch (2006)
 
 <hr/> <!--line separator-->
 
-Hans Binder and Stephan Preibisch (2005).  
+Hans Binder, Stephan Preibisch (2005).  
 **Specific and non specific hybridization of oglionucleotide probes on microarrays.**  
 *Biophysical Journal* **89**(1), 337-352;
 [Link to Paper](http://www.cell.com/biophysj/abstract/S0006-3495(05)72684-9){:target="_blank"}, 
@@ -213,7 +212,7 @@ Hans Binder and Stephan Preibisch (2005).
 
 <hr/> <!--line separator-->
 
-Hans Binder, Stephan Preibisch and Toralf Kirsten (2005).  
+Hans Binder, Stephan Preibisch, Toralf Kirsten (2005).  
 **Base pair interactions and hybridization isotherms of matched and mismatched  oligonucleotide probes on microarrays.**  
 *Langmuir* **21**(20), 9287-9302;
 [Link to Paper](http://pubs.acs.org/doi/abs/10.1021/la051231s){:target="_blank"}, 
