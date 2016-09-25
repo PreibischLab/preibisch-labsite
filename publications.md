@@ -6,9 +6,9 @@ weight: 1
 ---
 
 <div class="lab-updates extendfull extendright extendleft">
+&#42; indicates co-authorship  
 <br/>
 <h4 class="page-heading">Selected Publications:</h4>
-&#42; indicates co-authorship
 <div markdown="1">
 
 <!-- SELECTED PUBLICATIONS GO HERE -->
@@ -54,6 +54,8 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 </div>
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
+
+
 
 <h4 class="page-heading">Publications sorted by year:</h4>
 
