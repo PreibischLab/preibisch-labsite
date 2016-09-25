@@ -14,7 +14,7 @@ weight: 1
 
 <hr/> <!--line separator-->
 
-Carlas Smith&#215;, Stephan Preibisch&#215;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
+Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology 209(4), 609-619;*
 [Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
@@ -22,7 +22,7 @@ Carlas Smith&#215;, Stephan Preibisch&#215;, Aviva Joseph, Bernd Rieger, Sjoerd 
 
 <hr/> <!--line separator-->
 
-Stephan Preibisch, Stephan Saalfeld, Johannes Schindelin and Pavel Tomancak (2010)  
+Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
 **Software for bead-based registration of selective plane illumination microscopy data**  
 *Nature Methods 7(6), 418-419;*
 [Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
@@ -33,6 +33,14 @@ Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark 
 **Fiji - an open source platform for biological image analysis**  
 *Nature Methods 9(7), 676-682;*
 [Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)  
+**Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
+*Bioinformatics 2009, 25(11), 1463-1465;*
+[Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
+[PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
 
 </div>
 <br/>
@@ -118,14 +126,6 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 **Planar cell polarity signalling regulates cell adhesion properties in progenitors of the zebrafish laterality organ**  
 *Development 137(20), 3459-3468;*
 [Link to Paper](http://dev.biologists.org/content/137/20/3459.long){:target="_blank"}
-
-<hr/> <!--line separator-->
-
-Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)  
-**Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
-*Bioinformatics 2009, 25(11), 1463-1465;*
-[Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
-[PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
 
 <hr/> <!--line separator-->
 
