@@ -11,9 +11,9 @@ We contributed to two new publications dealing with the reconstruction of lights
 
 <sub>
 <span style="line-height: 0.8;">
-&nspb;&nspb;&nspb;Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)<br/>
-&nspb;&nspb;&nspb;**An automated workflow for parallel processing of large multiview SPIM recordings**<br/>
-&nspb;&nspb;&nspb;*Bioinformatics* **32**(7), 1112-1114; [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
+&nbsp;&nbsp;&nbsp;Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)<br/>
+&nbsp;&nbsp;&nbsp;**An automated workflow for parallel processing of large multiview SPIM recordings**<br/>
+&nbsp;&nbsp;&nbsp;*Bioinformatics* **32**(7), 1112-1114; [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
 </span>
 </sub>
 
