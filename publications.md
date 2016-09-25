@@ -53,10 +53,10 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 <br/>
 </div>
 
+<!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
+
 <h4 class="page-heading">Publications sorted by year:</h4>
 
-<!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
-<hr/> <!--line separator-->
 
 Jaroslav Icha, Christopher Schmied, Jaydeep Sidhaye, Pavel Tomancak, Stephan Preibisch, Caren Norden (2016)  
 **Using Light Sheet Fluorescence Microscopy to Image Zebrafish Eye Development**  
