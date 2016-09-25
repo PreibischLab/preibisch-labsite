@@ -7,13 +7,11 @@ weight: 1
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
-<h4 class="page-heading">Selected Papers:</h4>
+<h4 class="page-heading">Selected Publications:</h4>
 &#42; indicates co-authorship
 <div markdown="1">
 
 <!-- SELECTED PUBLICATIONS GO HERE -->
-
-<hr/> <!--line separator-->
 
 Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
