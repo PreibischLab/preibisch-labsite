@@ -22,6 +22,14 @@ Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd St
 
 <hr/> <!--line separator-->
 
+Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers and Pavel Tomancak (2014)  
+**Efficient Bayesian-based multiview deconvolution**   
+*Nature Methods 11(6), 645-648;*
+[Link to Paper](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2929.html){:target="_blank"},
+[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153441){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Stephan Preibisch&#42;, Stephan Saalfeld&#42;, Johannes Schindelin and Pavel Tomancak (2010)  
 **Software for bead-based registration of selective plane illumination microscopy data**  
 *Nature Methods 7(6), 418-419;*
@@ -68,14 +76,6 @@ Tobias Pietzsch, Stephan Saalfeld, Stephan Preibisch, Pavel Tomancak (2015)
 **BigDataViewer: visualization and processing for large image data sets**  
 *Nature Methods 12(6), 481-483;*
 [Link to Paper](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3392.html){:target="_blank"}
-
-<hr/> <!--line separator-->
-
-Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. Singer, Eugene Myers and Pavel Tomancak (2014)  
-**Efficient Bayesian-based multiview deconvolution**   
-*Nature Methods 11(6), 645-648;*
-[Link to Paper](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2929.html){:target="_blank"},
-[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153441){:target="_blank"}
 
 <hr/> <!--line separator-->
 
