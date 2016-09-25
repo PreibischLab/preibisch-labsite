@@ -14,11 +14,25 @@ weight: 1
 
 <hr/> <!--line separator-->
 
+Carlas Smith*, Stephan Preibisch*, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
+**Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
+*Journal of Cell Biology 209(4), 609-619;*
+[Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
+[PDF](http://jcb.rupress.org/content/209/4/609.full.pdf){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Stephan Preibisch, Stephan Saalfeld, Johannes Schindelin and Pavel Tomancak (2010)  
 **Software for bead-based registration of selective plane illumination microscopy data**  
 *Nature Methods 7(6), 418-419;*
 [Link to Paper](http://www.nature.com/nmeth/journal/v7/n6/full/nmeth0610-418.html){:target="_blank"}
 
+<hr/> <!--line separator-->
+
+Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak and Albert Cardona (2012)  
+**Fiji - an open source platform for biological image analysis**  
+*Nature Methods 9(7), 676-682;*
+[Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
 
 </div>
 <br/>
@@ -26,14 +40,6 @@ Stephan Preibisch, Stephan Saalfeld, Johannes Schindelin and Pavel Tomancak (201
 
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
-<hr/> <!--line separator-->
-
-Stephan Preibisch, Carlas Smith, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015)  
-**Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
-*Journal of Cell Biology 209(4), 609-619;*
-[Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
-[PDF](http://jcb.rupress.org/content/209/4/609.full.pdf){:target="_blank"}
-
 <hr/> <!--line separator-->
 
 Tobias Pietzsch, Stephan Saalfeld, Stephan Preibisch, Pavel Tomancak (2015)  
@@ -70,13 +76,6 @@ Stephan Preibisch, Tobias Pietzsch, Pavel Tomancak and Stephan Saalfeld (2012)
 *Bioinformatics 2012, 28(22), 3009-3011;*
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/28/22/3009.long){:target="_blank"},
 [PDF](http://bioinformatics.oxfordjournals.org/content/28/22/3009.full.pdf){:target="_blank"}
-
-<hr/> <!--line separator-->
-
-Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak and Albert Cardona (2012)  
-**Fiji - an open source platform for biological image analysis**  
-*Nature Methods 9(7), 676-682;*
-[Link to Paper](http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2019.html){:target="_blank"}
 
 <hr/> <!--line separator-->
 
