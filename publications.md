@@ -13,7 +13,7 @@ weight: 1
 
 <!-- SELECTED PUBLICATIONS GO HERE -->
 
-Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015) 
+Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015)  
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology* **209**(4), 609-619;
 [Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
@@ -71,7 +71,7 @@ Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel 
 
 <hr/> <!--line separator-->
 
-Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015) 
+Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer, David Grunwald (2015)  
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology* **209**(4), 609-619;
 [Link to Paper](http://jcb.rupress.org/content/209/4/609){:target="_blank"},
