@@ -50,10 +50,19 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
 <hr/> <!--line separator-->
 
-Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2015)  
+Jaroslav Icha, Christopher Schmied, Jaydeep Sidhaye, Pavel Tomancak, Stephan Preibisch, Caren Norden (2016)  
+**Using Light Sheet Fluorescence Microscopy to Image Zebrafish Eye Development**  
+*Journal of Visualized Experiments (JoVE) 110:e53966;*
+[Link to Paper](http://www.jove.com/video/53966/using-light-sheet-fluorescence-microscopy-to-image-zebrafish-eye){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)  
 **An automated workflow for parallel processing of large multiview SPIM recordings**  
 *Bioinformatics 32(7), 1112-1114;*
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
+
+<hr/> <!--line separator-->
 
 Tobias Pietzsch, Stephan Saalfeld, Stephan Preibisch, Pavel Tomancak (2015)  
 **BigDataViewer: visualization and processing for large image data sets**  
