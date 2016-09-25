@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-
 &#42; indicates co-authorship  
 
 <div class="lab-updates extendfull extendright extendleft">
@@ -56,10 +55,8 @@ Stephan Preibisch, Stephan Saalfeld and Pavel Tomancak (2009)
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
 
-
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
-
 
 Jaroslav Icha, Christopher Schmied, Jaydeep Sidhaye, Pavel Tomancak, Stephan Preibisch, Caren Norden (2016)  
 **Using Light Sheet Fluorescence Microscopy to Image Zebrafish Eye Development**  
@@ -74,6 +71,7 @@ Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel 
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/32/7/1112){:target="_blank"}
 
 <hr/> <!--line separator-->
+
 Carlas Smith&#42;, Stephan Preibisch&#42;, Aviva Joseph, Bernd Rieger, Sjoerd Stallinga, Eugene Myers, Robert H. Singer and David Grunwald (2015) 
 **Nuclear accessibility of β-actin mRNA measured by 3D single-molecule real time (3D-SMRT) microscopy**  
 *Journal of Cell Biology* **209**(4), 609-619;
