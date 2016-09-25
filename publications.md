@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-&#42; indicates cofirst-authorship  
+&#42; indicates co-first authorship  
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -49,7 +49,6 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
 [PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
 </div>
-<br/>
 </div>
 
 <!-- ALL OTHER PAPERS (NOT "SELECTED PUBLICATIONS") -->
