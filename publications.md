@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-journal publication, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#17008b;">book chapter</span>; &#42; indicates co-first authorship 
+journal publication, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#8b0017;">book chapter</span>; &#42; indicates co-first authorship 
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -200,7 +200,7 @@ in *SPIE Medical Imaging 2009: Image Processing* **7259**(72592S), 1-10;
 
 <hr/> <!--line separator-->
 
-<span style="color:#17008b;">
+<span style="color:#8b0017;">
 Hans Binder, Stephan Preibisch, Hilmar Berger (2009)  
 **Calibration of microarray gene-expression data**  
 in *Methods in Molecular Medicine: Cancer gene profiling, Methods and Protocols*, ISBN:978-1-934115-76-3;
