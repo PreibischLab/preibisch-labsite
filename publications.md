@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-&#42; indicates co-first authorship  
+&#42; indicates co-first authorship, <span style="color:#585858;">conference proceeding</span>,<span style="color:#17008b;">book chapter</span>  
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -172,7 +172,7 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 
 <hr/> <!--line separator-->
 
-<span style="color:#ffffff;">
+<span style="color:#585858;">
 Stephan Preibisch, Pavel Tomancak, Stephan Saalfeld (2010)  
 **Into ImgLib – Generic Image Processing in Java**  
 in *ImageJ User and Developer Conference 2010*, 72-76;
@@ -182,19 +182,23 @@ in *ImageJ User and Developer Conference 2010*, 72-76;
 
 <hr/> <!--line separator-->
 
+<span style="color:#17008b;">
 Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)  
 **Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
 *Bioinformatics* **25**(11), 1463-1465;
 [Link to Paper](http://bioinformatics.oxfordjournals.org/content/25/11/1463.abstract){:target="_blank"},
 [PDF](http://bioinformatics.oxfordjournals.org/content/early/2009/04/03/bioinformatics.btp184.full.pdf){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
+<span style="color:#585858;">
 Stephan Preibisch, Stephan Saalfeld, Torsten Rohlfing, Pavel Tomancak (2009)  
 **Bead-based mosaicing of single plane illumination microscopy images using geometric local descriptor matching**  
 in *SPIE Medical Imaging 2009: Image Processing* **7259**(72592S), 1-10;
 [Link to Paper](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335480){:target="_blank"},
 [PDF]({{ site.baseurl }}/assets/spie2009_beads.pdf){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
@@ -205,6 +209,7 @@ in *Methods in Molecular Medicine: Cancer gene profiling, Methods and Protocols*
 
 <hr/> <!--line separator-->
 
+<span style="color:#585858;">
 Stephan Preibisch, Radoslav Ejsmont, Torsten Rohlfing, Pavel Tomancak (2008)  
 **Towards Digital Representation of Drosophila Embryogenesis**  
 in *IEEE Biomedical Imaging: From Nano to Macro* **5**, 324-327;
@@ -219,11 +224,14 @@ in *SPIE Medical Imaging 2008: Image Processing* **6914**(69140E), 1-8;
 [Link to Paper](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=827745){:target="_blank"},
 [PDF]({{ site.baseurl }}/assets/spim_congeal_2008.pdf){:target="_blank"}
 
+<hr/> <!--line separator-->
+
 Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2008)  
 **Fast Stitching of Large 3D Biological Datasets**  
 in *ImageJ User and Developer Conference 2008*, 72-76;
 [Link to Website](http://imagejconf.tudor.lu/archive/imagej-user-and-developer-conference-2008){:target="_blank"}, 
 [PDF]({{ site.baseurl }}/assets/imagejpaper2008.pdf){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
