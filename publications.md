@@ -180,6 +180,13 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 
 <hr/> <!--line separator-->
 
+Hans Binder, Stephan Preibisch, Hilmar Berger (2009)  
+**Calibration of microarray gene-expression data**  
+in *Methods in Molecular Medicine: Cancer gene profiling, Methods and Protocols*, ISBN:978-1-934115-76-3;
+[Link to Book](http://www.springer.com/us/book/9781934115763){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Hans Binder, Stephan Preibisch (2008)     
 **"Hook"-calibration of GeneChip-microarrays: Theory and algorithm**  
 *Algorithms for Molecular Biology* **3**:11;
