@@ -94,10 +94,12 @@ Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. S
 
 <hr/> <!--line separator-->
 
+<span style="color:#b9b500;">
 Florian Jug, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2014)  
 **Bioimage Informatics in the context of Drosophila research**  
 *Methods* **68**(1), 60-73;
 [Link to Paper](http://www.sciencedirect.com/science/article/pii/S1046202314001480){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
@@ -276,6 +278,3 @@ Hans Binder, Stephan Preibisch, Toralf Kirsten (2005).
 *Langmuir* **21**(20), 9287-9302;
 [Link to Paper](http://pubs.acs.org/doi/abs/10.1021/la051231s){:target="_blank"}, 
 [PDF](http://fly.mpi-cbg.de/~preibisch/pubs/base_pair.pdf){:target="_blank"}
-
-
-
