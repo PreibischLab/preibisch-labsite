@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-&#42; indicates co-first authorship, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#17008b;">book chapter</span>  
+&#42; indicates co-first authorship; <span style="color:#178b00;">conference proceeding</span>, <span style="color:#17008b;">book chapter</span>, journal publication  
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -215,17 +215,21 @@ Stephan Preibisch, Radoslav Ejsmont, Torsten Rohlfing, Pavel Tomancak (2008)
 in *IEEE Biomedical Imaging: From Nano to Macro* **5**, 324-327;
 [Link to Paper](http://ieeexplore.ieee.org/document/4540998/?arnumber=4540998){:target="_blank"},
 [PDF]({{ site.baseurl }}/assets/ISBI_2008.pdf){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
+<span style="color:#178b00;">
 Stephan Preibisch, Torsten Rohlfing, Michael Hasak, Pavel Tomancak (2008)  
 **Mosaicing of Single Plane Illumination Microscopy Images Using Groupwise Registration and Fast Content-Based Image Fusion**  
 in *SPIE Medical Imaging 2008: Image Processing* **6914**(69140E), 1-8;
 [Link to Paper](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=827745){:target="_blank"},
 [PDF]({{ site.baseurl }}/assets/spim_congeal_2008.pdf){:target="_blank"}
+</span>
 
 <hr/> <!--line separator-->
 
+<span style="color:#178b00;">
 Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2008)  
 **Fast Stitching of Large 3D Biological Datasets**  
 in *ImageJ User and Developer Conference 2008*, 72-76;
