@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-journal publication, <span style="color:#b9b500;">review</span>, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#8b0017;">book chapter</span>; &#42; indicates co-first authorship 
+journal publication, <span style="color:#cc9900;">review</span>, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#8b0017;">book chapter</span>; &#42; indicates co-first authorship 
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
@@ -94,7 +94,7 @@ Stephan Preibisch, Fernando Amat, Evangelia Stamataki, Mihail Sarov, Robert H. S
 
 <hr/> <!--line separator-->
 
-<span style="color:#b9b500;">
+<span style="color:#cc9900;">
 Florian Jug, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2014)  
 **Bioimage Informatics in the context of Drosophila research**  
 *Methods* **68**(1), 60-73;
