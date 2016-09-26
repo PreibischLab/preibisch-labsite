@@ -172,7 +172,7 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 
 <hr/> <!--line separator-->
 
-<span style="color:orange;">
+<span style="color:#333333;">
 Stephan Preibisch, Pavel Tomancak, Stephan Saalfeld (2010)  
 **Into ImgLib – Generic Image Processing in Java**  
 in *ImageJ User and Developer Conference 2010*, 72-76;
