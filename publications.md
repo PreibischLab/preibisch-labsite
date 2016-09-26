@@ -172,6 +172,13 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 
 <hr/> <!--line separator-->
 
+Stephan Preibisch, Pavel Tomancak, Stephan Saalfeld (2010)  
+**Into ImgLib – Generic Image Processing in Java**  
+in *ImageJ User and Developer Conference 2010*, 72-76;
+[PDF](){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)  
 **Globally Optimal Stitching of Tiled 3D Microscopic Image Acquisitions**  
 *Bioinformatics* **25**(11), 1463-1465;
