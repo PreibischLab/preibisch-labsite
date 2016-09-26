@@ -175,6 +175,7 @@ Pablo Oteiza, Mathias Koeppen, Michael Krieg, Eduardo Pulgar, Cecilia Farias, Cr
 Stephan Preibisch, Pavel Tomancak, Stephan Saalfeld (2010)  
 **Into ImgLib – Generic Image Processing in Java**  
 in *ImageJ User and Developer Conference 2010*, 72-76;
+[Link to Website](http://imagejconf.tudor.lu/archive/imagej-user-and-developer-conference-2010){:target="_blank"}, 
 [PDF]({{ site.baseurl }}/assets/imagejpaper2010.pdf){:target="_blank"}
 
 <hr/> <!--line separator-->
@@ -187,10 +188,40 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 
 <hr/> <!--line separator-->
 
+Stephan Preibisch, Stephan Saalfeld, Torsten Rohlfing, Pavel Tomancak (2009)  
+**Bead-based mosaicing of single plane illumination microscopy images using geometric local descriptor matching**  
+in *SPIE Medical Imaging 2009: Image Processing* **7259**(72592S), 1-10;
+[Link to Paper](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335480){:target="_blank"},
+[PDF]({{ site.baseurl }}/assets/spie2009_beads.pdf){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Hans Binder, Stephan Preibisch, Hilmar Berger (2009)  
 **Calibration of microarray gene-expression data**  
 in *Methods in Molecular Medicine: Cancer gene profiling, Methods and Protocols*, ISBN:978-1-934115-76-3;
 [Link to Book](http://www.springer.com/us/book/9781934115763){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+Stephan Preibisch, Radoslav Ejsmont, Torsten Rohlfing, Pavel Tomancak (2008)  
+**Towards Digital Representation of Drosophila Embryogenesis**  
+in *IEEE Biomedical Imaging: From Nano to Macro* **5**, 324-327;
+[Link to Paper](http://ieeexplore.ieee.org/document/4540998/?arnumber=4540998){:target="_blank"},
+[PDF]({{ site.baseurl }}/assets/ISBI_2008.pdf){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+Stephan Preibisch, Torsten Rohlfing, Michael Hasak, Pavel Tomancak (2008)  
+**Mosaicing of Single Plane Illumination Microscopy Images Using Groupwise Registration and Fast Content-Based Image Fusion**  
+in *SPIE Medical Imaging 2008: Image Processing* **6914**(69140E), 1-8;
+[Link to Paper](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=827745){:target="_blank"},
+[PDF]({{ site.baseurl }}/assets/spim_congeal_2008.pdf){:target="_blank"}
+
+Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2008)  
+**Fast Stitching of Large 3D Biological Datasets**  
+in *ImageJ User and Developer Conference 2008*, 72-76;
+[Link to Website](http://imagejconf.tudor.lu/archive/imagej-user-and-developer-conference-2008){:target="_blank"}, 
+[PDF]({{ site.baseurl }}/assets/imagejpaper2008.pdf){:target="_blank"}
 
 <hr/> <!--line separator-->
 
