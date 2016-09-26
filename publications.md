@@ -4,8 +4,7 @@ title: Publications
 permalink: /publications/
 weight: 1
 ---
-journal publication, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#17008b;">book chapter</span>  
-&#42; indicates co-first authorship 
+journal publication, <span style="color:#178b00;">conference proceeding</span>, <span style="color:#17008b;">book chapter</span>; &#42; indicates co-first authorship 
 
 <div class="lab-updates extendfull extendright extendleft">
 <br/>
