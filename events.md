@@ -12,7 +12,7 @@ weight: 3
 
 #### **October 2016**
 
-09.09 – 11.10  
+09 Sep – 11  
 <a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
 
 03 
