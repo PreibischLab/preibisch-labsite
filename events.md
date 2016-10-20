@@ -25,7 +25,7 @@ weight: 3
 <a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-dhana">Dhana</a>  @  [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide. 
 
 13 – 17  
-<a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor. 
+<a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor.   
 <small>Poster presentation on role of chromosome condensation on RNA Pol II and transcription.</small>
 
 09 – 11 Oct  
