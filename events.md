@@ -15,7 +15,7 @@ weight: 3
 09 Sep – 11  
 <a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
 
-03 - 04
+03
 <a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](http://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
 
 
