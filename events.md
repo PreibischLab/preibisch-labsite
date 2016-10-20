@@ -7,6 +7,17 @@ weight: 3
 
 <div id="events" markdown="1">
 
+<hr/> <!--line separator-->
+<br/>
+
+#### **October 2016**
+
+09.09 – 11.10  
+<a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
+
+03 
+<a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](http://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
+
 
 <hr/> <!--line separator-->
 <br/>
@@ -17,6 +28,7 @@ weight: 3
 
 13 – 17  
 <a class="link-laura">Laura</a> @ [CSH Epigenetics & Chromatin conference](https://meetings.cshl.edu/meetings.aspx?meet=EPICH&year=16){:target="_blank"} in Cold Spring Harbor. 
+<small>Poster presentation on role of chromosome condensation on RNA Pol II and transcription.</small>
 
 01 – 06  
 <a class="link-dhana">Dhana</a> @ [SignGene Symposium](https://www.mdc-berlin.de/46286373/de/training/phd_program/SignGene/Scientific_Events/7_Potsdam_2016){:target="_blank"} in Potsdam, Germany.  
