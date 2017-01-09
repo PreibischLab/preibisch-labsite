@@ -13,7 +13,7 @@ weight: 3
 #### **January 2017**
 
 
-08-13
+08-13  
 <a class="link-klim">Klim</a> & <a class="link-ella">Ella</a> @ Computer Sceince & Engeneering Computer Vision School [CSE](http://www.as.huji.ac.il/cse){:target="_blank"} at the Hebrew University in Jerusalem, Israel. 
 
 
@@ -23,7 +23,7 @@ weight: 3
 #### **December 2016**
 
 
-05-16
+05-16  
 <a class="link-klim">Klim</a> @ MPI-CBG Hackathon [hackDD16](https://twitter.com/hashtag/hackDD16?src=hash){:target="_blank"} in Dresden. 
 
 
