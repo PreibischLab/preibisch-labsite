@@ -14,7 +14,7 @@ weight: 3
 
 
 08-13  
-<a class="link-klim">Klim</a> & <a class="link-ella">Ella</a> @ Computer Sceince & Engineering Computer Vision School [CSE](http://www.as.huji.ac.il/cse){:target="_blank"} at the Hebrew University in Jerusalem, Israel. 
+<a class="link-klim">Klim</a> & <a class="link-ella">Ella</a> @ Computer Science & Engineering Computer Vision School [CSE](http://www.as.huji.ac.il/cse){:target="_blank"} at the Hebrew University in Jerusalem, Israel. 
 
 
 <hr/> <!--line separator-->
