@@ -16,6 +16,10 @@ weight: 2
     <p class="varun-img-text">Varun<br/>Kapoor</p>
   </div>
   <div class="member-img-small">
+    <img class="img-nikita" id="small-nikita" onclick="scrollDown('nikita');" onmouseover="displayName('nikita');" onmouseout="hideName('nikita');"/>
+    <p class="nikita-img-text">Nikita<br/>Vladimirov</p>
+  </div>
+  <div class="member-img-small">
     <img class="img-ella" id="small-ella" onclick="scrollDown('ella');" onmouseover="displayName('ella');" onmouseout="hideName('ella');"/>
     <p class="ella-img-text">Ella<br/>Bahry</p>
   </div>
@@ -103,6 +107,37 @@ Varun graduated from Panjab University in India specializing in physics and math
 
 ---------------------------------------
 
+<br>
+
+<div id="nikita" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-nikita"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+
+### Nikita Vladimirov, PhD
+
+#### Postdoc
+
+Nikita graduated from Novosibirsk State University in mathematics (Monte-Carlo methods) and did his PhD thesis at the University of Heidelberg in computational biology where he worked on modeling of bacterial chemotaxis. He did a postdoc at IBM Watson Research Center in computational neuroscience, and a postdoc at Janelia Research Campus in light-sheet microscopy and zebrafish live brain imaging. He is passionate about applying mathematics, physics, and engineering in biology. He is currently working on light-sheet microscopy with adaptive optics for imaging living organisms in optically anisotropic mounting media.
+
+**Find him on:**
+[<img class="img-linkedin">](https://www.linkedin.com/in/nikita-vladimirov-13260388){:target="_blank"}
+[<img class="img-twitter">](https://twitter.com/nvladimus){:target="_blank"}
+
+**E-mail:** [<img class="img-email">](mailto:Nikita.Vladimirov@mdc-berlin.de){:target="_blank"}
+
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
 <br>
 
 <div id="ella" class="member"></div>
@@ -279,6 +314,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 // YOU CAN CHANGE YOUR IMAGE SOURCE HERE:
 $('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
 $('.img-varun').attr({src: "http://i.imgur.com/mUxe9VD.jpg", alt: "Varun Kapoor"});
+$('.img-nikita').attr({src: "http://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimirov"});
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
