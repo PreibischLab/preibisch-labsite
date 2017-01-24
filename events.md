@@ -29,7 +29,7 @@ weight: 3
 <a class="link-klim">Klim</a> @ MPI-CBG Hackathon [hackDD16](https://twitter.com/hashtag/hackDD16?src=hash){:target="_blank"} in Dresden. 
 
 05 – 16  
-<a class="link-stephan">Stephan</a> @ [9th Annual NYU Developmental Genetics Symposium](http://biology.as.nyu.edu/object/biology.events.dg2016){:target="_blank"} in New York, USA. 
+<a class="link-stephan">Stephan</a> @ [9th Annual NYU Developmental Genetics Symposium](http://biology.as.nyu.edu/object/biology.events.dg2016){:target="_blank"} in New York, USA.   
 <small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 <hr/> <!--line separator-->
