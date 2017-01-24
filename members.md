@@ -126,8 +126,9 @@ Varun graduated from Panjab University in India specializing in physics and math
 Nikita graduated from Novosibirsk State University in mathematics (Monte-Carlo methods) and did his PhD thesis at the University of Heidelberg in computational biology where he worked on modeling of bacterial chemotaxis. He did a postdoc at IBM Watson Research Center in computational neuroscience, and a postdoc at Janelia Research Campus in light-sheet microscopy and zebrafish live brain imaging. He is passionate about applying mathematics, physics, and engineering in biology. He is currently working on light-sheet microscopy with adaptive optics for imaging living organisms in optically anisotropic mounting media.
 
 **Find him on:**
-[<img class="img-linkedin">](https://www.linkedin.com/in/nikita-vladimirov-13260388){:target="_blank"}
+[<img class="img-scholar">](https://scholar.google.com/citations?user=Hn77cHEAAAAJ&hl=en){:target="_blank"}
 [<img class="img-twitter">](https://twitter.com/nvladimus){:target="_blank"}
+[<img class="img-linkedin">](https://www.linkedin.com/in/nikita-vladimirov-13260388){:target="_blank"}
 
 **E-mail:** [<img class="img-email">](mailto:Nikita.Vladimirov@mdc-berlin.de){:target="_blank"}
 
@@ -329,6 +330,7 @@ $('.img-linkedin').attr({src: "http://i.imgur.com/rRWygl5.png", alt: "linkedin"}
 $('.img-website').attr({src: "http://i.imgur.com/65OpIvc.png", alt: "website"});
 $('.img-email').attr({src: "http://i.imgur.com/ctzrCqr.png", alt: "email"});
 $('.img-rg').attr({src: "http://i.imgur.com/HQdLAxp.png", alt: "researchgate"});
+$('.img-scholar').attr({src: "http://imgur.com/1p3CcvJ.jpg", alt: "google-scholar"});
 
 
 function scrollDown(member_name) {
