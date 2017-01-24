@@ -4,9 +4,8 @@ title:  "New publications: lightsheet image reconstruction"
 date:   2016-09-25    
 ---
 
-New publications on multiview reconstruction of lightsheet microscopy images.
+New publications on multiview reconstruction of lightsheet microscopy images.  
 
- 
 We contributed to two new publications dealing with the reconstruction of lightsheet microscopy data. The first paper by Christopher Schmied describes an ImageJ macro based pipeline for the registration and deconvolution of massive lightsheet datasets using our [Multiview Reconstruction software](http://imagej.net/Multiview-Reconstruction){:target="_blank"} on a computing cluster:
 
 &nbsp;&nbsp;&nbsp;Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak (2016)<br/>
