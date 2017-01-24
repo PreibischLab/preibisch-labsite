@@ -35,6 +35,16 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+#### **November 2016**
+
+
+14 - 18  
+The Preibisch and Woehler lab organized the first [EU-Life Course on Biological Image Reconstruction and Analysis](http://bioimage2016.mdc-berlin.de){:target="_blank"} at the MDC Berlin, Germany.   
+<small>25 selected international students experienced a week full of exciting presentations and hands-on workshops by internationally renowned experts in the field of image analysis.</small>
+
+<hr/> <!--line separator-->
+<br/>
+
 #### **October 2016**
 
 
