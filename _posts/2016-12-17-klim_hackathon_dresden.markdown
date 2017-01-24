@@ -8,4 +8,4 @@ Klim just cam back for the [Hackathon](http://imagej.net/2016-12-20_-_Fiji_%2B_K
 
 20 coders invested their time in two weeks of insane afternoon coding sessions followed by the social events. 
 
-During the Hackathon Klim pushed forward the Fiji plugin development for the calculation of radial symmetry centers and picked up some tricks for tracking using [MaMuT](http://imagej.net/MaMuT){:target="_blank"}.
+During the Hackathon Klim pushed forward the Fiji plugin development for the calculation of radial symmetry centers and picked up some tricks for cell-tracking using [MaMuT](http://imagej.net/MaMuT){:target="_blank"}.
