@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nikita Vladimirov has Joined Our Lab!"
+title:  "Nikita Vladimirov Has Joined Our Lab!"
 date:   2017-01-24    
 ---
 
