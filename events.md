@@ -10,6 +10,13 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+#### **February 2017**
+
+26 – 03 
+<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbour. Poster on presentation on p53 single celldynamics in response to genotoxic stress and it impact on target gene expression.
+<hr/> <!--line separator-->
+<br/>
+
 #### **January 2017**
 
 27 – 29  
