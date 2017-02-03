@@ -7,13 +7,20 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **March 2017**
+
+05 – 07
+<a class="link-dhana">Dhana</a>  @  SignGene Winter School (https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel. Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.
+<hr/> <!--line separator-->
+<br/>
+
 <hr/> <!--line separator-->
 <br/>
 
 #### **February 2017**
 
 26 – 03 
-<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbour. Poster on presentation on p53 single celldynamics in response to genotoxic stress and it impact on target gene expression.
+<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbour. Poster on p53 single cell dynamics and their influence on target gene expression.
 <hr/> <!--line separator-->
 <br/>
 
