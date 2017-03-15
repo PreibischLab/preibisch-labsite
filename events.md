@@ -14,9 +14,6 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
-<hr/> <!--line separator-->
-<br/>
-
 #### **February 2017**
 
 26 – 03 
