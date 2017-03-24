@@ -11,7 +11,7 @@ weight: 4
 
 <div class="jobs-contact" markdown="1">
 **
-[Computational PhD student]({{ site.baseurl }}/2017/03/01/circrtrain_grant.html) (Big Data, Machine Learning, circular RNAs).
+[Computational PhD student]({{ site.baseurl }}/2017/03/01/circrtrain_grant.html) (Big Data, Machine Learning, circular RNAs).  
 
 Apart from open positions we are always looking for talented people.  
 For more oppurtunities for prospective students and postdocs, please [contact Dr. Preibisch](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"}.**
