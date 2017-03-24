@@ -9,12 +9,22 @@ weight: 3
 
 #### **March 2017**
 
+22 – 24
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a>, <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](http://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
+<small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
+
 05 – 07
 <a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel. Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.
 <hr/> <!--line separator-->
 <br/>
 
 #### **February 2017**
+
+01 – 03
+<a class="link-stephan">Stephan</a>, David  @ [NEUBIAS2020 Syposium](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
+<small>Presentation by Stephan: Reconstruction of Large Tiled Image Acquisitions using ImgLib2 and BigDataViewer
+</small>  
+<small>David presented the BigStitcher at the Open Software Lounge</small>
 
 26 – 03 
 <a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory. Poster on p53 single cell dynamics and their influence on target gene expression.
