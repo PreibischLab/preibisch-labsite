@@ -67,7 +67,7 @@ weight: 3
 
 02  
 <a class="link-stephan">Stephan</a> @ [9th Annual NYU Developmental Genetics Symposium](http://biology.as.nyu.edu/object/biology.events.dg2016){:target="_blank"} in New York, USA.   
-<small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
+<small>Invited Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 <hr/> <!--line separator-->
 <br/>
