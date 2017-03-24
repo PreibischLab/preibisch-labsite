@@ -57,6 +57,13 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
 
+Carsten Wolff, Jean-Yves Tinevez, Tobias Pietzsch, Evangelia Stamataki, Benjamin Harich, Stephan Preibisch, Spencer Shorte, Philipp J. Keller, Pavel Tomancak, Anastasios Pavlopoulos (2017)  
+**Reconstruction of cell lineages and behaviors underlying arthropod limb outgrowth with multi-view light-sheet imaging and tracking**  
+*bioRxiv* 112623;
+[Link to Paper](http://biorxiv.org/content/early/2017/02/28/112623){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Jaroslav Icha, Christopher Schmied, Jaydeep Sidhaye, Pavel Tomancak, Stephan Preibisch, Caren Norden (2016)  
 **Using Light Sheet Fluorescence Microscopy to Image Zebrafish Eye Development**  
 *Journal of Visualized Experiments (JoVE)* **110**:e53966;
