@@ -314,7 +314,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 // YOU CAN CHANGE YOUR IMAGE SOURCE HERE:
 $('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
-$('.img-varun').attr({src: "http://i.imgur.com/mUxe9VD.jpg", alt: "Varun Kapoor"});
+$('.img-varun').attr({src: "http://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
 $('.img-nikita').attr({src: "http://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimirov"});
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
