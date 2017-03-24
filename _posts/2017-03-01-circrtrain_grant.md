@@ -21,5 +21,5 @@ In collaboration with an experimental scientist the candidate will develop **sof
 
 [4] Pietzsch T., Preibisch S., Tomancak P., Saalfeld S. (2012) ImgLib2--generic image processing in Java. *Bioinformatics* **28**(22), 3009-3011. [Link to Paper](https://academic.oup.com/bioinformatics/article/28/22/3009/240540/ImgLib2-generic-image-processing-in-Java)  
 
-[5] Pietzsch T., Saalfeld S., Preibisch S., Tomancak P. (2015) BigDataViewer: visualization and processing for large image data sets. *Nature Methods* **12**(6), 481-483. [Link to Paper](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3392.html){:target="_blank"}  
+[5] Pietzsch T., Saalfeld S., Preibisch S., Tomancak P. (2015) BigDataViewer: visualization and processing for large image data sets. *Nature Methods* **12**(6), 481-483. [Link to Paper](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3392.html)  
 </small>
