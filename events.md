@@ -7,6 +7,14 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **June 2017**
+
+14 – 17
+<a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
+<small>Invited Speaker</small>
+<hr/> <!--line separator-->
+<br/>
+
 #### **April 2017**
 
 09 – 12
