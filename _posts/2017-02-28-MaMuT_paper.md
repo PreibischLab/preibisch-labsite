@@ -4,8 +4,6 @@ title:  "New publication: MaMuT"
 date:   2017-02-28    
 ---
 
-New publications on multiview reconstruction of lightsheet microscopy images.  
-
 We contributed to a new publications tracking cell lineages in developing Parhyale hawaiensis embryos using reconstructed multiview lightsheet microscopy data:
 
 Carsten Wolff, Jean-Yves Tinevez, Tobias Pietzsch, Evangelia Stamataki, Benjamin Harich, Stephan Preibisch, Spencer Shorte, Philipp J. Keller, Pavel Tomancak, Anastasios Pavlopoulos (2017)   
