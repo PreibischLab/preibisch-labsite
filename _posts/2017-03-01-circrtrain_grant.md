@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "circRTrain Grant Application Funded!"
