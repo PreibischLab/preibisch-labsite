@@ -12,7 +12,7 @@ As a member of the [circRTrain](https://circrtrain.eu){:target="_blank"}, which 
 
 In collaboration with an experimental scientist the candidate will develop **software** and **imaging strategies** to quantify circRNA expression in terabyte sized reconstructions of whole animal **lightsheet microscopy** acquisitions [2,3]. Using **ImgLib2** [4] and **BigDataViewer** [5], the candidate will design and implement algorithms using **machine learning** (e.g. deep learning) and **model-based approaches** to measure differences in **circRNA expression and localization**. The candidate will relate those to developmental differences in between wildtype and mutant animals to understand the mechanisms of circRNA regulation. 
 
-*Candidates should apply for this competetive position with an email to <a class="link-stephan">Stephan Preibisch</a> containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}*
+*Candidates should apply for this competetive position with an email to <a class="link-stephan">Stephan</a> containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}*
 
 <br>
 <small>
