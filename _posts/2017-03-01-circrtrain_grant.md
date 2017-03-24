@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "circRTrain Grant Application Funded!"
+title:  "The circRTrain H2020 Grant was funded, looking for motivated PhD students!"
 date:   2017-03-01    
 ---
 
