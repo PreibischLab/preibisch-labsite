@@ -12,6 +12,7 @@ In collaboration with an experimental scientist the candidate will develop **sof
 
 *Candidates should apply for this competetive position with an email to [Dr. Preibisch](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"} containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}*
 
+<br>
 <small>
 [1] Memczak S., Jens M., Elefsinioti A., Torti F., Krueger J., Rybak A., Maier L., Mackowiak S.D., Gregersen L.H., Munschauer M., Loewer A., Ziebold U., Landthaler M., Kocks C., le Noble F., Rajewsky N. (2013) Circular RNAs are a large class of animal RNAs with regulatory potency. *Nature* **495**(7441), 333–338. [Link to Paper](http://www.nature.com/nature/journal/v495/n7441/abs/nature11928.html){:target="_blank"}  
 </small>
