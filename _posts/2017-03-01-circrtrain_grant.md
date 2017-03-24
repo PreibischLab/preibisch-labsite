@@ -6,15 +6,12 @@ date:   2017-03-01
 
 **The circRTrain H2020 Grant was funded, looking for motivated PhD students!**
 
-Circular RNAs (circRNAs) are a large, newly discovered class of non-coding RNAs [1]. Due to their specific circular structure they display unusually high stability and can just recently be detected using new sequencing and computational technologies. Characterizing function of circRNAs has recently spiked very high interest in many fields including basic molecular biology, neurobiology, neurodegenerative diseases, aging, cancer, and biomarker research.
-
-As a member of the [circRTrain](https://circrtrain.eu){:target="_blank"}, which is a Marie Curie Innovative Training Network (ITN) funded by the European Union within the H2020 Programme, we are seeking highly motivated PhD students to join the Preibisch Lab. 
+Circular RNAs (circRNAs) are a large, newly discovered class of non-coding RNAs [1]. Due to their specific circular structure they display unusually high stability and can just recently be detected using new sequencing and computational technologies. Characterizing function of circRNAs has recently spiked very high interest in many fields including basic molecular biology, neurobiology, neurodegenerative diseases, aging, cancer, and biomarker research. As member of the [circRTrain project](https://circrtrain.eu){:target="_blank"}, which is a Marie Curie Innovative Training Network (ITN) funded by the European Union within the H2020 Programme, we are seeking highly motivated PhD students to join the Preibisch Lab. 
 
 In collaboration with an experimental scientist the candidate will develop **software** and **imaging strategies** to quantify circRNA expression in terabyte sized reconstructions of whole animal **lightsheet microscopy** acquisitions [2,3]. Using **ImgLib2** [4] and **BigDataViewer** [5], the candidate will design and implement algorithms using **machine learning** (e.g. deep learning) and **model-based approaches** to measure differences in **circRNA expression and localization**. The candidate will relate those to developmental differences in between wildtype and mutant animals to understand the mechanisms of circRNA regulation. 
 
 *Candidates should apply for this competetive position with an email to [Dr. Preibisch](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"} containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}*
 
-<br>
 <small>
 [1] Memczak S., Jens M., Elefsinioti A., Torti F., Krueger J., Rybak A., Maier L., Mackowiak S.D., Gregersen L.H., Munschauer M., Loewer A., Ziebold U., Landthaler M., Kocks C., le Noble F., Rajewsky N. (2013) Circular RNAs are a large class of animal RNAs with regulatory potency. *Nature* **495**(7441), 333–338. [Link to Paper](http://www.nature.com/nature/journal/v495/n7441/abs/nature11928.html){:target="_blank"}  
 </small>
