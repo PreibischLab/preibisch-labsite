@@ -7,6 +7,14 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **April 2017**
+
+09 – 12
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a>, David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
+<small>Presentation: Big Stitcher - Efficient Alignment of Multi-Tile and Multi-View Lightsheet Data of Cleared Samples</small>
+<hr/> <!--line separator-->
+<br/>
+
 #### **March 2017**
 
 22 – 24
