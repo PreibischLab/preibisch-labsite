@@ -10,7 +10,10 @@ Circular RNAs (circRNAs) are a large, newly discovered class of non-coding RNAs 
 
 In collaboration with an experimental scientist the candidate will develop **software** and **imaging strategies** to quantify circRNA expression in terabyte sized reconstructions of whole animal **lightsheet microscopy** acquisitions [2,3]. Using **ImgLib2** [4] and **BigDataViewer** [5], the candidate will design and implement algorithms using **machine learning** (e.g. deep learning) and **model-based approaches** to measure differences in **circRNA expression and localization**. The candidate will relate those to developmental differences in between wildtype and mutant animals to understand the mechanisms of circRNA regulation. 
 
-*Candidates should apply for this competetive position with an email to [Dr. Preibisch](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"} containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}*
+*Candidates should apply for this competetive position with an email to [Dr. Preibisch](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"} containing their CV, previous achievements and github profile (or comparable). Candidates are encouraged to add an implementation of an algorithm of their choice in ImgLib2, examples can be found [here](http://imagej.net/ImgLib2_Examples){:target="_blank"}.*
+
+![alt text]({{ site.baseurl }}/assets/BigStitcher.jpg "Reconstruction of multi-tile CLARITY data LSFM")  
+***Fig 1**: Screenshot showing the interactive visualization of the image registration using the BigDataViewer of an adult 4-mm thick mouse brain section. Shown is a transverse cutplane through all tiles of one of the aligned views. Each random color indicates one individual image tile, 1920x1920x1039 pixel in size.*  
 
 <br>
 <small>
