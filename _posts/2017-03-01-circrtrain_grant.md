@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The circRTrain H2020 Grant was funded, looking for motivated PhD students!"
+title:  "PhD position: Computer Vision on Big Data"
 date:   2017-03-01    
 ---
 
-**The circRTrain H2020 Grant was funded, looking for motivated PhD students!**
+**As part of our H2020 Innovative Training Network Grant**
 
-Circular RNAs (circRNAs) are a large, newly discovered class of non-coding RNAs [1]. Due to their specific circular structure they display unusually high stability and can just recently be detected using new sequencing and computational technologies. Characterizing function of circRNAs has recently spiked very high interest in many fields including basic molecular biology, neurobiology, neurodegenerative diseases, aging, cancer, and biomarker research. As member of the [circRTrain project](https://circrtrain.eu){:target="_blank"}, which is a Marie Curie Innovative Training Network (ITN) funded by the European Union within the H2020 Programme, we are seeking highly motivated PhD students to join the Preibisch Lab. 
+Circular RNAs (circRNAs) are a large, newly discovered class of non-coding RNAs [1]. Due to their specific circular structure they display unusually high stability and can just recently be detected using new sequencing and computational technologies. Characterizing function of circRNAs has recently spiked very high interest in many fields including basic molecular biology, neurobiology, neurodegenerative diseases, aging, cancer, and biomarker research. As member of the [circRTrain project](https://circrtrain.eu){:target="_blank"}, which is a [Marie Curie Innovative Training Network (ITN)](https://ec.europa.eu/research/mariecurieactions/about/innovative-training-networks_en){:target="_blank"} funded by the European Union within the H2020 Programme, we are seeking highly motivated PhD students to join the Preibisch Lab. 
 
 In collaboration with an experimental scientist the candidate will develop **software** and **imaging strategies** to quantify circRNA expression in terabyte sized reconstructions of whole animal **lightsheet microscopy** acquisitions as shown in figure 1 [2,3]. Using **ImgLib2** [4] and **BigDataViewer** [5], the candidate will design and implement algorithms using **machine learning** (e.g. deep learning) and **model-based approaches** to measure differences in **circRNA expression and localization**. The candidate will relate those to developmental differences in between wildtype and mutant animals to understand the mechanisms of circRNA regulation. 
 
