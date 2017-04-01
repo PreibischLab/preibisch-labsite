@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open PhD position: Computer Vision and Machine Learning on Big Data"
+title:  "Open PhD Position: Computer Vision and Machine Learning on Big Data"
 date:   2017-03-01    
 ---
 
