@@ -43,6 +43,21 @@ body {
     }
 }
 
+.site-title-4-extra {
+    border-top: 1px solid #ffffff;
+    // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 18px;
+    font-style: bold;
+    padding-top: 13px;
+    /*letter-spacing: -1px;*/
+    text-align: center;
+
+    .title-link {
+        color: white;
+        text-decoration: none;
+    }
+}
+
 .expanded-title {
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: #FFFFFF;
@@ -79,8 +94,15 @@ body {
     .page-link {
         color: #FFFFFF;
         line-height: $base-line-height;
-        margin-right: 40px;
+        margin-right: 10px;
+        margin-left: 30px;
+    }
 
+    .bimsb-link {
+        background: #0047b3;
+        padding: 10px 12px 10px 12px;
+        border-radius: 2px;
+        margin-left: 30px;
     }
 
     @include media-query($on-laptop) {

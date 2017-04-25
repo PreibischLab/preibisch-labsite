@@ -9,6 +9,11 @@ weight: 3
 
 #### **June 2017**
 
+21 – 25
+<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](http://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
+<hr/> <!--line separator-->
+<br/>
+
 14 – 17
 <a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
 <small>Invited Speaker</small>
