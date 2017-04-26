@@ -28,6 +28,10 @@ body {
     padding-bottom: 10px;
 }
 
+.site-header-bimsb {
+    background: #00428d;
+}
+
 .site-title {
     border-top: 1px solid #ffffff;
     // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -84,6 +88,10 @@ body {
     }
 }
 
+.main-menu-bimsb {
+    background: #002e62;
+}
+
 .site-nav {
 
     .menu-icon {
@@ -99,7 +107,8 @@ body {
     }
 
     .bimsb-link {
-        background: #0047b3;
+        background: $grey-color-light;
+        color: #000000;
         padding: 10px 12px 10px 12px;
         border-radius: 2px;
         margin-left: 30px;
@@ -230,6 +239,10 @@ body {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
+}
+
+.site-footer-extras {
+    background: #00428d;
 }
 
 @include media-query($on-palm) {
@@ -480,4 +493,15 @@ body {
 .jobs-contact a:link {
     color: black;
     text-decoration: underline;
+}
+
+/********************************************************/
+/***********************Jobs*****************************/
+
+.bimsb-seminar {
+    font-size: 15px;
+}
+
+.bimsb-tabs { 
+    padding-left: 00px !important; 
 }
