@@ -90,6 +90,9 @@ body {
 
 .main-menu-bimsb {
     background: #002e62;
+    padding-top: 10px;
+    padding-bottom: 65px;
+
 }
 
 .site-nav {
@@ -104,6 +107,17 @@ body {
         line-height: $base-line-height;
         margin-right: 10px;
         margin-left: 30px;
+    }
+
+    .home-from-bimsb-page {
+        float-right: 30px;
+        margin-right: 0px;
+        padding-top: 40px;
+    }
+
+    .bimsb-img-header {
+        float: left; 
+        height: 60px;
     }
 
     .bimsb-link {
@@ -226,6 +240,10 @@ body {
     @include media-query($on-laptop) {
         float: left;
     }
+}
+
+.bimsb-img-bimsb-footer {
+    margin-top: 10px;
 }
 
 @include media-query($on-laptop) {
