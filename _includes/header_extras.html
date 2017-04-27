@@ -4,27 +4,16 @@
 
     <div class="main-menu extendfull extendleft extendright main-menu-bimsb"> 
       <nav class="site-nav">
+            <a href="https://www.mdc-berlin.de/bimsb" target="_blank"><img src="http://i.imgur.com/c5sstzV.png" title="source: imgur.com" class="bimsb-img-header" alt="BIMSB"/></a>
 
-        <a href="#" class="menu-icon">
-           <span class="glyphicon glyphicon-list" style="color:white" aria-hidden="true"></span>
-        </a>
-
-        <div class="trigger">
-          {% assign pages = site.pages | sort:"weight"  %}
-          {% for page in pages %}
-            {% if page.title %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% endif %}
-          {% endfor %}
-          <a class="page-link bimsb-link" href="{{ site.baseurl }}/bimsb_seminar/">BIMSB Seminar</a>
-        </div>
+            <a class="page-link home-from-bimsb-page pull-right" href="{{ site.baseurl }}/"><small>Back to the Preibisch Lab website</small></a>
       </nav>
     </div>
   </div>
 
   <div class="wrapper">
 
-    <div class="site-title-4-extra"><a class="title-link" href="{{ site.baseurl }}/">{{ site.title }}</a></div>
+    <div class="site-title-4-extra"><a class="title-link" href="{{ site.baseurl }}/bimsb_seminar/">BIMSB Seminar Series 2017</a></div>
 
   </div>
 
