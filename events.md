@@ -7,6 +7,13 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **July 2017**
+
+5 – 7
+<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg. Dhana will give a short talk, on p53 dynamics and stochastic gene expression in the DNA damage response. 
+<hr/> <!--line separator-->
+<br/>
+
 #### **June 2017**
 
 21 – 25
@@ -14,9 +21,19 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+18 – 21
+<a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany. Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.
+<hr/> <!--line separator-->
+<br/>
+
 14 – 17
 <a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
 <small>Invited Speaker</small>
+<hr/> <!--line separator-->
+<br/>
+
+6 – 8
+<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a>,  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
 <hr/> <!--line separator-->
 <br/>
 
