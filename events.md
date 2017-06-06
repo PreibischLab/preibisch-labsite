@@ -10,7 +10,8 @@ weight: 3
 #### **July 2017**
 
 5 – 7
-<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg. Dhana will give a short talk, on p53 dynamics and stochastic gene expression in the DNA damage response. 
+<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg. 
+<small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
 <br/>
 
@@ -23,7 +24,8 @@ weight: 3
 <br/>
 
 18 – 21
-<a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany. Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.
+<a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany. 
+<small>Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.</small>
 <hr/> <!--line separator-->
 <br/>
 
@@ -34,14 +36,14 @@ weight: 3
 <br/>
 
 6 – 8
-<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> and <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
+<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
 <hr/> <!--line separator-->
 <br/>
 
 #### **April 2017**
 
 09 – 12
-<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a>, David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
 <small>Presentation: Big Stitcher - Efficient Alignment of Multi-Tile and Multi-View Lightsheet Data of Cleared Samples</small>
 <hr/> <!--line separator-->
 <br/>
@@ -49,11 +51,12 @@ weight: 3
 #### **March 2017**
 
 22 – 24
-<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a>, <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](http://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](http://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
 <small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 05 – 07
-<a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel. Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.
+<a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel. 
+<small>Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.</small>
 <hr/> <!--line separator-->
 <br/>
 
@@ -66,7 +69,8 @@ weight: 3
 <small>David presented the BigStitcher at the Open Software Lounge</small>
 
 26 – 03 
-<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory. Poster on p53 single cell dynamics and their influence on target gene expression.
+<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory. 
+<small>Poster on p53 single cell dynamics and their influence on target gene expression.</small>
 <hr/> <!--line separator-->
 <br/>
 
