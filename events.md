@@ -9,7 +9,7 @@ weight: 3
 
 #### **July 2017**
 
-5 – 7
+5 – 7  
 <a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
 <small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
@@ -17,32 +17,32 @@ weight: 3
 
 #### **June 2017**
 
-21 – 25
+21 – 25  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](http://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
 <small>Ella will give a short talk and Laura will present a poster.</small>
 <hr/> <!--line separator-->
 <br/>
 
-18 – 21
+18 – 21  
 <a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany.  
 <small>Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.</small>
 <hr/> <!--line separator-->
 <br/>
 
-14 – 17
+14 – 17  
 <a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
 <small>Invited Speaker</small>
 <hr/> <!--line separator-->
 <br/>
 
-6 – 8
+6 – 8  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
 <hr/> <!--line separator-->
 <br/>
 
 #### **April 2017**
 
-09 – 12
+09 – 12  
 <a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
 <small>Presentation: Big Stitcher - Efficient Alignment of Multi-Tile and Multi-View Lightsheet Data of Cleared Samples</small>
 <hr/> <!--line separator-->
@@ -50,11 +50,11 @@ weight: 3
 
 #### **March 2017**
 
-22 – 24
+22 – 24  
 <a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](http://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
 <small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
-05 – 07
+05 – 07  
 <a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel.  
 <small>Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.</small>
 <hr/> <!--line separator-->
@@ -62,13 +62,13 @@ weight: 3
 
 #### **February 2017**
 
-01 – 03
+01 – 03  
 <a class="link-stephan">Stephan</a> & David  @ [NEUBIAS2020 Syposium](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
 <small>Presentation by Stephan: Reconstruction of Large Tiled Image Acquisitions using ImgLib2 and BigDataViewer
 </small>  
 <small>David presented the BigStitcher at the Open Software Lounge</small>
 
-26 – 03 
+26 – 03  
 <a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory.  
 <small>Poster on p53 single cell dynamics and their influence on target gene expression.</small>
 <hr/> <!--line separator-->
@@ -76,7 +76,7 @@ weight: 3
 
 #### **January 2017**
 
-27 – 29  
+27 – 29   
 <a class="link-klim">Klim</a> @ [Zeiss Hackathon](https://www.zeiss-hackathon-jena.com){:target="_blank"} in Jena.
 
 08 – 13  
@@ -88,8 +88,7 @@ weight: 3
 
 #### **December 2016**
 
-
-05 – 16  
+05 – 16   
 <a class="link-klim">Klim</a> @ MPI-CBG Hackathon [hackDD16](https://twitter.com/hashtag/hackDD16?src=hash){:target="_blank"} in Dresden. 
 
 02  
@@ -101,7 +100,6 @@ weight: 3
 
 #### **November 2016**
 
-
 14 - 18  
 The Preibisch and Woehler lab organized the first [EU-Life Course on Biological Image Reconstruction and Analysis](http://bioimage2016.mdc-berlin.de){:target="_blank"} at the MDC Berlin, Germany.   
 <small>25 selected international students experienced a week full of exciting presentations and hands-on workshops by internationally renowned experts in the field of image analysis.</small>
@@ -111,10 +109,8 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 
 #### **October 2016**
 
-
 03  
 <a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](http://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
-
 
 <hr/> <!--line separator-->
 <br/>
