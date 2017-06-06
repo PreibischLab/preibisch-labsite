@@ -10,7 +10,7 @@ weight: 3
 #### **July 2017**
 
 5 – 7
-<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg. 
+<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
 <small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
 <br/>
@@ -24,7 +24,7 @@ weight: 3
 <br/>
 
 18 – 21
-<a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany. 
+<a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany.  
 <small>Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.</small>
 <hr/> <!--line separator-->
 <br/>
@@ -55,7 +55,7 @@ weight: 3
 <small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 05 – 07
-<a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel. 
+<a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel.  
 <small>Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.</small>
 <hr/> <!--line separator-->
 <br/>
@@ -69,7 +69,7 @@ weight: 3
 <small>David presented the BigStitcher at the Open Software Lounge</small>
 
 26 – 03 
-<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory. 
+<a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory.  
 <small>Poster on p53 single cell dynamics and their influence on target gene expression.</small>
 <hr/> <!--line separator-->
 <br/>
