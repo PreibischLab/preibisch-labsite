@@ -18,6 +18,7 @@ weight: 3
 
 21 – 25
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](http://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
+<small>Ella will give a short talk and Laura will present a poster.</small>
 <hr/> <!--line separator-->
 <br/>
 
@@ -59,7 +60,7 @@ weight: 3
 #### **February 2017**
 
 01 – 03
-<a class="link-stephan">Stephan</a>, David  @ [NEUBIAS2020 Syposium](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
+<a class="link-stephan">Stephan</a> & David  @ [NEUBIAS2020 Syposium](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
 <small>Presentation by Stephan: Reconstruction of Large Tiled Image Acquisitions using ImgLib2 and BigDataViewer
 </small>  
 <small>David presented the BigStitcher at the Open Software Lounge</small>
