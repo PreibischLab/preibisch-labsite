@@ -35,6 +35,12 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+13 – 16  
+<a class="link-laura">Laura</a> @ [Second international meeting on SMC proteins](http://www.smcproteins2017.org){:target="_blank"} in Yamagata, Japan.   
+<small>Poster presentation on role of chromosome condensation on RNA Pol II and transcription. </small>
+<hr/> <!--line separator-->
+<br/>
+
 6 – 8  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
 <hr/> <!--line separator-->
