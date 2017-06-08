@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Berlin Summer Meeting is now!"
+title:  "The Berlin Summer Meeting Is Now!"
 date:   2017-06-8    
 ---
 
