@@ -42,7 +42,7 @@ weight: 3
 <br/>
 
 6 – 8  
-<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"} in Berlin.   
+<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"}, [#BSM2017](https://twitter.com/hashtag/bsm2017?f=tweets&vertical=default){:target="_blank"} in Berlin.    
 <hr/> <!--line separator-->
 <br/>
 
