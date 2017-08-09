@@ -267,7 +267,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div id="Friedrich" class="member"></div>
+<div id="friedrich" class="member"></div>
 <div class="row">
 
   <div class="col-md-3">
