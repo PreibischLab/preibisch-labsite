@@ -304,6 +304,7 @@ Feb 27 – Mar 05
 	$('.link-laura').attr("href", "{{ site.baseurl }}/members#laura");
 	$('.link-dhana').attr("href", "{{ site.baseurl }}/members#dhana");
 	$('.link-klim').attr("href", "{{ site.baseurl }}/members#klim");
+	$('.link-friedrich').attr("href", "{{ site.baseurl }}/members#friedrich");
 </script>
 
 

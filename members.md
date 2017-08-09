@@ -35,6 +35,10 @@ weight: 2
     <img class="img-klim" id="small-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
     <p class="klim-img-text">Klim<br/>Kolyvanov</p>
   </div>
+    <div class="member-img-small">
+    <img class="img-friedrich" id="small-friedrich" onclick="scrollDown('friedrich');" onmouseover="displayName('friedrich');" onmouseout="hideName('friedrich');"/>
+    <p class="friedrich-img-text">Klim<br/>Kolyvanov</p>
+  </div>
   <div class="member-img-small">
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
@@ -263,6 +267,37 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
+<div id="klim" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-friedrich"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Friedrich Preusser
+
+#### PhD Student
+
+Friedrich obtained a B.Sc. in Molecular Biology, graduating from an international study program organised by the University of Saarbrücken, Germany and the University of Strasbourg, France. He pursued his studies with an M.Sc. in Molecular and Cellular Biology at the University of Heidelberg. He graduated with a master thesis at the German Cancer Research Center where he contributed to the development of an automated workflow for combined imaging and gene expression profiling.
+
+**Find him on:**  
+[<img class="img-linkedin">](https://www.linkedin.com/in/fritzpreusser/){:target="_blank"}
+[<img class="img-twitter">](https://twitter.com/FritzPreusser){:target="_blank"}
+
+**Email:**  
+[<img class="img-email">](mailto:Friedrich.Preusser@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
 <div id="andrea" class="member"></div>
 <div class="row">
 
@@ -320,6 +355,7 @@ $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
 $('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
+$('.img-friedrich').attr({src: "http://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
 
 
