@@ -37,7 +37,7 @@ weight: 2
   </div>
     <div class="member-img-small">
     <img class="img-friedrich" id="small-friedrich" onclick="scrollDown('friedrich');" onmouseover="displayName('friedrich');" onmouseout="hideName('friedrich');"/>
-    <p class="friedrich-img-text">Klim<br/>Kolyvanov</p>
+    <p class="friedrich-img-text">Friedrich<br/>Preusser</p>
   </div>
   <div class="member-img-small">
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
@@ -267,7 +267,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 
 <br>
 
-<div id="klim" class="member"></div>
+<div id="Friedrich" class="member"></div>
 <div class="row">
 
   <div class="col-md-3">
