@@ -39,6 +39,11 @@ weight: 2
     <img class="img-friedrich" id="small-friedrich" onclick="scrollDown('friedrich');" onmouseover="displayName('friedrich');" onmouseout="hideName('friedrich');"/>
     <p class="friedrich-img-text">Friedrich<br/>Preusser</p>
   </div>
+  </div>
+    <div class="member-img-small">
+    <img class="img-lenon" id="small-lenon" onclick="scrollDown('lenon');" onmouseover="displayName('lenon');" onmouseout="hideName('lenon');"/>
+    <p class="lenon-img-text">Lenon<br/>Matchett-Oates</p>
+  </div>
   <div class="member-img-small">
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
@@ -298,6 +303,36 @@ Friedrich obtained a B.Sc. in Molecular Biology, graduating from an internationa
 
 <br>
 
+<div id="lenon" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-lenon"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Lenon Matchett-Oates
+
+#### Aspirant
+
+Lennon did his Bachelor studies in Biotechnology at The Royal Melbourne Institute of Technology, Australia. He completed his Honours study in Plant Biotechnology creating new transformation techniques for agronomically important crops using Agrostis stolonifera as a model. Now in Germany for a year before heading back to Australia to complete his PhD.
+
+**Find him on:**  
+
+
+**Email:**  
+
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
 <div id="andrea" class="member"></div>
 <div class="row">
 
@@ -356,6 +391,7 @@ $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breiman
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
 $('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
 $('.img-friedrich').attr({src: "http://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
+$('.img-lenon').attr({src: "http://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
 
 
