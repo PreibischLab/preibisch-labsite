@@ -39,8 +39,7 @@ weight: 2
     <img class="img-friedrich" id="small-friedrich" onclick="scrollDown('friedrich');" onmouseover="displayName('friedrich');" onmouseout="hideName('friedrich');"/>
     <p class="friedrich-img-text">Friedrich<br/>Preusser</p>
   </div>
-  </div>
-    <div class="member-img-small">
+  <div class="member-img-small">
     <img class="img-lenon" id="small-lenon" onclick="scrollDown('lenon');" onmouseover="displayName('lenon');" onmouseout="hideName('lenon');"/>
     <p class="lenon-img-text">Lenon<br/>Matchett-Oates</p>
   </div>
