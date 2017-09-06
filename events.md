@@ -9,7 +9,7 @@ weight: 3
 
 #### **August 2017**
 22 – 25
-<a class="link-klim">Klim</a>  @  [Deep Learning Bootcamp 2017](https://indico.mpi-cbg.de/event/42/other-view?view=standard){:target="_blank"} in Heidelberg.  
+<a class="link-klim">Klim</a>  @  [Deep Learning Bootcamp 2017](https://indico.mpi-cbg.de/event/42/other-view?view=standard){:target="_blank"} in Dresden.  
 <small>Poster on the computational approach for studying the transcription regulation in <i>C. elegans</i>.</small>
 <hr/> <!--line separator-->
 <br/>
