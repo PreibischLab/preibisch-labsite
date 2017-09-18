@@ -5,7 +5,7 @@ date:   2017-09-18
 ---
 Next meeting: **October 4 (Wed), 15:00 @ MDC, Bld. 89, room 2.17**
  
-Speaker: **Martin Lehmann** from Schmoranzer Lab [FMP](http://www.leibniz-fmp.de/home.html)  
+Speaker: **Martin Lehmann** from  [Core Facility Cellular Imaging FMP](http://www.leibniz-fmp.de/de/core-facilities/cellular-imaging/wiesner/research.html)  
 
 Topics
 
