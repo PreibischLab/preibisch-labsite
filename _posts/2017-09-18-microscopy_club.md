@@ -7,8 +7,10 @@ Next meeting: **October 4 (Wed), 15:00 @ MDC, Bld. 89, room 2.17**
  
 Speaker: **Martin Lehmann** from Schmoranzer Lab [FMP](http://www.leibniz-fmp.de/home.html)  
 
-Topics: 
+Topics
+
 **Introduction to fluorescent probes in microscopy**
+
 **Journal club:** [Cranfill et al. Quantitative assessment of fluorescent proteins. Nat. Methods, 2016](http://www.nature.com/nmeth/journal/v13/n7/abs/nmeth.3891.html?foxtrotcallback=true)
 
 *To subscribe to the mailing list, write an empty email with subject "++" to [Nikita Vladimirov](mailto:nikita.vladimirov@mdc-berlin.de). To unsubscribe, write an empty email with "--" :-)*
