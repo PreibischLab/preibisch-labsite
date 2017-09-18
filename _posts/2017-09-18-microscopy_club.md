@@ -6,7 +6,7 @@ date:   2017-09-18
 
 ## Microscopy club
 ### Next meeting: October 4 (Wed), 15:00
- **MDC, Building 89, room 2.17**
+**MDC, Building 89, room 2.17**
  
 Speaker: **Martin Lehmann** from Schmoranzer Lab, [FMP](http://www.leibniz-fmp.de/home.html)
 
