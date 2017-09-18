@@ -3,7 +3,7 @@ layout: post
 title:  "Microscopy Club Online Schedule"
 date:   2017-09-18    
 ---
-**Next meeting: October 4 (Wed), 15:00 @ MDC, Bld. 89, room 2.17**
+Next meeting: **October 4 (Wed), 15:00 @ MDC, Bld. 89, room 2.17**
  
 Speaker: **Martin Lehmann** from Schmoranzer Lab [FMP](http://www.leibniz-fmp.de/home.html)  
 
