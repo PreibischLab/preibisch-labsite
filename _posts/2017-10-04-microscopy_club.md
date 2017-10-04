@@ -17,4 +17,4 @@ Next meeting: TBA
 
 3.05.2017 Marie Walde (Woehler Lab):  Optical resolution and diffraction.
 
-5.04.2017 Nikita Vladimirov (Preibisch Lab): Geometrical optics.
+5.04.2017 Nikita Vladimirov (Preibisch Lab): Geometrical optics. [PDF](/assets/mClub-Vladimirov-2017April.pdf)
