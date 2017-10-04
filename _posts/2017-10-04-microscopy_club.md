@@ -1,15 +1,9 @@
 ---
 layout: post
 title:  "Microscopy Club Online Schedule"
-date:   2017-09-18    
+date:   2017-10-04    
 ---
 Next meeting: TBA 
-
-Speaker: TBA
-
-Topics: TBA
-
-
 
 *To subscribe to the mailing list, write an empty email with subject "++" to [Nikita Vladimirov](mailto:nikita.vladimirov@mdc-berlin.de). To unsubscribe, write an empty email with "--" :-)*
 
