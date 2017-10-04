@@ -3,19 +3,19 @@ layout: post
 title:  "Microscopy Club Online Schedule"
 date:   2017-09-18    
 ---
-Next meeting: **October 4 (Wed), 15:00 @ MDC, Bld. 89, room 2.17**
- 
-Speaker: **Martin Lehmann** from  [Core Facility Cellular Imaging FMP](http://www.leibniz-fmp.de/de/core-facilities/cellular-imaging/wiesner/research.html)  
+Next meeting: TBA 
 
-Topics
+Speaker: TBA
 
-**Introduction to fluorescent probes in microscopy**
+Topics: TBA
 
-**Journal club:** [Cranfill et al. Quantitative assessment of fluorescent proteins. Nat. Methods, 2016](http://www.nature.com/nmeth/journal/v13/n7/abs/nmeth.3891.html?foxtrotcallback=true)
+
 
 *To subscribe to the mailing list, write an empty email with subject "++" to [Nikita Vladimirov](mailto:nikita.vladimirov@mdc-berlin.de). To unsubscribe, write an empty email with "--" :-)*
 
 **Past meetings**
+
+4.10.2017. Martin Lehmann (Core Facility Cellular Imaging FMP). Introduction to fluorescent probes in microscopy. Quantitative assessment of fluorescent proteins. (Cranfill et al. Nat. Methods, 2016)
 
 30.08.2017 Nikita Vladimirov: Autofocus in microscopy and photography. RAPID: Real-time image-based autofocus for all wide-field optical microscopy systems (Silvestri et al, 2017).
 
