@@ -1,0 +1,50 @@
+---
+layout: extra
+title: BIMSB Seminar
+permalink: /bimsb_seminar/
+---
+
+<div class="bimsb-seminar">
+    <!--
+    <br/>
+    <h3><span style="color:#00428d">BIMSB Seminar Series 2017</span></h3>
+    <br/>
+    -->
+
+    <ul class="nav nav-tabs bimsb-tab">
+        <li class="active"><a data-toggle="tab" href="#bimsb-future">Future Events</a></li>
+        <li><a data-toggle="tab" href="#bimsb-past-2017">Past Events 2017</a></li>
+        <li><a data-toggle="tab" href="#bimsb-past-2016">Past Events 2016</a></li>
+    </ul>
+
+    <br/>
+
+    <div class="tab-content">
+
+        <div id="bimsb-future" class="tab-pane fade in active">
+
+        PLACEHOLDER_FUTURE_EVENTS
+            
+        </div>
+
+        <div id="bimsb-past-2017" class="tab-pane fade">
+
+        PLACEHOLDER_PAST_2017
+
+        <div id="bimsb-past-2016" class="tab-pane fade">
+            
+        PLACEHOLDER_PAST_2016
+
+        </div>
+
+    </div>
+
+
+    <a href="{{ site.baseurl }}/extras/bimsb_seminar_doc.html" target="_blank"><b>Click here to schedule a new BIMSB seminar talk</a></b>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/bootstrap.js"></script>
+
+
