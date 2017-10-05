@@ -32,6 +32,8 @@ published: false
 
         PLACEHOLDER_PAST_2017
 
+	</div>
+
         <div id="bimsb-past-2016" class="tab-pane fade">
             
         PLACEHOLDER_PAST_2016
