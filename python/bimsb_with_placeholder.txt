@@ -2,6 +2,7 @@
 layout: extra
 title: BIMSB Seminar!
 permalink: /bimsb_seminar/
+published: false
 ---
 
 <div class="bimsb-seminar">

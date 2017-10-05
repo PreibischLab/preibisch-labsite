@@ -71,6 +71,7 @@ f_read = open ("bimsb_with_placeholder.txt", "r")
 f_write = open (folder + "bimsb_seminar.html", "w")
 
 f_r_dump = f_read.read()
+f_r_dump = f_r_dump.replace('published: false', 'published: true')
 f_r_dump = f_r_dump.replace(placeholders[0], list_of_strings_4_html[0])
 f_r_dump = f_r_dump.replace(placeholders[1], list_of_strings_4_html[1])
 f_r_dump = f_r_dump.replace(placeholders[2], list_of_strings_4_html[2])
