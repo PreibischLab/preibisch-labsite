@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-weight: 5
+weight: 6
 ---
 
 
