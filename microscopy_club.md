@@ -22,10 +22,9 @@ weight: 4
 </div>
 </div>
 
-
-
 <div class="row">
-<p><b>Past Events:</b></p>
+<p></p>
+<p><b>Past meetings:</b></p>
 
 <div class="col-md-2">
 04.10.2017
