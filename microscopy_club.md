@@ -20,7 +20,9 @@ weight: 4
 <div class="col-md-10" markdown="1">
 **Sensors and cameras.** Discussion of **Nico Stuurman's** [online lectures](https://www.youtube.com/watch?v=8WpCov8iYCU){:target="_blank"} from [ibiology.org](https://www.ibiology.org/){:target="_blank"}
 </div>
+</div>
 
+<div class="row">
 <p><b>Past Events:</b></p>
 
 <div class="col-md-2">
