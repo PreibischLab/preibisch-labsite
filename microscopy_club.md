@@ -10,12 +10,18 @@ weight: 4
 	<p>To subscribe to the mailing list, write an empty email with subject “++” to <a href="mailto:nikita.vladimirov@mdc-berlin.de" target="_blank">Nikita Vladimirov</a>. To unsubscribe, write an empty email with “–”. </p>
 </div>
 
-<p><b>Next meeting: TBA</b></p>
+<div class="row">
+
+<p><b>Next meeting:</b></p>
+
+<div class="col-md-2">
+01.11.2017, 15:00, Bld 89, room 2.17
+</div>
+<div class="col-md-10" markdown="1">
+**Sensors and cameras.** Discussion of **Nico Stuurman's** [online lectures](https://www.youtube.com/watch?v=8WpCov8iYCU){:target="_blank"} from [ibiology.org](https://www.ibiology.org/){:target="_blank"}
+</div>
 
 <p><b>Past Events:</b></p>
-
-
-<div class="row">
 
 <div class="col-md-2">
 04.10.2017
