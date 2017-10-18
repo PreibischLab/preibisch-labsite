@@ -4,7 +4,8 @@ import re
 import pandas as pd
 from datetime import date, datetime
 
-folder = '../_extras/BIMSB_Seminar/'
+script_folder = '/home/ella/preibisch-labsite/python/'
+folder = '/home/ella/preibisch-labsite/_extras/'
 
 # Set up access to google API:
 import gspread
@@ -12,11 +13,11 @@ from oauth2client.service_account import ServiceAccountCredentials
  
 # use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds']
-creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("".join([script_folder+'client_secret.json']), scope)
 client = gspread.authorize(creds)
 
 # Get each of the worksheets in the spreadsheet (result - list of the worksheets):
-sheet = [client.open("BIMSBcalendar").get_worksheet(i) for i in range(3)]
+sheet = [client.open("BIMSB Seminar Series Calendar").get_worksheet(i) for i in range(3)]
 # For each worksheet - put the records in a list of hashes:
 list_of_hashes = [sheet[i].get_all_records() for i in range(3)]
 # Convert each list of hashes to a dataframe:
@@ -67,7 +68,7 @@ for df in df_all_events_by_tab:
 
 placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_FUTURE_EVENTS']
 
-f_read = open ("bimsb_with_placeholder.txt", "r") 
+f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")
 
 f_r_dump = f_read.read()
