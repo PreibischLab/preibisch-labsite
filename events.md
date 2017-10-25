@@ -38,7 +38,7 @@ weight: 3
 
 #### **July 2017**
 
-5 – 7  
+05 – 07  
 <a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
 <small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
