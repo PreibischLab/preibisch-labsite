@@ -15,6 +15,11 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+14 – 16  
+<a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @  [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.
+<hr/> <!--line separator-->
+<br/>
+
 #### **August 2017**
 
 22 – 25  
