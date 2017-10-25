@@ -7,6 +7,14 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **September 2017**
+
+20 – 29  
+<a class="link-klim">Klim</a>  @  [Hackathon at KNIME](https://www.knime.com/community/image-processing){:target="_blank"} in Konstanz.  
+<small>Klim is working on the updated version of the Radial Symmetry plugin and applying neural networks to the detection problems.</small>
+<hr/> <!--line separator-->
+<br/>
+
 #### **August 2017**
 
 22 – 25  
