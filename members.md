@@ -12,10 +12,6 @@ weight: 2
     <p class="stephan-img-text">Stephan<br/>Preibisch</p>
   </div>
   <div class="member-img-small">
-    <img class="img-varun" id="small-varun" onclick="scrollDown('varun');" onmouseover="displayName('varun');" onmouseout="hideName('varun');"/>
-    <p class="varun-img-text">Varun<br/>Kapoor</p>
-  </div>
-  <div class="member-img-small">
     <img class="img-nikita" id="small-nikita" onclick="scrollDown('nikita');" onmouseover="displayName('nikita');" onmouseout="hideName('nikita');"/>
     <p class="nikita-img-text">Nikita<br/>Vladimirov</p>
   </div>
@@ -40,8 +36,12 @@ weight: 2
     <p class="friedrich-img-text">Friedrich<br/>Preusser</p>
   </div>
   <div class="member-img-small">
-    <img class="img-lenon" id="small-lenon" onclick="scrollDown('lenon');" onmouseover="displayName('lenon');" onmouseout="hideName('lenon');"/>
-    <p class="lenon-img-text">Lenon<br/>Matchett</p>
+    <img class="img-marwan" id="small-marwan" onclick="scrollDown('marwan');" onmouseover="displayName('marwan');" onmouseout="hideName('marwan');"/>
+    <p class="marwan-img-text">Marwan<br/>Zouinkhi</p>
+  </div>
+  <div class="member-img-small">
+    <img class="img-lennon" id="small-lennon" onclick="scrollDown('lennon');" onmouseover="displayName('lennon');" onmouseout="hideName('lennon');"/>
+    <p class="lennon-img-text">Lennon<br/>Matchett</p>
   </div>
   <div class="member-img-small">
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
@@ -82,37 +82,6 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 </div>
 
 <br>
----------------------------------------
-
-<br>
-
-<div id="varun" class="member"></div>
-<div class="row">
-
-  <div class="col-md-3">
-    <img class="member-img img-varun"/>
-  </div>
-
-  <div class="col-md-9" markdown="1">
-
-
-### Varun Kapoor, PhD
-
-#### Postdoc
-
-Varun graduated from Panjab University in India specializing in physics and mathematics. He continued his postgraduate studies in theoretical physics at IMSc, India and the University of Manchester, UK with specialization in Quantum Chromodynamics. In his doctoral studies at the University of Rostock, he focused on obtaining atomic dynamics by solving respective PDE's and then moved to MPI in Göttingen focusing on multi-electron systems and biostatistics. Currently he is interested in developing generic algorithms and implementing them in a user-friendly interface to be used as general purpose tools for bio-physical applications.
-
-**Find him on:**
-[<img class="img-github">](https://github.com/kapoorlab){:target="_blank"}
-
-**E-mail:** [<img class="img-email">](mailto:Varun.Kapoor@mdc-berlin.de){:target="_blank"}
-
-
-  </div>
-</div>
-
-<br>
-
 ---------------------------------------
 
 <br>
@@ -299,19 +268,48 @@ Friedrich obtained a B.Sc. in Molecular Biology, graduating from an internationa
 <br>
 
 ---------------------------------------
-
 <br>
 
-<div id="lenon" class="member"></div>
+<div id="marwan" class="member"></div>
 <div class="row">
 
   <div class="col-md-3">
-    <img class="member-img img-lenon"/>
+    <img class="member-img img-marwan"/>
   </div>
 
   <div class="col-md-9" markdown="1">
 
-### Lenon Matchett-Oates
+### Marwan Zouinkhi
+
+#### PhD Student
+
+Marwan did his Dipl.-Ing. in software engineering at ISSAT Sousse University, Tunisia, followed by industry and entrepreneurial experience. He is working on new imaging strategies based on Computer Vision and Machine Learning in Circular RNAs analysis.
+
+**Find him on:**  
+[<img class="img-github">](https://github.com/mzouink){:target="_blank"}
+
+**Email:**  
+[<img class="img-email">](mailto:marwan.zouinkhi@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
+<div id="lennon" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-lennon"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Lennon Matchett-Oates
 
 #### Aspirant
 
@@ -377,22 +375,52 @@ Lennon did his Bachelor studies in Biotechnology at The Royal Melbourne Institut
 
 <br>
 
+---------------------------------------
+
+<br>
+<h2>Past Members</h2>
+
+
+
+<br>
+
+<div id="varun" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-varun"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+<br><br><br><br><br><br>
+#### Varun Kapoor, PhD
+
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <script>
 
 // YOU CAN CHANGE YOUR IMAGE SOURCE HERE:
 $('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
-$('.img-varun').attr({src: "http://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
 $('.img-nikita').attr({src: "http://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimirov"});
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
 $('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
 $('.img-friedrich').attr({src: "http://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
-$('.img-lenon').attr({src: "http://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
+$('.img-marwan').attr({src: "https://i.imgur.com/lylOvFJ.jpg", alt: "Friedrich Preusser"});
+$('.img-lennon').attr({src: "http://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
-
+$('.img-varun').attr({src: "http://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
 
 $('.img-twitter').attr({src: "http://i.imgur.com/oxJIrNq.png", alt: "twitter"});
 $('.img-youtube').attr({src: "http://i.imgur.com/Nt4ZEqC.png", alt: "youtube"});

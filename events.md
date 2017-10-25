@@ -306,14 +306,15 @@ Feb 27 – Mar 05
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
 	$('.link-stephan').attr("href", "{{ site.baseurl }}/members#stephan");
-	$('.link-varun').attr("href", "{{ site.baseurl }}/members#varun");
 	$('.link-nikita').attr("href", "{{ site.baseurl }}/members#nikita");
 	$('.link-ella').attr("href", "{{ site.baseurl }}/members#ella");
 	$('.link-laura').attr("href", "{{ site.baseurl }}/members#laura");
 	$('.link-dhana').attr("href", "{{ site.baseurl }}/members#dhana");
 	$('.link-klim').attr("href", "{{ site.baseurl }}/members#klim");
 	$('.link-friedrich').attr("href", "{{ site.baseurl }}/members#friedrich");
+	$('.link-marwan').attr("href", "{{ site.baseurl }}/members#marwan");
 	$('.link-lenon').attr("href", "{{ site.baseurl }}/members#lenon");
+	$('.link-varun').attr("href", "{{ site.baseurl }}/members#varun");
 </script>
 
 
