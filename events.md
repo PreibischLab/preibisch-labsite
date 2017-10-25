@@ -7,16 +7,24 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **December 2017**
+
+03 – 16  
+<a class="link-klim">Klim</a> @ MPI-CBG Hackathon in Dresden.
+<small>Klim is working on the integration of the Radial Symmetry node into KNIME.</small>
+<hr/> <!--line separator-->
+<br/>
+
 #### **September 2017**
 
 20 – 29  
-<a class="link-klim">Klim</a>  @  [Hackathon at KNIME](https://www.knime.com/community/image-processing){:target="_blank"} in Konstanz.  
+<a class="link-klim">Klim</a> @ [Hackathon at KNIME](https://www.knime.com/community/image-processing){:target="_blank"} in Konstanz.  
 <small>Klim is working on the updated version of the Radial Symmetry plugin and applying neural networks to the detection problems.</small>
 <hr/> <!--line separator-->
 <br/>
 
 14 – 16  
-<a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @  [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.
+<a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @ [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.
 <hr/> <!--line separator-->
 <br/>
 
@@ -62,7 +70,7 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
-6 – 8  
+06 – 08  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"}, [#BSM2017](https://twitter.com/hashtag/bsm2017?f=tweets&vertical=default){:target="_blank"} in Berlin.    
 <hr/> <!--line separator-->
 <br/>
