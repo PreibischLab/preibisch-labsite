@@ -10,7 +10,7 @@ weight: 3
 #### **December 2017**
 
 03 – 16  
-<a class="link-klim">Klim</a> @ MPI-CBG Hackathon in Dresden.
+<a class="link-klim">Klim</a> @ MPI-CBG Hackathon in Dresden.  
 <small>Klim is working on the integration of the Radial Symmetry node into KNIME.</small>
 <hr/> <!--line separator-->
 <br/>
