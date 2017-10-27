@@ -15,6 +15,13 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
+#### **November 2017**
+
+10 – 15  
+<a class="link-stephan">Stephan</a> and <a class="link-nikita">Nikita</a> @ Society for Neuroscience Meeting (SFN) in Washington, DC.  
+<hr/> <!--line separator-->
+<br/>
+
 #### **September 2017**
 
 20 – 29  
