@@ -16,9 +16,20 @@ weight: 3
 <br/>
 
 #### **November 2017**
-
 10 – 15  
 <a class="link-stephan">Stephan</a> and <a class="link-nikita">Nikita</a> @ Society for Neuroscience Meeting (SFN) in Washington, DC.  
+<hr/> <!--line separator-->
+<br/>
+
+7 
+<a class="link-dhana">Dhana</a> and <a class="link-friedrich">Friedrich</a> @  [Future Medicine 21017](https://https://science-match.tagesspiegel.de/future-medicine-2017){:target="_blank"} in Berlin [#futuremed17](https://twitter.com/search?q=%23futuremed17&src=tyah){:target="_blank"}. 
+<hr/> <!--line separator-->
+<br/>
+
+#### **October 2017**
+
+4 – 7  
+<a class="link-dhana">Dhana</a> @ [Seeing is Believing](https://www.embo-embl-symposia.org/symposia/2017/EES17-08/){:target="_blank"} at EMBL Heidelberg [#eesimaging](https://twitter.com/search?src=typd&q=%23eesimaging){:target="_blank"}.
 <hr/> <!--line separator-->
 <br/>
 
