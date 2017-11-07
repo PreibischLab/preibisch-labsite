@@ -21,7 +21,7 @@ weight: 3
 <hr/> <!--line separator-->
 <br/>
 
-7 - 7 
+7  
 <a class="link-dhana">Dhana</a> and <a class="link-friedrich">Friedrich</a> @  [Future Medicine 21017](https://https://science-match.tagesspiegel.de/future-medicine-2017){:target="_blank"} in Berlin [#futuremed17](https://twitter.com/search?q=%23futuremed17&src=tyah){:target="_blank"}. 
 <hr/> <!--line separator-->
 <br/>
