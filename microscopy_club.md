@@ -12,19 +12,19 @@ weight: 4
 
 <div class="row">
 
-<p><b>Next meeting:</b></p>
-
-<div class="col-md-2">
-01.11.2017, 15:00, MDC.89, room 2.17
-</div>
-<div class="col-md-10" markdown="1">
-**Sensors and cameras.** Discussion of **Nico Stuurman's** [online lectures](https://www.youtube.com/watch?v=8WpCov8iYCU){:target="_blank"} from [ibiology.org](https://www.ibiology.org/){:target="_blank"}
-</div>
+<p><b>Next meeting: TBA</b></p>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+
+<div class="col-md-2">
+01.11.2017
+</div>
+<div class="col-md-10" markdown="1">
+**Sensors and cameras.** Discussion of **Nico Stuurman's** [online lectures](https://www.youtube.com/watch?v=8WpCov8iYCU){:target="_blank"} from [ibiology.org](https://www.ibiology.org/){:target="_blank"}
+</div>
 
 <div class="col-md-2">
 04.10.2017
@@ -59,7 +59,7 @@ Gaussian and Bessel beams. [PDF](/assets/mClub-Vladimirov-2017June2017-GaussianB
 </div>
 <div class="col-md-10" markdown="1">
 **Marie Walde, Woehler Lab**  
-Optical resolution and diffraction.
+Optical resolution and diffraction. [PDF](/assets/mClub-Walde-2017May-Resolution.pdf){:target="_blank"}
 </div>
 
 <div class="col-md-2">
