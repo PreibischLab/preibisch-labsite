@@ -11,8 +11,15 @@ weight: 4
 </div>
 
 <div class="row">
+<p><b>Next meeting:</b></p>
+</div>
 
-<p><b>Next meeting: TBA</b></p>
+<div class="col-md-2">
+06.12.2017, MDC, Blg. 89, Room 2.17.
+</div>
+
+<div class="col-md-10" markdown="1">
+**The unresolved mystery of physics: Double-Slit Experiment** Watching [The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios](https://www.youtube.com/watch?v=p-MNSLsjjdo){:target="_blank"} and [Richard Feynman's Lecture on Electron Two-Slit Experiment](https://www.youtube.com/watch?v=2mIk3wBJDgE){:target="_blank"}
 </div>
 
 <div class="row">
@@ -22,6 +29,7 @@ weight: 4
 <div class="col-md-2">
 01.11.2017
 </div>
+
 <div class="col-md-10" markdown="1">
 **Sensors and cameras.** Discussion of **Nico Stuurman's** [online lectures](https://www.youtube.com/watch?v=8WpCov8iYCU){:target="_blank"} from [ibiology.org](https://www.ibiology.org/){:target="_blank"}
 </div>
