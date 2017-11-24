@@ -19,7 +19,7 @@ weight: 4
 </div>
 
 <div class="col-md-10" markdown="1">
-**A mystery of physics: the Double-Slit Experiment**. We will watch [The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios](https://www.youtube.com/watch?v=p-MNSLsjjdo){:target="_blank"} and the classics, [Richard Feynman's Lecture on Electron Two-Slit Experiment](https://www.youtube.com/watch?v=2mIk3wBJDgE){:target="_blank"}
+**An unresolved mystery of physics: the Double-Slit Experiment**. We will watch [The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios](https://www.youtube.com/watch?v=p-MNSLsjjdo){:target="_blank"} and the classics, [Richard Feynman's Lecture on Electron Two-Slit Experiment](https://www.youtube.com/watch?v=2mIk3wBJDgE){:target="_blank"}
 </div>
 
 <div class="row">
