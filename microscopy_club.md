@@ -15,7 +15,7 @@ weight: 4
 </div>
 
 <div class="col-md-2">
-06.12.2017, MDC, Blg. 89, Room 2.17.
+06.12.2017, MDC, Blg. 89, Room 1.17.
 </div>
 
 <div class="col-md-10" markdown="1">
