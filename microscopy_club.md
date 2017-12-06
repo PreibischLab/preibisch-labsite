@@ -19,7 +19,7 @@ weight: 4
 </div>
 
 <div class="col-md-10" markdown="1">
-Guest Speaker! [**Benjamin Judkewitz**](http://www.jlab.berlin/){:target="_blank"} from Charité.
+Guest speaker **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
 </div>
 
 <div class="row">
