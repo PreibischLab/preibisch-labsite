@@ -12,7 +12,7 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-</div>
+
 
 <div class="col-md-2">
 24.01.2018, MDC, Blg. 89, Room 2.17, at 15:00.
@@ -20,6 +20,7 @@ weight: 4
 
 <div class="col-md-10" markdown="1">
 Guest speaker **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
+</div>
 </div>
 
 <div class="row">
