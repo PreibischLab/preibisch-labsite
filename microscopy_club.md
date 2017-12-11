@@ -18,7 +18,7 @@ weight: 4
 </div>
 
 <div class="col-md-10" markdown="1">
-Guest speaker! **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
+Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité, 
 </div>
 </div>
 
