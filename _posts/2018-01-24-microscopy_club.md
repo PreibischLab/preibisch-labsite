@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Next Microscopy Club meeting"
-date:   2018-01-24    
+date:   2017-12-22    
 ---
 January 24, “Deep imaging with time-reversed light” by Benjamin Judkewitz. [Details](http://preibischlab.mdc-berlin.de/microscopy-club/)
 
