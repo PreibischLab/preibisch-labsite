@@ -11,7 +11,7 @@ weight: 4
 </div>
 
 <div class="row">
-<p><b>Upcoming meetings:</b></p>
+<p><b>Upcoming:</b></p>
 
 <div class="col-md-2">
 24.01.2018, MDC, Blg. 89, Room 2.17, at 15:00.
@@ -19,6 +19,7 @@ weight: 4
 
 <div class="col-md-10" markdown="1">
 Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
+</div>
 </div>
 
 <div class="col-md-2">
@@ -29,7 +30,7 @@ Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**
 "Examining the performance of a confocal microscope" by **Konstantin Grohmann**, [Advanced Light Microscopy platform](https://www.mdc-berlin.de/9126126/en/research/core_facilities/Advanced-Light-Microscopy){:target="_blank"} of MDC.
 </div>
 
-</div>
+
 
 
 <div class="row">
