@@ -23,7 +23,7 @@ Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**
 </div>
 
 <div class="row">
-<p><b>January 2018:</b></p>
+<p><b>February 2018:</b></p>
 	
 <div class="col-md-2">
 07.02.2018, at 15:00, place TBA.
