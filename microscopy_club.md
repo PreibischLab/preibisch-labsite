@@ -13,20 +13,13 @@ weight: 4
 <div class="row">
 <p><b>January 2018:</b></p>
 
-<div class="col-md-2">
-24.01.2018, MDC, Blg. 89, Room 2.17, at 15:00.
-</div>
-
-<div class="col-md-10" markdown="1">
-Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
-</div>
 </div>
 
 <div class="row">
 <p><b>February 2018:</b></p>
 	
 <div class="col-md-2">
-07.02.2018, at 15:00, place TBA.
+14.02.2018, at 15:00, place TBA.
 </div>
 
 <div class="col-md-10" markdown="1">
@@ -38,10 +31,12 @@ Guest speaker! "Deep imaging with time-reversed light" by **Benjamin Judkewitz**
 <p></p>
 <p><b>Past meetings:</b></p>
 
-<div class="col-md-2">
-06.12.2017
+<div class="col-md-2"> 24.01.2018 </div>
+<div class="col-md-10" markdown="1">
+"Deep imaging with time-reversed light" by **Benjamin Judkewitz**, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.
 </div>
 
+<div class="col-md-2"> 06.12.2017 </div>
 <div class="col-md-10" markdown="1">
 **An unresolved mystery of physics: the Double-Slit Experiment**. Watching [The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios](https://www.youtube.com/watch?v=p-MNSLsjjdo){:target="_blank"} and the classics, [Richard Feynman's Lecture on Electron Two-Slit Experiment](https://www.youtube.com/watch?v=2mIk3wBJDgE){:target="_blank"}
 </div>
