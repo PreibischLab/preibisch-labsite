@@ -11,11 +11,6 @@ weight: 4
 </div>
 
 <div class="row">
-<p><b>January 2018:</b></p>
-
-</div>
-
-<div class="row">
 <p><b>February 2018:</b></p>
 	
 <div class="col-md-2">
