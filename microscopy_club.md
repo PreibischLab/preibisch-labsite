@@ -28,7 +28,7 @@ weight: 4
 
 <div class="col-md-2"> 24.01.2018 </div>
 <div class="col-md-10" markdown="1">
-**Benjamin Judkewitz, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/) at Charité.**
+**Benjamin Judkewitz, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/) at Charité.**  
 Deep imaging with time-reversed light.
 </div>
 
@@ -44,7 +44,7 @@ Deep imaging with time-reversed light.
 
 <div class="col-md-2"> 04.10.2017 </div>
 <div class="col-md-10" markdown="1">
-**Martin Lehmann, Core Facility Cellular Imaging FMP** 
+**Martin Lehmann, Core Facility Cellular Imaging FMP**  
 Introduction to fluorescent probes in microscopy. Quantitative assessment of fluorescent proteins. ([Cranfill et al., Nat. Methods, 2016](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3891.html){:target="_blank"}).
 [PDF](/assets/mClub-Lehmann-2017Oct-Fluorescent_proteins.pdf){:target="_blank"}
 </div>
