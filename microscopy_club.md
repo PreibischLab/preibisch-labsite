@@ -28,8 +28,7 @@ weight: 4
 
 <div class="col-md-2"> 24.01.2018 </div>
 <div class="col-md-10" markdown="1">
-**Benjamin Judkewitz, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/){:target="_blank"} at Charité.**
-
+**Benjamin Judkewitz, head of the [Bioimaging and Neurophotonics Lab](http://www.jlab.berlin/) at Charité.**
 Deep imaging with time-reversed light.
 </div>
 
