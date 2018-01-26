@@ -23,4 +23,6 @@ collections:
   extras:
     output: true
     permalink: /extras/:path/
-
+  external:
+    output: true
+    permalink: /external/:path/
