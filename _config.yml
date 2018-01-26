@@ -25,5 +25,3 @@ collections:
   external:
     output: true
     permalink: /external/:path/
-
-
