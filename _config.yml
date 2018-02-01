@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
   We develop software in the context of ImgLib2, Fiji, and BigDataViewer and provide it open-source to the community.
   Our lab is a part of Berlin Institute of Medical System Biology (BIMSB) in MDC-Berlin.
-baseurl: "" 
+baseurl: "preibisch-labsite/" 
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 /**twitter_username: jekyllrb
 ?**github_username:  XXXXX
