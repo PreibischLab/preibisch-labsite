@@ -7,29 +7,26 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **March 2018**
+
+26 – 28  
+<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ SignGene Winter School on Chromatin & Gene Expression in Israel.
+<hr/> <!--line separator-->
+
+01 – 03  
+<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden. 
+<hr/> <!--line separator-->
+<br/>
+
 #### **January 2018**
 
 31 – 01 Feb  
 <a class="link-klim">Klim</a>, <a class="link-ella">Ella</a>, and <a class="link-marwan">Marwan</a> @ NEUBIAS conference in Szeged, Hungary.  
 <small>Klim and Ella presented their work. </small>
 
-#### **March 2018**
-
-26 – 28  
-<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ SignGene Winter School on Chromatin & Gene Expression in Israel.
-<hr/> <!--line separator-->
-<br/>
-
-01 – 03  
-<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/) {:target="_blank"} in Dresden. 
-<hr/> <!--line separator-->
-<br/>
-
-#### **January 2018**
-
 04 – 06  
 <a class="link-dhana">Dhana</a> @ Quantitative Bioimaging Meeting in Göttingen.  
->>>>>>> 73f71a5f33e981de1fb8261cdaac897e8b17b1ce
+
 <hr/> <!--line separator-->
 <br/>
 
