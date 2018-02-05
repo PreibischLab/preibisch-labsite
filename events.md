@@ -12,7 +12,7 @@ weight: 3
 31 – 01 Feb  
 <a class="link-klim">Klim</a>, <a class="link-ella">Ella</a>, and <a class="link-marwan">Marwan</a> @ NEUBIAS conference in Szeged, Hungary.  
 <small>Klim and Ella presented their work. </small>
-=======
+
 #### **March 2018**
 
 26 – 28  
