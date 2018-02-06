@@ -10,7 +10,7 @@ weight: 4
 	<p>To subscribe to the mailing list, write an empty email with subject “++” to <a href="mailto:nikita.vladimirov@mdc-berlin.de" target="_blank">Nikita Vladimirov</a>. To unsubscribe, write an empty email with “–”. </p>
 </div>
 
-<a href="{{ site.baseurl }}/extras/bimsb_seminar_doc.html" class="btn btn-primary btn-xl">To all previous presentations</a>
+ <a href="{{ site.baseurl }}/extras/bimsb_seminar_doc.html" target="_blank"><b>Click here to view all previous presentations</b></a>
 
 <div class="row">
 <p><b>February 2018:</b></p>
