@@ -84,7 +84,7 @@ Optical resolution and diffraction. [Slides](/assets/mClub-Walde-2017May-Resolut
 </div>
 <div class="col-md-10" markdown="1">
 **Nikita Vladimirov, Preibisch Lab**  
-Geometrical optics. [Slides](/assets/mClub-Vladimirov-2017April.zip){:target="_blank"}
+Geometrical optics. [Slides](/assets/mClub-Vladimirov-2017April-GeometricalOptics.zip){:target="_blank"}
 </div>
 
 </div>
