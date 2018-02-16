@@ -8,23 +8,26 @@ weight: 4
 <div class="micro-club-description">
 	<p>The aim of our club is to bring together people who do microscopy or want to learn about it. Our club is highly interdisciplinary: we have physicists, biologists, computer scientists, and DIY geeks among us. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteer and guest speakers are very welcome! </p>
 	<p>To subscribe to the mailing list, write an empty email with subject “++” to <a href="mailto:nikita.vladimirov@mdc-berlin.de" target="_blank">Nikita Vladimirov</a>. To unsubscribe, write an empty email with “–”. </p>
+	<p> Presentations can be downloaded as password-protected zip-archives. Contact the club admin (NV) for password. </p>
 </div>
 
 <div class="row">
-<p><b>February 2018:</b></p>
-	
-<div class="col-md-2">
-14.02.2018, at 15:00, Bld. 89, Room 2.17.
-</div>
-
+<p><b>March 2018:</b></p>
+<div class="col-md-2"> TBA </div>
 <div class="col-md-10" markdown="1">
-"Examining the performance of a confocal microscope" by **Konstantin Grohmann**, [Advanced Light Microscopy platform](https://www.mdc-berlin.de/9126126/en/research/core_facilities/Advanced-Light-Microscopy){:target="_blank"} of MDC.
+TBA
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+
+<div class="col-md-2"> 14.02.2018 </div>
+<div class="col-md-10" markdown="1">
+"Examining the performance of a confocal microscope" by **Konstantin Grohmann**, [Advanced Light Microscopy platform](https://www.mdc-berlin.de/9126126/en/research/core_facilities/Advanced-Light-Microscopy){:target="_blank"} of MDC. 
+[Slides](/assets/mClub-Grohmann-2018Feb-Performance.zip){:target="_blank"}
+</div>
 
 <div class="col-md-2"> 24.01.2018 </div>
 <div class="col-md-10" markdown="1">
@@ -46,7 +49,7 @@ Deep imaging with time-reversed light.
 <div class="col-md-10" markdown="1">
 **Martin Lehmann, Core Facility Cellular Imaging FMP**  
 Introduction to fluorescent probes in microscopy. Quantitative assessment of fluorescent proteins. ([Cranfill et al., Nat. Methods, 2016](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3891.html){:target="_blank"}).
-[PDF](/assets/mClub-Lehmann-2017Oct-Fluorescent_proteins.pdf){:target="_blank"}
+[Slides](/assets/mClub-Lehmann-2017Oct-Fluorescent_proteins.zip){:target="_blank"}
 </div>
 
 <div class="col-md-2">
@@ -55,7 +58,7 @@ Introduction to fluorescent probes in microscopy. Quantitative assessment of flu
 <div class="col-md-10" markdown="1">
 **Nikita Vladimirov, Preibisch Lab**  
 Autofocus in microscopy and photography. RAPID: Real-time image-based autofocus for all wide-field optical microscopy systems. ([Silvestri et al, 2017](https://www.biorxiv.org/content/early/2017/07/31/170555){:target="_blank"}).
-[PDF](/assets/mClub-Vladimirov-2017August-Autofocus.pdf){:target="_blank"}
+[Slides](/assets/mClub-Vladimirov-2017August-Autofocus.zip){:target="_blank"}
 </div>
 
 <div class="col-md-2">
@@ -63,9 +66,9 @@ Autofocus in microscopy and photography. RAPID: Real-time image-based autofocus 
 </div>
 <div class="col-md-10" markdown="1">
 **Varun Kapoor, Preibisch Lab**   
-Maxwell equations. [PDF](/assets/mClub-Kapoor-2017June-Maxwell.pdf){:target="_blank"}  
+Maxwell equations. [Slides](/assets/mClub-Kapoor-2017June-Maxwell.zip){:target="_blank"}  
 **Nikita Vladimirov, Preibisch Lab**  
-Gaussian and Bessel beams. [PDF](/assets/mClub-Vladimirov-2017June2017-GaussianBeams.pdf){:target="_blank"}
+Gaussian and Bessel beams. [Slides](/assets/mClub-Vladimirov-2017June2017-GaussianBeams.zip){:target="_blank"}
 </div>
 
 <div class="col-md-2">
@@ -73,7 +76,7 @@ Gaussian and Bessel beams. [PDF](/assets/mClub-Vladimirov-2017June2017-GaussianB
 </div>
 <div class="col-md-10" markdown="1">
 **Marie Walde, Woehler Lab**  
-Optical resolution and diffraction. [PDF](/assets/mClub-Walde-2017May-Resolution.pdf){:target="_blank"}
+Optical resolution and diffraction. [Slides](/assets/mClub-Walde-2017May-Resolution.zip){:target="_blank"}
 </div>
 
 <div class="col-md-2">
@@ -81,7 +84,7 @@ Optical resolution and diffraction. [PDF](/assets/mClub-Walde-2017May-Resolution
 </div>
 <div class="col-md-10" markdown="1">
 **Nikita Vladimirov, Preibisch Lab**  
-Geometrical optics. [PDF](/assets/mClub-Vladimirov-2017April.pdf){:target="_blank"}
+Geometrical optics. [Slides](/assets/mClub-Vladimirov-2017April.zip){:target="_blank"}
 </div>
 
 </div>
