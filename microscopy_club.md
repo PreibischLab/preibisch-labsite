@@ -26,7 +26,7 @@ TBA
 <div class="col-md-2"> 14.02.2018 </div>
 <div class="col-md-10" markdown="1">
 **Konstantin Grohmann**, [Advanced Light Microscopy platform](https://www.mdc-berlin.de/9126126/en/research/core_facilities/Advanced-Light-Microscopy), MDC.  
-Examining the performance of a confocal microscope.
+Examining the performance of a fluorescence microscope.
 [Slides](/assets/mClub-Grohmann-2018Feb-Performance.zip){:target="_blank"}
 </div>
 
