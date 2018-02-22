@@ -8,7 +8,7 @@ published: false
 <div class="bimsb-seminar">
     <!--
     <br/>
-    <h3><span style="color:#00428d">BIMSB Seminar Series 2017</span></h3>
+    <h3><span style="color:#00428d">BIMSB Seminar Series</span></h3>
     <br/>
     -->
 
@@ -22,13 +22,20 @@ published: false
 
     <div class="tab-content">
 
-        <div id="bimsb-future" class="tab-pane fade in active">
+    <div id="bimsb-future" class="tab-pane fade in active">
 
         PLACEHOLDER_FUTURE_EVENTS
             
-        </div>
+    </div>
 
-        <div id="bimsb-past-2017" class="tab-pane fade">
+    <div id="bimsb-past-2017" class="tab-pane fade">
+
+        PLACEHOLDER_PAST_2018
+
+    </div>
+
+
+    <div id="bimsb-past-2017" class="tab-pane fade">
 
         PLACEHOLDER_PAST_2017
 
