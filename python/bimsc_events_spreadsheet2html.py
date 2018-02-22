@@ -30,7 +30,7 @@ all_events['Date'] = all_events['Date'].apply(pd.to_datetime, dayfirst=True)
 
 # Make individual dataframes for each tab in the HTML:
 events_2016 = all_events.loc[all_events['Date'] < datetime(2017, 1, 1)].sort_values(['Date'], ascending=[True])
-events_past2017 = all_events[(all_events['Date'] > datetime(2017, 1, 1)) & (all_events['Date'] < datetime.today().date())].sort_values(['Date'], ascending=[True])
+events_past2017 = all_events.loc[all_events['Date'] < datetime(2018, 1, 1)].sort_values(['Date'], ascending=[True])
 events_past2018 = all_events[(all_events['Date'] > datetime(2018, 1, 1)) & (all_events['Date'] < datetime.today().date())].sort_values(['Date'], ascending=[True])
 events_future = (all_events.loc[all_events['Date'] >=  datetime.today().date()]).sort_values(['Date'], ascending=[True])
 
