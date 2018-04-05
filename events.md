@@ -9,7 +9,7 @@ weight: 3
 
 #### **May 2018**
 
-<a class="link-laura">Laura</a> @ [Nuclear Organization & Functionconference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
+<a class="link-laura">Laura</a> @ [Nuclear Organization & Function conference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
 <small>Poster presentation on transcription regulation in the contex of dosage compensation in C.elegans.</small>
 <hr/> <!--line separator-->
 
