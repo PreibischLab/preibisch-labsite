@@ -22,7 +22,7 @@ weight: 3
 
 12 – 14  
 The whole lab went to a lab retreat in Sintra, Portugal. 
-<small>We discussed our work and had great talks by our guest Bruno Costa-Silva and Gaby Martins. </small>
+<small>We discussed our work and had great talks by our guests [Bruno Costa-Silva](http://neuro.fchampalimaud.org/en/research/investigators/research-groups/group/Costa-Silva/) and [Gaby Martins](http://www.gabygmartins.info). </small>
 
 
 01 – 03  
