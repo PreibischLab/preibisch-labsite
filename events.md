@@ -7,11 +7,23 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **May 2018**
+
+<a class="link-laura">Laura</a> @ [Nuclear Organization & Functionconference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
+<small>Poster presentation on transcription regulation in the contex of dosage compensation in C.elegans.</small>
+<hr/> <!--line separator-->
+
+
 #### **March 2018**
 
 26 – 28  
 <a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ SignGene Winter School on Chromatin & Gene Expression in Israel.
-<hr/> <!--line separator-->
+
+
+12 – 14  
+The whole lab went to a lab retreat in Sintra, Portugal. 
+<small>We discussed our work and had great talks by our guest Bruno Costa-Silva and Gaby Martins. </small>
+
 
 01 – 03  
 <a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden. 
@@ -41,13 +53,14 @@ weight: 3
 #### **November 2017**
 10 – 15  
 <a class="link-stephan">Stephan</a> and <a class="link-nikita">Nikita</a> @ Society for Neuroscience Meeting (SFN) in Washington, DC.  
-<hr/> <!--line separator-->
-<br/>
+
 
 07  
 <a class="link-dhana">Dhana</a> and <a class="link-friedrich">Friedrich</a> @  [Future Medicine 21017](https://https://science-match.tagesspiegel.de/future-medicine-2017){:target="_blank"} in Berlin [#futuremed17](https://twitter.com/search?q=%23futuremed17&src=tyah){:target="_blank"}. 
-<hr/> <!--line separator-->
-<br/>
+
+
+02 - 08 Dec
+<a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
 
 #### **October 2017**
 
@@ -61,11 +74,11 @@ weight: 3
 20 – 29  
 <a class="link-klim">Klim</a> @ [Hackathon at KNIME](https://www.knime.com/community/image-processing){:target="_blank"} in Konstanz.  
 <small>Klim is working on the updated version of the Radial Symmetry plugin and applying neural networks to the detection problems.</small>
-<hr/> <!--line separator-->
-<br/>
+
 
 14 – 16  
 <a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @ [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.
+<small>Laura and Klim helped to organise this years retreat.</small>
 <hr/> <!--line separator-->
 <br/>
 
@@ -90,26 +103,22 @@ weight: 3
 21 – 25  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](http://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
 <small>Ella will give a short talk and Laura will present a poster.</small>
-<hr/> <!--line separator-->
-<br/>
+
 
 18 – 21  
 <a class="link-dhana">Dhana</a>  @  [IMB Conference: Gene Regulation by the numbers](https://www.imb.de/seminars-meetings/meetings/2017-imb-conference-gene-regulation-by-the-numbers/){:target="_blank"} at the IMB in Mainz, Germany.  
 <small>Poster on quantitaive imaging of transcriptional regulation by p53 in the DNA damage response.</small>
-<hr/> <!--line separator-->
-<br/>
+
 
 14 – 17  
 <a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
 <small>Invited Speaker</small>
-<hr/> <!--line separator-->
-<br/>
+
 
 13 – 16  
 <a class="link-laura">Laura</a> @ [Second international meeting on SMC proteins](http://www.smcproteins2017.org){:target="_blank"} in Yamagata, Japan.   
 <small>Poster presentation on role of chromosome condensation on RNA Pol II and transcription. </small>
-<hr/> <!--line separator-->
-<br/>
+
 
 06 – 08  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"}, [#BSM2017](https://twitter.com/hashtag/bsm2017?f=tweets&vertical=default){:target="_blank"} in Berlin.    
