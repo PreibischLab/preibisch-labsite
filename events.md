@@ -61,7 +61,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a> and <a class="link-friedrich">Friedrich</a> @  [Future Medicine 21017](https://https://science-match.tagesspiegel.de/future-medicine-2017){:target="_blank"} in Berlin [#futuremed17](https://twitter.com/search?q=%23futuremed17&src=tyah){:target="_blank"}. 
 
 
-02 - 08 Dec
+02 - 08 Dec  
 <a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
 
 #### **October 2017**
