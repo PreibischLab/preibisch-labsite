@@ -17,7 +17,8 @@ weight: 3
 #### **March 2018**
 
 26 – 28  
-<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ SignGene Winter School on Chromatin & Gene Expression in Israel.
+<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ [SignGene Winter School on Chromatin & Gene Expression](https://www.mdc-berlin.de/content/scientific-events?mdcbl%5B0%5D=/signgene&mdctl=0&mdcou=0&mdcot=0&mdcbv=FMhoBxgbwuSn5uFL-5L5faoPigMOZH46gvguicvGq-I) in Israel.
+<small>Dhana and Laura presented their work. </small>
 
 
 12 – 14  
@@ -27,6 +28,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 
 01 – 03  
 <a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden. 
+<small>Dhana and Laura presented their work. </small>
 <hr/> <!--line separator-->
 <br/>
 
