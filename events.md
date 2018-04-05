@@ -17,17 +17,17 @@ weight: 3
 #### **March 2018**
 
 26 – 28  
-<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ [SignGene Winter School on Chromatin & Gene Expression](https://www.mdc-berlin.de/content/scientific-events?mdcbl%5B0%5D=/signgene&mdctl=0&mdcou=0&mdcot=0&mdcbv=FMhoBxgbwuSn5uFL-5L5faoPigMOZH46gvguicvGq-I) in Israel.
+<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ [SignGene Winter School on Chromatin & Gene Expression](https://www.mdc-berlin.de/content/scientific-events?mdcbl%5B0%5D=/signgene&mdctl=0&mdcou=0&mdcot=0&mdcbv=FMhoBxgbwuSn5uFL-5L5faoPigMOZH46gvguicvGq-I) in Israel.  
 <small>Dhana and Laura presented their work. </small>
 
 
 12 – 14  
-The whole lab went to a lab retreat in Sintra, Portugal. 
+The whole lab went to a lab retreat in Sintra, Portugal.   
 <small>We discussed our work and had great talks by our guests [Bruno Costa-Silva](http://neuro.fchampalimaud.org/en/research/investigators/research-groups/group/Costa-Silva/) and [Gaby Martins](http://www.gabygmartins.info). </small>
 
 
 01 – 03  
-<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden. 
+<a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden.   
 <small>Dhana and Laura presented their work. </small>
 <hr/> <!--line separator-->
 <br/>
@@ -79,7 +79,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 
 
 14 – 16  
-<a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @ [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.
+<a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @ [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.   
 <small>Laura and Klim helped to organise this years retreat.</small>
 <hr/> <!--line separator-->
 <br/>
