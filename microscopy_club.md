@@ -12,7 +12,7 @@ weight: 4
 </div>
 
 <div class="row">
-<p><b>March 2018:</b></p>
+<p><b>Next meeting:</b></p>
 <div class="col-md-2"> TBA </div>
 <div class="col-md-10" markdown="1">
 TBA
