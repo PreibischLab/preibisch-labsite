@@ -8,11 +8,14 @@ weight: 3
 <div id="events" markdown="1">
 
 #### **May 2018**
+[Microscopy club](http://preibischlab.mdc-berlin.de/microscopy-club/) meeting about co-localization analysis of fluorescence images.
 
 <a class="link-laura">Laura</a> @ [Nuclear Organization & Function conference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
 <small>Poster presentation on transcription regulation in the contex of dosage compensation in C.elegans.</small>
 <hr/> <!--line separator-->
 
+#### ** April 2018 **
+<a class="link-nikita">Nikita</a> upgraded his microscope with home-built motorized kinematic mirror, and it's [video](https://twitter.com/nvladimus/status/983988509693358080) went viral in a small but dedicated segment of twitter.
 
 #### **March 2018**
 
