@@ -13,7 +13,7 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> May 9, 15:00, MDC.89, 1.18 </div>
+<div class="col-md-2"> May 9, 15:00, MDC.89, 1.17 </div>
 <div class="col-md-10" markdown="1">
 **Marie Walde**, [Woehler Lab](https://www.mdc-berlin.de/light-microscopy), MDC. 
 Co-localization analysis of fluorescence images: Overview & recent development.  
