@@ -13,18 +13,24 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> May 9, 15:00, MDC.89, 1.17 </div>
+<div class="col-md-2"> June 6, 14:00, MDC.89, 1.17 </div>
 <div class="col-md-10" markdown="1">
-**Marie Walde**, [Woehler Lab](https://www.mdc-berlin.de/light-microscopy), MDC. 
-Co-localization analysis of fluorescence images: Overview & recent development.  
-Journal Club: Mapping molecular assemblies with fluorescence microscopy and object-based spatial statistics, [Lagache et al](https://www.nature.com/articles/s41467-018-03053-x), Nat. Comm. 2018. 
+**Elisabeth Baumann**, [Gerhardt Lab](https://www.mdc-berlin.de/gerhardt), MDC. 
+Creating sound with light: The principle and applications of Photoacoustic Microscopy. 
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
-
+	
+<div class="col-md-2"> 9.05.2018 </div>
+<div class="col-md-10" markdown="1">
+**Marie Walde**, [Woehler Lab](https://www.mdc-berlin.de/light-microscopy), MDC. 
+Co-localization analysis of fluorescence images: Overview & recent development.  
+Journal Club: Mapping molecular assemblies with fluorescence microscopy and object-based spatial statistics, [Lagache et al](https://www.nature.com/articles/s41467-018-03053-x), Nat. Comm. 2018. 
+</div>
+	
 <div class="col-md-2"> 14.02.2018 </div>
 <div class="col-md-10" markdown="1">
 **Konstantin Grohmann**, [Advanced Light Microscopy platform](https://www.mdc-berlin.de/9126126/en/research/core_facilities/Advanced-Light-Microscopy), MDC.  
