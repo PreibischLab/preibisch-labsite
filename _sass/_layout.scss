@@ -271,13 +271,21 @@ body {
     }
 }
 
-.design-cred {
+.disclaimer {
     margin-top: 5px;
-    margin-bottom: 5px; 
-    margin-right: 12px;
     color: #FFFFFF !important; 
     font-size: 90%; 
+}
+
+.disclaimer p {
+    display:inline;
+    padding-right: 20px;
     float: right;
+}
+
+.disclaimer a {
+    color:#6698FF;
+    padding-right: 20px;
 }
 
 /**
