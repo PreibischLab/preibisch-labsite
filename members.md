@@ -40,10 +40,6 @@ weight: 2
     <p class="marwan-img-text">Marwan<br/>Zouinkhi</p>
   </div>
   <div class="member-img-small">
-    <img class="img-lennon" id="small-lennon" onclick="scrollDown('lennon');" onmouseover="displayName('lennon');" onmouseout="hideName('lennon');"/>
-    <p class="lennon-img-text">Lennon<br/>Matchett</p>
-  </div>
-  <div class="member-img-small">
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
   </div>
@@ -300,36 +296,6 @@ Marwan did his Dipl.-Ing. in software engineering at ISSAT Sousse University, Tu
 
 <br>
 
-<div id="lennon" class="member"></div>
-<div class="row">
-
-  <div class="col-md-3">
-    <img class="member-img img-lennon"/>
-  </div>
-
-  <div class="col-md-9" markdown="1">
-
-### Lennon Matchett-Oates
-
-#### Aspirant
-
-Lennon did his Bachelor studies in Biotechnology at The Royal Melbourne Institute of Technology, Australia. He completed his Honours study in Plant Biotechnology creating new transformation techniques for agronomically important crops using Agrostis stolonifera as a model. Now in Germany for a year before heading back to Australia to complete his PhD.
-
-**Find him on:**  
-
-
-**Email:**  
-
-
-  </div>
-</div>
-
-<br>
-
----------------------------------------
-
-<br>
-
 <div id="andrea" class="member"></div>
 <div class="row">
 
@@ -396,6 +362,26 @@ Lennon did his Bachelor studies in Biotechnology at The Royal Melbourne Institut
 <br><br><br><br><br><br>
 #### Varun Kapoor, PhD
 
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
+<div id="lennon" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-lennon"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+<br><br><br><br><br><br>
+#### Lennon Matchett-Oates
 
   </div>
 </div>
