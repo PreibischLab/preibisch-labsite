@@ -331,54 +331,14 @@ body {
     padding-top: 5px;
 }
 
-.extendfull, .extendleft
-{
-    padding-left: 20%;
-    margin-left: -20%;
-    border-radius: 5px;
-
-    @include media-query($on-laptop) {
-        padding-left: 1%;
-        margin-left: -1%;
-    }
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
-.extendfull, .extendright
-{
-    padding-right: 20%;
-    margin-right: -20%;
-
-    @include media-query($on-laptop) {
-        padding-right: 1%;
-        margin-right: -1%;
-    }
-}
-
-/***
-@-moz-document url-prefix() {
-    
-    .extendfull, .extendleft
-    {
-        padding-left: 20%;
-        margin-left: -20%;
-        border-radius: 5px;
-
-        @include media-query($on-laptop) {
-            padding-left: 1%;
-            margin-left: -1%;
-        }
-    }
-
-    .extendfull, .extendright
-    {
-        margin-right: -3%;
-
-        @include media-query($on-laptop) {
-            padding-right: 1%;
-            margin-right: -1%;
-        }
-    }
-}  
-***/
 
 .lab-updates {
     background: #f6f6f6;
