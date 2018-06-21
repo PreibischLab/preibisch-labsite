@@ -13,17 +13,22 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> June 20, 15:00, MDC.89-1.17 </div>
+<div class="col-md-2"> TBA </div>
 <div class="col-md-10" markdown="1">
-**Elisabeth Baumann**, [Gerhardt Lab](https://www.mdc-berlin.de/gerhardt), MDC.  
-Creating sound with light: The principle and applications of Photoacoustic Microscopy. 
+ 
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
-	
+
+<div class="col-md-2"> 20.06.2018 </div>
+<div class="col-md-10" markdown="1">
+**Elisabeth Baumann**, [Gerhardt Lab](https://www.mdc-berlin.de/gerhardt), MDC.  
+Creating sound with light: The principle and applications of Photoacoustic Microscopy. 
+</div>
+
 <div class="col-md-2"> 9.05.2018 </div>
 <div class="col-md-10" markdown="1">
 **Marie Walde**, [Woehler Lab](https://www.mdc-berlin.de/light-microscopy), MDC. 
