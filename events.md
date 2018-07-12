@@ -7,6 +7,21 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **July 2018**
+
+30 June - 08  
+<a class="link-friedrich">Friedrich</a> @  [3D developmental imaging EMBO practical course](http://meetings.embo.org/event/18-developmental-imaging){:target="_blank"} at the Instituto Gulbenkian de Ciência in Oeiras, Portugal.  
+
+<hr/> <!--line separator-->
+
+#### **June 2018**
+
+13 - 17  
+<a class="link-friedrich">Friedrich</a> @  [C. elegans development, cell biology and gene expression](http://meetings.embo.org/event/18-c-elegans){:target="_blank"} in Barcelona, Spain.  
+<small>Poster on characterizing mechanisms of neuronal plasticity in the dauer-exiting C. elegans larva.</small>
+
+<hr/> <!--line separator-->
+
 #### **May 2018**
 [Microscopy club](http://preibischlab.mdc-berlin.de/microscopy-club/) meeting about co-localization analysis of fluorescence images.
 
