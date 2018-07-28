@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import date, datetime
 
 script_folder = '/home/ella/preibisch-labsite/python/'
-folder = '/home/ella/preibisch-labsite/_extras/'
+folder = '/home/ella/preibisch-labsite/_external/'
 
 # Set up access to google API:
 import gspread
@@ -25,62 +25,33 @@ sheet = client.open("#LSFM18 program").get_worksheet(0)
 list_of_hashes = sheet.get_all_records()
 # Convert each list of hashes to a dataframe:
 all_events = pd.DataFrame(list_of_hashes)
-# Concatinate all dataframes together:
-all_events = pd.concat(all_events)
 
-# Convert the date column to a date format:
-all_events['Date'] = all_events['Date'].apply(pd.to_datetime, dayfirst=True)
+events_str = ""
+for i, row in all_events.iterrows():
 
-# Make individual dataframes for each tab in the HTML:
-events_2016 = all_events.loc[all_events['Date'] < datetime(2017, 1, 1)].sort_values(['Date'], ascending=[True])
-events_past2017 = all_events[(all_events['Date'] < datetime(2018, 1, 1)) & (all_events['Date'] >= datetime(2017, 1, 1))].sort_values(['Date'], ascending=[True])
-events_past2018 = all_events[(all_events['Date'] > datetime(2018, 1, 1)) & (all_events['Date'] < datetime.today().date())].sort_values(['Date'], ascending=[True])
-events_future = (all_events.loc[all_events['Date'] >=  datetime.today().date()]).sort_values(['Date'], ascending=[True])
+  events_str = "".join([events_str, '<div class="row">\n'])
 
-# Make a list of dataframes - each dataframe belongs to a tab in the HTML:
-df_all_events_by_tab = [events_2016, events_past2017, events_past2018, events_future]
+  events_str = "".join([events_str, '<div class="col-md-3"><p style="margin:0px;padding:0px;"><b>', row["DAY"], '</b></p></div>\n'])
+  events_str = "".join([events_str, '<div class="col-md-3"><p class="text-muted" style="margin:0px;padding:0px;">', row["TIME"],'</p>'])
+  events_str = "".join([events_str, '<p class="text-muted" style="margin:0px;padding:0px;"><small>', row["SESSION"],'</small></p></div>\n'])
 
-# Create the string of HTML for each tab in the HTML:
-list_of_strings_4_html = []
-for df in df_all_events_by_tab:
-    events_str = ""
-    for i, row in df.iterrows():
-        if row['Publish?']=='V':
-            events_str = "".join([events_str, '<div class="row">\n'])
-            #events_2_paste = "".join([events_2_paste, '<div class="col-md-1"><p>', 
-            #                          row["Date"], '<br/><small>', row["Time"], '</small></p></div>\n'])
-            if row['Date'] > datetime(2018, 1, 1):
-                events_str = "".join([events_str, '<div class="col-md-1"><p>', 
-                          row["Date"].strftime('%d %b %Y'), '<br/><small>', row["Time"], '</small></p></div>\n']) 
-            else:
-                events_str = "".join([events_str, '<div class="col-md-1"><p>', 
-                          row["Date"].strftime('%d %b'), '<br/><small>', row["Time"], '</small></p></div>\n']) 
+  events_str = "".join([events_str, '<div class="col-md-6"><p class="text-muted" style="margin:0px;padding:0px;">', row["SPEAKER"], '</p>'])
+  events_str = "".join([events_str, '<p class="text-muted" style="margin:0px;padding:0px;"><small>', row["TITLE"], '</small></p></div>\n'])
+        
+  events_str = "".join([events_str,  '</div>\n'])
 
-
-            events_str = "".join([events_str, '<div class="col-md-5">\n'])
-            events_str = "".join([events_str, '<p><a href=', row["Link"] ,' target="_blank"><b>', row["Speaker"], '</b></a>, ', 
-                     row["Institute"], '<br/><small>Host: ', row["Host"], ', Location: ', row["Location"], '</small></p>\n'])
-            events_str = "".join([events_str,  '</div>\n'])
-            events_str = "".join([events_str, '<div class="col-md-6">\n'])
-            events_str = "".join([events_str, '<p>', row["Talk Title"], '</p>\n'])
-            events_str = "".join([events_str, '</div>\n'])
-            events_str = "".join([events_str, '</div>\n'])
-            events_str = "".join([events_str, '<hr/><br/>\n\n'])
-    list_of_strings_4_html.append(events_str)
+  events_str = "".join([events_str, '<hr style="margin:0px;padding:0px;"/>\n\n'])
 
 # Add events to HTML file:
 
-placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_PAST_2018','PLACEHOLDER_FUTURE_EVENTS']
+placeholder = 'PROGRAMME_PLACEHOLDER'
 
-f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
-f_write = open (folder + "bimsb_seminar.html", "w")
+f_read = open (script_folder + "lightsheet_workshop_template.txt", "r") 
+f_write = open (folder + "lightsheet_workshop.html", "w")
 
 f_r_dump = f_read.read()
 f_r_dump = f_r_dump.replace('published: false', 'published: true')
-f_r_dump = f_r_dump.replace(placeholders[0], list_of_strings_4_html[0])
-f_r_dump = f_r_dump.replace(placeholders[1], list_of_strings_4_html[1])
-f_r_dump = f_r_dump.replace(placeholders[2], list_of_strings_4_html[2])
-f_r_dump = f_r_dump.replace(placeholders[3], list_of_strings_4_html[3])
+f_r_dump = f_r_dump.replace(placeholder, events_str)
 
 f_write.write(f_r_dump)
 
