@@ -214,8 +214,8 @@ published: true
             </div>
             <div class="col-sm-4">
               <div class="team-member">
-                <img class="mx-auto rounded-circle" src="img/team/Tom Kirchhausen.jpg" alt="">
-                <h4><a href="http://www.idi.harvard.edu/investigators_research/investigator/kirchhausen_lab/" target="_blank">Tom Kirchhausen</a></h4>
+                <img class="mx-auto rounded-circle" src="img/team/Srigokul Upadhyayula.jpg" alt="">
+                <h4><a href="http://www.idi.harvard.edu/investigators_research/investigator/kirchhausen_lab/" target="_blank">Srigokul Upadhyayula</a></h4>
                 <p class="text-muted">Boston Children's Hospital, Harvard Medical School, Boston, USA</p>
               </div>
             </div>
