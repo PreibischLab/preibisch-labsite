@@ -7,6 +7,15 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **August 2018**
+
+25 - 28  
+<a class="link-laura">Laura</a> @ [EMBL Transcription and Chromatin](https://www.embl.de/training/events/2018/TRM18-01/){:target="_blank"} in Heidelberg.   
+<small>Poster presentation on transcription regulation in the context of dosage compensation in C. elegans.</small>
+
+<hr/> <!--line separator-->
+
+
 #### **July 2018**
 
 30 June - 08  
@@ -26,7 +35,7 @@ weight: 3
 [Microscopy club](http://preibischlab.mdc-berlin.de/microscopy-club/) meeting about co-localization analysis of fluorescence images.
 
 <a class="link-laura">Laura</a> @ [Nuclear Organization & Function conference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
-<small>Poster presentation on transcription regulation in the contex of dosage compensation in C.elegans.</small>
+<small>Poster presentation on transcription regulation in the context of dosage compensation in C. elegans.</small>
 
 <hr/> <!--line separator-->
 
