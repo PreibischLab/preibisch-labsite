@@ -15,7 +15,7 @@ weight: 4
 <p><b>Next meeting:</b></p>
 <div class="col-md-2"> 11. October 2018, Bldg. 89, Room 2.17 </div>
 <div class="col-md-10" markdown="1">
-**Selma E. Anthon**, [Lohse Lab](https://www.mdc-berlin.de/lohse).  
+**Selma E. Anton**, [Lohse Lab](https://www.mdc-berlin.de/lohse).  
 	
 Lasers: where do the colors come from, what can they be used for and everything else you need to know. 
 
