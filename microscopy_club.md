@@ -8,12 +8,19 @@ weight: 4
 <div class="micro-club-description">
 	<p>The aim of our club is to bring together people who do microscopy or want to learn about it. Our club is highly interdisciplinary: we have physicists, biologists, computer scientists, and DIY geeks among us. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteer and guest speakers are very welcome! </p>
 	<p>To subscribe to the mailing list, write an email to <a href="mailto:nikita.vladimirov@mdc-berlin.de" target="_blank">Nikita Vladimirov</a>. To unsubscribe, write an empty email with subject “unsubscribe”. </p>
-	<p> Presentations can be downloaded as password-protected zip-archives. Contact the club admin (NV) for password. </p>
+	<p> Contact the club admin (NV) for access to presentations. </p>
 </div>
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> 11. October 2018, Bldg. 89, Room 2.17 </div>
+<div class="col-md-2"> TBA </div>
+</div>
+
+<div class="row">
+<p></p>
+<p><b>Past meetings:</b></p>
+
+<div class="col-md-2"> 11.10.2018 </div>
 <div class="col-md-10" markdown="1">
 **Selma E. Anton**, [Lohse Lab](https://www.mdc-berlin.de/lohse).  
 	
@@ -23,11 +30,6 @@ Lasers: where do the colors come from, what can they be used for and everything 
 
 Imaging, brain mapping, and messing with neuronal networks in zebrafish brain (journal club).
 </div>
-</div>
-
-<div class="row">
-<p></p>
-<p><b>Past meetings:</b></p>
 
 <div class="col-md-2"> 20.06.2018 </div>
 <div class="col-md-10" markdown="1">
