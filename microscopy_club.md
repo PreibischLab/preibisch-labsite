@@ -22,12 +22,10 @@ weight: 4
 
 <div class="col-md-2"> 11.10.2018 </div>
 <div class="col-md-10" markdown="1">
-**Selma E. Anton**, [Lohse Lab](https://www.mdc-berlin.de/lohse).  
-	
+**Selma E. Anton**, [Lohse Lab](https://www.mdc-berlin.de/lohse). 	
 Lasers: where do the colors come from, what can they be used for and everything else you need to know. 
 
-**Nikita Vladimirov**, Preibisch Lab.  
-
+**Nikita Vladimirov**, Preibisch Lab. 
 Imaging, brain mapping, and messing with neuronal networks in zebrafish brain (journal club).
 </div>
 
