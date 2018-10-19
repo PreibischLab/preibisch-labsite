@@ -18,7 +18,7 @@ weight: 3
 
 27 - 29  
 <a class="link-marwan">Marwan</a> and <a class="link-friedrich">Friedrich</a> @ [MDC PhD Retreat](https://www.mdc-berlin.de/phd-retreat-2018){:target="_blank"} in Döllnsee–Schorfheide.   
-<small>Marwan and Friedrich presented posters summarizing their work. Marwan's poster on the BigStitcher won the first prize!.</small>
+<small>Marwan and Friedrich presented posters summarizing their work. Marwan's poster on the BigStitcher won the first prize!</small>
 
 
 #### **August 2018**
