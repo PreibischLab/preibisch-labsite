@@ -7,6 +7,20 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **October 2018**
+
+08 - 12  
+<a class="link-friedrich">Friedrich</a> @ [The Francis Crick Institute](https://www.crick.ac.uk/){:target="_blank"} in London.   
+<small>Friedrich presented his work during a talk and collaborated with the [Making Lab](https://www.crick.ac.uk/research/platforms-and-facilities/making-lab){:target="_blank"} to produce custom microfluidic chips for his project.</small>
+
+
+#### **September 2018**
+
+27 - 29  
+<a class="link-marwan">Marwan</a> and <a class="link-friedrich">Friedrich</a> @ [MDC PhD Retreat](https://www.mdc-berlin.de/phd-retreat-2018){:target="_blank"} in Döllnsee–Schorfheide.   
+<small>Marwan and Friedrich presented posters summarizing their work. Marwan's poster on the BigStitcher won the first prize!.</small>
+
+
 #### **August 2018**
 
 25 - 28  
