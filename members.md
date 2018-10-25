@@ -28,6 +28,14 @@ weight: 2
     <p class="dhana-img-text">Dhana<br/>Friedrich</p>
   </div>
   <div class="member-img-small">
+    <img class="img-peter" id="small-peter" onclick="scrollDown('peter');" onmouseover="displayName('peter');" onmouseout="hideName('peter');"/>
+    <p class="peter-img-text">Peter<br/>Hirsch</p>
+  </div>
+  <div class="member-img-small">
+    <img class="img-david" id="small-david" onclick="scrollDown('david');" onmouseover="displayName('david');" onmouseout="hideName('david');"/>
+    <p class="david-img-text">David<br/>Hörl</p>
+  </div>
+  <div class="member-img-small">
     <img class="img-klim" id="small-klim" onclick="scrollDown('klim');" onmouseover="displayName('klim');" onmouseout="hideName('klim');"/>
     <p class="klim-img-text">Klim<br/>Kolyvanov</p>
   </div>
@@ -43,6 +51,15 @@ weight: 2
     <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
     <p class="andrea-img-text">Andrea<br/>Grybowski</p>
   </div>
+  <div class="member-img-small">
+    <img class="img-mandy" id="small-mandy" onclick="scrollDown('mandy');" onmouseover="displayName('mandy');" onmouseout="hideName('mandy');"/>
+    <p class="mandy-img-text">Mandy<br/>Terne</p>
+  </div>
+  <div class="member-img-small">
+    <img class="img-kushtrim" id="small-kushtrim" onclick="scrollDown('kushtrim');" onmouseover="displayName('kushtrim');" onmouseout="hideName('kushtrim');"/>
+    <p class="kushtrim-img-text">Kushtrim<br/>Cerimi</p>
+  </div>
+
   <hr/>
 </div>
 
@@ -207,6 +224,66 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 
 <br>
 
+<div id="peter" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-peter"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Peter Hirsch
+
+#### Collaborating PhD Student
+
+Peter did his B.Sc. in computer science and media at the Bauhaus-Universität Weimar, Germany. During his master studies in computer science at the Technische Universität Dresden he focused on machine learning and wrote his master's thesis about deep reinforcement learning.
+
+**Find him on:**  
+<!--
+[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
+-->
+**E-mail:** [<img class="img-email">](mailto:Peter.Hirsch@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+<br>
+
+<div id="david" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-david"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### David Hörl
+
+#### Collaborating PhD Student
+
+
+David did a Bachelors in computer science at TU and LMU Munich as well as a Bachelors and Masters in biology at LMU. Afterwards, he started pursuing his PhD at LMU in the lab of Heinrich Leonhardt, with co-supervision by Stephan Preibisch. In the Preibisch lab, he is currently working on the development of tools for fast handling and robust, globally optimal reconstruction of very large light-sheet image datasets. In the Leonhardt lab, he is mainly working on automated microscopy and image analysis to facilitate, among others, high-throughput super-resolution imaging of sub-nuclear structures and chromatin architecture. In a collaboration of both labs with Nicolas Gompel (LMU), he is working on a platform for automated imaging and quantitative analysis of patterning of fly wings in dozens to hundreds of mutants lines.
+
+**Find him on:** 
+<!-- 
+[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
+-->
+**E-mail:** [<img class="img-email">](mailto:mailto:hoerl@biologie.uni-muenchen.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+
+<br>
+
 <div id="klim" class="member"></div>
 <div class="row">
 
@@ -310,9 +387,69 @@ Marwan did his Dipl.-Ing. in software engineering at ISSAT Sousse University, Tu
 
 ### Andrea Grybowski
 
-#### Technical Assistants
+#### Technical Assistant
 
 **E-mail:** [<img class="img-email">](mailto:andrea.grybowski@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+<br>
+
+<div id="mandy" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-mandy"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Mandy Terne
+
+#### Technical Assistant
+
+Mandy started her training in MDC in 2006 as a biological technical assistant and graduated in 2009. She worked in different research groups within the MDC and contributed to several publications. Now she is working in the Preibisch group and is involved in many projects in the lab mostly working with C. elegans.
+
+**Find her on:**  
+<!--
+[<img class="img-github">](https://github.com/mzouink){:target="_blank"}
+-->
+**Email:**  
+[<img class="img-email">](mailto:Mandy.Terne@mdc-berlin.de){:target="_blank"}
+
+  </div>
+</div>
+
+<br>
+
+---------------------------------------
+<br>
+
+<div id="kushtrim" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-kushtrim"/>
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+### Kushtrim Cerimi
+
+#### Student Assistant
+
+Kushtrim did his B.Sc. in Biotechnology at the Technical University of Berlin at the Department Applied and Molecular Microbiology where he worked on the development of an co-cultivation system of Aspergillus niger with human lung cells. Currently he is doing his master degree in Biotechnology. 
+
+**Find him on:**  
+<!--
+[<img class="img-github">](https://github.com/mzouink){:target="_blank"}
+-->
+**Email:**  
+[<img class="img-email">](mailto:kushtrim.cerimi@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
@@ -403,12 +540,18 @@ $('.img-nikita').attr({src: "http://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimi
 $('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
 $('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
 $('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
+$('.img-peter').attr({src: "https://i.imgur.com/vk3FldK.jpg", alt: "peter Hirsch"});
+$('.img-david').attr({src: "https://i.imgur.com/RzZ8MRi.jpg", alt: "David Hörl"});
 $('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
 $('.img-friedrich').attr({src: "http://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
 $('.img-marwan').attr({src: "https://i.imgur.com/lylOvFJ.jpg", alt: "Friedrich Preusser"});
 $('.img-lennon').attr({src: "http://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
 $('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
+$('.img-mandy').attr({src: "https://i.imgur.com/wJscFAJ.jpg", alt: "Mandy Terne"});
+$('.img-kushtrim').attr({src: "https://i.imgur.com/lFbe5EJ.jpg", alt: "Kushtrim Cerimi"});
+
 $('.img-varun').attr({src: "http://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
+
 
 $('.img-twitter').attr({src: "http://i.imgur.com/oxJIrNq.png", alt: "twitter"});
 $('.img-youtube').attr({src: "http://i.imgur.com/Nt4ZEqC.png", alt: "youtube"});
