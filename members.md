@@ -240,10 +240,10 @@ Dhana did her Bachelors in Molecular Life Sciences at the University of Hamburg.
 Peter did his B.Sc. in computer science and media at the Bauhaus-Universität Weimar, Germany. During his master studies in computer science at the Technische Universität Dresden he focused on machine learning and wrote his master's thesis about deep reinforcement learning.
 
 **Find him on:**  
-<!--
-[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
--->
-**E-mail:** [<img class="img-email">](mailto:Peter.Hirsch@mdc-berlin.de){:target="_blank"}
+[<img class="img-github">](https://github.com/abred){:target="_blank"}
+
+**E-mail:**  
+[<img class="img-email">](mailto:Peter.Hirsch@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>

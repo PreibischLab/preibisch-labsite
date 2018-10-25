@@ -7,20 +7,28 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **December 2018**
+
+08 - 12  
+<a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a> and <a class="link-marwan">Marwan</a>  @ [From Images to Knowledge with ImageJ & Friends](https://www.embl.de/training/events/2018/IMJ18-01/){:target="_blank"} in Heidelberg.   
+
+<hr/> <!--line separator-->
 #### **October 2018**
+29 - 31  
+<a class="link-ella">Ella</a> @ [EMBL Machine Learning for Image Analysis](https://www.ebi.ac.uk/training/events/2018/machine-learning-image-analysis){:target="_blank"} in Heidelberg.   
 
 08 - 12  
 <a class="link-friedrich">Friedrich</a> @ [The Francis Crick Institute](https://www.crick.ac.uk/){:target="_blank"} in London.   
 <small>Friedrich presented his work during a talk and collaborated with the [Making Lab](https://www.crick.ac.uk/research/platforms-and-facilities/making-lab){:target="_blank"} to produce custom microfluidic chips for his project.</small>
 
-
+<hr/> <!--line separator-->
 #### **September 2018**
 
 27 - 29  
 <a class="link-marwan">Marwan</a> and <a class="link-friedrich">Friedrich</a> @ [MDC PhD Retreat](https://www.mdc-berlin.de/phd-retreat-2018){:target="_blank"} in Döllnsee–Schorfheide.   
 <small>Marwan and Friedrich presented posters summarizing their work. Marwan's poster on the BigStitcher won the first prize!</small>
 
-
+<hr/> <!--line separator-->
 #### **August 2018**
 
 25 - 28  
@@ -59,7 +67,6 @@ weight: 3
 <a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> @ [SignGene Winter School on Chromatin & Gene Expression](https://www.mdc-berlin.de/content/scientific-events?mdcbl%5B0%5D=/signgene&mdctl=0&mdcou=0&mdcot=0&mdcbv=FMhoBxgbwuSn5uFL-5L5faoPigMOZH46gvguicvGq-I) in Israel.  
 <small>Dhana and Laura presented their work. </small>
 
-
 12 – 14  
 The whole lab went to a lab retreat in Sintra, Portugal.   
 <small>We discussed our work and had great talks by our guests [Bruno Costa-Silva](http://neuro.fchampalimaud.org/en/research/investigators/research-groups/group/Costa-Silva/) and [Gaby Martins](http://www.gabygmartins.info). </small>
@@ -69,7 +76,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a> and <a class="link-laura">Laura</a> [@BIOTEC Forum 2018 - Biophysics of the Nucleus](https://webapp.biotec.tu-dresden.de/conferences/event/32/){:target="_blank"} in Dresden.   
 <small>Dhana and Laura presented their work. </small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **January 2018**
 
@@ -81,7 +87,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a> @ Quantitative Bioimaging Meeting in Göttingen.  
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **December 2017**
 
@@ -89,7 +94,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-klim">Klim</a> and <a class="link-marwan">Marwan</a> @ MPI-CBG Hackathon in Dresden.  
 <small>Klim is working on the integration of the Radial Symmetry node into KNIME. Marwan is joining the Fiji dev community. </small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **November 2017**
 10 – 15  
@@ -108,7 +112,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 4 – 7  
 <a class="link-dhana">Dhana</a> @ [Seeing is Believing](https://www.embo-embl-symposia.org/symposia/2017/EES17-08/){:target="_blank"} at EMBL Heidelberg [#eesimaging](https://twitter.com/search?src=typd&q=%23eesimaging){:target="_blank"}.
 <hr/> <!--line separator-->
-<br/>
 
 #### **September 2017**
 
@@ -121,7 +124,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a>, <a class="link-ella">Ella</a>, <a class="link-klim">Klim</a> and <a class="link-laura">Laura</a> @ [MDC/FMP Phd Retreat](https://phd-retreat.mdc-berlin.de){:target="_blank"} in Schorfheide.   
 <small>Laura and Klim helped to organise this years retreat.</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **August 2017**
 
@@ -129,7 +131,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-klim">Klim</a>  @  [Deep Learning Bootcamp 2017](https://indico.mpi-cbg.de/event/42/other-view?view=standard){:target="_blank"} in Dresden.  
 <small>Poster on the computational approach for studying the transcription regulation in <i>C. elegans</i>.</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **July 2017**
 
@@ -137,7 +138,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
 <small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **June 2017**
 
@@ -164,7 +164,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 06 – 08  
 <a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a>, <a class="link-dhana">Dhana</a> & <a class="link-ella">Ella</a>  @ [Berlin Summer Meeting 2017 - Imaging Gene Regulation from DNA to RNA to Protein](https://www.berlinsummermeeting.org/2017/default.asp){:target="_blank"}, [#BSM2017](https://twitter.com/hashtag/bsm2017?f=tweets&vertical=default){:target="_blank"} in Berlin.    
 <hr/> <!--line separator-->
-<br/>
 
 #### **April 2017**
 
@@ -172,7 +171,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
 <small>Presentation: Big Stitcher - Efficient Alignment of Multi-Tile and Multi-View Lightsheet Data of Cleared Samples</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **March 2017**
 
@@ -184,7 +182,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a>  @  [SignGene Winter School](https://www.mdc-berlin.de/42701803/de/training/phd_program/SignGene/Scientific_Events){:target="_blank"} in Eilat, Israel.  
 <small>Dhana is one of the main organizers of this year's Winter School of the german israeli graduate school SignGene. Invited international speakers will hold workshops ranging from proteomics to single cell techniques.</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **February 2017**
 
@@ -198,7 +195,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-dhana">Dhana</a>  @  [CSHL Conference: Global regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=17){:target="_blank"} in Cold Spring Harbor Laboratory.  
 <small>Poster on p53 single cell dynamics and their influence on target gene expression.</small>
 <hr/> <!--line separator-->
-<br/>
 
 #### **January 2017**
 
@@ -210,7 +206,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **December 2016**
 
@@ -222,7 +217,6 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <small>Invited Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **November 2016**
 
@@ -231,7 +225,6 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <small>25 selected international students experienced a week full of exciting presentations and hands-on workshops by internationally renowned experts in the field of image analysis.</small>
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **October 2016**
 
@@ -239,7 +232,6 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](http://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **September 2016**
 22 – 25  
@@ -257,7 +249,6 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <small>Short Talk and Poster presentation about p53 dependent gene expression.</small>
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **August 2016**
 
@@ -276,7 +267,6 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <a class="link-ella">Ella</a> @ [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **July 2016**
 
@@ -288,7 +278,6 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **June 2016**
 
@@ -308,7 +297,6 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 <small><a class="link-ella">Ella</a> presented her work in a poster "Active Contour based Segmentation of C. elegans Electron Microscopy Data".</small>
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **April 2016**
 
@@ -332,7 +320,6 @@ Feb 27 – Mar 05
 
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **February 2016**
 
@@ -347,7 +334,6 @@ Feb 27 – Mar 05
 <a class="link-stephan">Stephan</a> @ [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} at the [Institute Pasteur](http://www.pasteur.fr/){:target="_blank"} in Paris, France.
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **January 2016**
 
@@ -355,7 +341,6 @@ Feb 27 – Mar 05
 <a class="link-laura">Laura</a> @ [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](http://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **December 2015**
 
@@ -363,7 +348,6 @@ Feb 27 – Mar 05
 <a class="link-laura">Laura</a> and <a class="link-stephan">Stephan</a> @ the annual [BIMSB-NYU retreat](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in New York, USA.
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **November 2015**
 
@@ -374,7 +358,6 @@ Feb 27 – Mar 05
 <a class="link-stephan">Stephan</a> @ [Biochemistry Department](http://www.bioch.ox.ac.uk){:target="_blank"} in Oxford, UK.
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **October 2015**
 
@@ -390,7 +373,6 @@ Feb 27 – Mar 05
 <a class="link-stephan">Stephan</a> @ the annual [BIMSB-MRC retreat](https://www.mdc-berlin.de/45092112/en/research/themes/bimsb/images_and_PDFs/Joint-Retreat-programme-6_7Oct2015.pdf){:target="_blank"} in Berlin, Germany.
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **September 2015**
 
@@ -398,7 +380,6 @@ Feb 27 – Mar 05
 <a class="link-stephan">Stephan</a> @ the [BIMSB retreat](https://www.mdc-berlin.de/45019740/en/research/themes/bimsb/images_and_PDFs/BIMSB_retreat_2015_program.pdf){:target="_blank"} in Lindow, Germany.  
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **July 2015**
 
@@ -407,7 +388,6 @@ Feb 27 – Mar 05
 
 
 <hr/> <!--line separator-->
-<br/>
 
 #### **June 2015**
 
@@ -422,6 +402,8 @@ Feb 27 – Mar 05
 	$('.link-ella').attr("href", "{{ site.baseurl }}/members#ella");
 	$('.link-laura').attr("href", "{{ site.baseurl }}/members#laura");
 	$('.link-dhana').attr("href", "{{ site.baseurl }}/members#dhana");
+	$('.link-peter').attr("href", "{{ site.baseurl }}/members#peter");
+	$('.link-david').attr("href", "{{ site.baseurl }}/members#david");
 	$('.link-klim').attr("href", "{{ site.baseurl }}/members#klim");
 	$('.link-friedrich').attr("href", "{{ site.baseurl }}/members#friedrich");
 	$('.link-marwan').attr("href", "{{ site.baseurl }}/members#marwan");
