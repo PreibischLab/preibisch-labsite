@@ -57,6 +57,20 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
 
+Varun Kapoor, William G Hirst, Christoph Hentschel, Stephan Preibisch, Simone Reber (2018)  
+**MTrack: Automated Detection, Tracking, and Analysis of Dynamic Microtubules**  
+*bioRxiv*  
+[Link to Paper](https://www.biorxiv.org/content/early/2018/07/13/368191){:target="_blank"}
+
+<hr/> <!--line separator-->
+
+David Hörl, Fabio Rojas Rusak, Friedrich Preusser, Paul Tillberg, Nadine Randel, Raghav K. Chhetri, Albert Cardona, Philipp J. Keller, Hartmann Harz, Heinrich Leonhardt, Mathias Treier, Stephan Preibisch (2018)  
+**BigStitcher: Reconstructing high-resolution image datasets of cleared and expanded samples.**  
+*bioRxiv*  
+[Link to Paper](https://www.biorxiv.org/content/early/2018/06/10/343954){:target="_blank"}
+
+<hr/> <!--line separator-->
+
 Carsten Wolff, Jean-Yves Tinevez, Tobias Pietzsch, Evangelia Stamataki, Benjamin Harich, Stephan Preibisch, Spencer Shorte, Philipp J. Keller, Pavel Tomancak, Anastasios Pavlopoulos (2017)  
 **Reconstruction of cell lineages and behaviors underlying arthropod limb outgrowth with multi-view light-sheet imaging and tracking**  
 *bioRxiv* 112623;
