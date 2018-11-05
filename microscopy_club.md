@@ -13,7 +13,11 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> TBA </div>
+<div class="col-md-2"> Nov. 15 (Thursday), Bldg.89, R2.17 </div>
+<div class="col-md-10" markdown="1">
+** Christopher Schmied**, [FMP](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/wiesner/research.html).  
+	Digital images and their analysis.
+</div>
 </div>
 
 <div class="row">
