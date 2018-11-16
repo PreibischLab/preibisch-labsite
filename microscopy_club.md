@@ -13,17 +13,23 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> Nov. 15 (Thursday), Bldg.89, R2.17 </div>
+<div class="col-md-2"> December 5 (Wed), FMP Seminar room, 9:30 AM. </div>
 <div class="col-md-10" markdown="1">
 	
-**Christopher Schmied**, [FMP](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/wiesner/research.html).  
-	Digital images and their analysis.
+**Demo an ultra-compact microscope for confocal/SIM/TIRF/single molecule imaging**, [Nanoimager](https://oni.bio/). 
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+	
+<div class="col-md-2"> Nov. 15 </div>
+<div class="col-md-10" markdown="1">
+**Christopher Schmied**, [FMP](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/wiesner/research.html).  
+	Digital images and their analysis.
+</div>
+</div>
 
 <div class="col-md-2"> 11.10.2018 </div>
 <div class="col-md-10" markdown="1">
