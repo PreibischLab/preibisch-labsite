@@ -270,10 +270,12 @@ Peter did his B.Sc. in computer science and media at the Bauhaus-Universität We
 David did a Bachelors in computer science at TU and LMU Munich as well as a Bachelors and Masters in biology at LMU. Afterwards, he started pursuing his PhD at LMU in the lab of Heinrich Leonhardt, with co-supervision by Stephan Preibisch. In the Preibisch lab, he is currently working on the development of tools for fast handling and robust, globally optimal reconstruction of very large light-sheet image datasets. In the Leonhardt lab, he is mainly working on automated microscopy and image analysis to facilitate, among others, high-throughput super-resolution imaging of sub-nuclear structures and chromatin architecture. In a collaboration of both labs with Nicolas Gompel (LMU), he is working on a platform for automated imaging and quantitative analysis of patterning of fly wings in dozens to hundreds of mutants lines.
 
 **Find him on:** 
-<!-- 
-[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
--->
-**E-mail:** [<img class="img-email">](mailto:mailto:hoerl@biologie.uni-muenchen.de){:target="_blank"}
+ 
+[<img class="img-twitter">](https://twitter.com/hoerldavid){:target="_blank"}
+[<img class="img-github">](https://github.com/hoerldavid){:target="_blank"}
+[<img class="img-rg">](https://www.researchgate.net/profile/David_Hoerl){:target="_blank"}
+
+**E-mail:** [<img class="img-email">](mailto:david.hoerl@mdc-berlin.de){:target="_blank"}
 
   </div>
 </div>
