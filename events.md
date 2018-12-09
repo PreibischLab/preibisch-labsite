@@ -11,7 +11,7 @@ weight: 3
 
 08 - 12  
 <a class="link-stephan">Stephan</a>, <a class="link-ella">Ella</a> and <a class="link-marwan">Marwan</a>  @ [From Images to Knowledge with ImageJ & Friends](https://www.embl.de/training/events/2018/IMJ18-01/){:target="_blank"} in Heidelberg.   
-<small>Stephan gave an invited talk about new bigStitcher, Ella gave a short talk, and Klim presented a poster.</small>
+<small>Stephan gave an invited talk about bigStitcher, Ella gave a short talk, and Klim presented a poster.</small>
 
 <hr/> <!--line separator-->
 #### **October 2018**
