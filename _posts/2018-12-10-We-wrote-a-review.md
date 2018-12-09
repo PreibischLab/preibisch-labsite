@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We wrote a review!"
-date:   2018-13-09    
+date:   2018-12-10    
 ---
 The lab's first review is out!
 <a class="link-laura">Laura</a>, <a class="link-friedrich">Friedrich</a> and <a class="link-Stephan">Stephan</a> summarized current state-of-the art light microscopy methods and their application for C.elegans research.
