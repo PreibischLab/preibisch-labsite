@@ -56,7 +56,11 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
+Nikita Vladimirov, Chen Wang, Burkhard Höckendorf, Avinash Pujala, Masashi Tanimoto, Yu Mu, Chao-Tsung Yang, Jason D. Wittenbach, Jeremy Freeman, Stephan Preibisch, Minoru Koyama, Philipp J. Keller & Misha B. Ahrens (2018)
+**Brain-wide circuit interrogation at the cellular level guided by online analysis of neuronal function** *Nature Methods* [PDF, read-only](https://rdcu.be/bcci7){:target="_blank"}
 
+ <hr/> <!--line separator-->
+ 
 Varun Kapoor, William G Hirst, Christoph Hentschel, Stephan Preibisch, Simone Reber (2018)  
 **MTrack: Automated Detection, Tracking, and Analysis of Dynamic Microtubules**  
 *bioRxiv*  
