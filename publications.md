@@ -56,6 +56,15 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
+Laura Breimann, Friedrich Preusser, Stephan Preibisch (2018)  
+**Light-microscopy methods in C. elegans research**  
+*Current Opinion in Systems Biology*   
+[Link to paper](https://www.sciencedirect.com/science/article/pii/S2452310018300842?via%3Dihub){:target="_blank"}
+
+ <hr/> <!--line separator-->
+
+<br>
+<h4 class="page-heading">All Publications sorted by Date:</h4>
 Nikita Vladimirov, Chen Wang, Burkhard Höckendorf, Avinash Pujala, Masashi Tanimoto, Yu Mu, Chao-Tsung Yang, Jason D. Wittenbach, Jeremy Freeman, Stephan Preibisch, Minoru Koyama, Philipp J. Keller & Misha B. Ahrens (2018)  
 **Brain-wide circuit interrogation at the cellular level guided by online analysis of neuronal function**  
 *Nature Methods*   
