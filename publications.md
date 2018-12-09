@@ -57,7 +57,7 @@ Stephan Preibisch, Stephan Saalfeld, Pavel Tomancak (2009)
 <br>
 <h4 class="page-heading">All Publications sorted by Date:</h4>
 Laura Breimann, Friedrich Preusser, Stephan Preibisch (2018)  
-**Light-microscopy methods in C. elegans research**  
+**Light-microscopy methods in *C. elegans* research**  
 *Current Opinion in Systems Biology*   
 [Link to paper](https://www.sciencedirect.com/science/article/pii/S2452310018300842?via%3Dihub){:target="_blank"}
 
