@@ -21,7 +21,7 @@ creds = ServiceAccountCredentials.from_json_keyfile_name("".join([script_folder+
 client = gspread.authorize(creds)
 
 # Get each of the worksheets in the spreadsheet (result - list of the worksheets):
-sheet = [client.open("BIMSB Seminar Series Calendar").get_worksheet(i) for i in range(3)]
+sheet = [client.open("BIMSB Seminar Series Calendar").get_worksheet(i) for i in range(4)]
 # For each worksheet - put the records in a list of hashes:
 list_of_hashes = [sheet[i].get_all_records() for i in range(3)]
 # Convert each list of hashes to a dataframe:
@@ -72,9 +72,7 @@ for key,value in events.items():
 
 # Add events to HTML file:
 
-placeholders = [f'PLACEHOLDER_{key[7:].upper}' for key in events]
-print(placeholders)
-print(list_of_strings_4_html[0])
+placeholders = [f'PLACEHOLDER_{key[7:].upper()}' for key in events]
 
 f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")
