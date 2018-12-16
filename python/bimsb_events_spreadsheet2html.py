@@ -71,7 +71,7 @@ for df in df_all_events_by_tab:
 
 # Add events to HTML file:
 
-placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_PAST_2018',,'PLACEHOLDER_PAST_2019','PLACEHOLDER_FUTURE_EVENTS']
+placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_PAST_2018','PLACEHOLDER_PAST_2019','PLACEHOLDER_FUTURE_EVENTS']
 
 f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")
