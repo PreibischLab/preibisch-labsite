@@ -34,11 +34,12 @@ all_events['Date'] = all_events['Date'].apply(pd.to_datetime, dayfirst=True)
 # Make individual dataframes for each tab in the HTML:
 events_2016 = all_events.loc[all_events['Date'] < datetime(2017, 1, 1)].sort_values(['Date'], ascending=[True])
 events_past2017 = all_events[(all_events['Date'] < datetime(2018, 1, 1)) & (all_events['Date'] >= datetime(2017, 1, 1))].sort_values(['Date'], ascending=[True])
-events_past2018 = all_events[(all_events['Date'] > datetime(2018, 1, 1)) & (all_events['Date'] < datetime.today().date())].sort_values(['Date'], ascending=[True])
+events_past2018 = all_events[(all_events['Date'] < datetime(2019, 1, 1)) & (all_events['Date'] >= datetime(2018, 1, 1))].sort_values(['Date'], ascending=[True])
+events_past2019 = all_events[(all_events['Date'] > datetime(2019, 1, 1)) & (all_events['Date'] < datetime.today().date())].sort_values(['Date'], ascending=[True])
 events_future = (all_events.loc[all_events['Date'] >=  datetime.today().date()]).sort_values(['Date'], ascending=[True])
 
 # Make a list of dataframes - each dataframe belongs to a tab in the HTML:
-df_all_events_by_tab = [events_2016, events_past2017, events_past2018, events_future]
+df_all_events_by_tab = [events_2016, events_past2017, events_past2018, events_past2019, events_future]
 
 # Create the string of HTML for each tab in the HTML:
 list_of_strings_4_html = []
@@ -70,7 +71,7 @@ for df in df_all_events_by_tab:
 
 # Add events to HTML file:
 
-placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_PAST_2018','PLACEHOLDER_FUTURE_EVENTS']
+placeholders = ['PLACEHOLDER_PAST_2016','PLACEHOLDER_PAST_2017','PLACEHOLDER_PAST_2018',,'PLACEHOLDER_PAST_2019','PLACEHOLDER_FUTURE_EVENTS']
 
 f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")
