@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New collaborating PhD student - Peter Hirst"
+title:  "New collaborating PhD student - Peter Hirsch"
 date:   2018-09-01    
 ---
 
