@@ -32,26 +32,26 @@ published: false
 
     <div id="bimsb-past-2019" class="tab-pane fade">
 
-        PLACEHOLDER_PAST_2019
+        PLACEHOLDER_PAST2019
 
     </div>
 
     <div id="bimsb-past-2018" class="tab-pane fade">
 
-        PLACEHOLDER_PAST_2018
+        PLACEHOLDER_PAST2018
 
     </div>
 
 
     <div id="bimsb-past-2017" class="tab-pane fade">
 
-        PLACEHOLDER_PAST_2017
+        PLACEHOLDER_PAST2017
 
 	</div>
 
         <div id="bimsb-past-2016" class="tab-pane fade">
             
-        PLACEHOLDER_PAST_2016
+        PLACEHOLDER_PAST2016
 
         </div>
 
