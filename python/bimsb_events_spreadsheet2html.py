@@ -43,7 +43,6 @@ events = orderedDict([
 
 # Create the string of HTML for each tab in the HTML:
 list_of_strings_4_html = []
-for df in df_all_events_by_tab:
 for key,value in events.items():
     events_str = ""
     # each value of "event" orderedDict is a df:
