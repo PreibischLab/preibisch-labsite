@@ -14,6 +14,7 @@ published: false
 
     <ul class="nav nav-tabs bimsb-tab">
         <li class="active"><a data-toggle="tab" href="#bimsb-future">Future Events</a></li>
+        <li><a data-toggle="tab" href="#bimsb-past-2019">Past Events 2019</a></li>
         <li><a data-toggle="tab" href="#bimsb-past-2018">Past Events 2018</a></li>
         <li><a data-toggle="tab" href="#bimsb-past-2017">Past Events 2017</a></li>
         <li><a data-toggle="tab" href="#bimsb-past-2016">Past Events 2016</a></li>
@@ -29,7 +30,7 @@ published: false
             
     </div>
 
-    <div id="bimsb-past-2018" class="tab-pane fade">
+    <div id="bimsb-past-2019" class="tab-pane fade">
 
         PLACEHOLDER_PAST_2019
 
