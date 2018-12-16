@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 from datetime import date, datetime
+from collections import OrderedDict
 
 script_folder = '/home/ella/preibisch-labsite/python/'
 folder = '/home/ella/preibisch-labsite/_extras/'
@@ -26,26 +27,27 @@ list_of_hashes = [sheet[i].get_all_records() for i in range(3)]
 # Convert each list of hashes to a dataframe:
 all_events = [pd.DataFrame(list_of_hashes[i]) for i in range(3)]
 # Concatinate all dataframes together:
-all_events = pd.concat(all_events)
+all_events = pd.concat(all_events, sort=True)
 
 # Convert the date column to a date format:
 all_events['Date'] = all_events['Date'].apply(pd.to_datetime, dayfirst=True)
 
 # Make individual dataframes for each tab in the HTML:
-events_2016 = all_events.loc[all_events['Date'] < datetime(2017, 1, 1)].sort_values(['Date'], ascending=[True])
-events_past2017 = all_events[(all_events['Date'] < datetime(2018, 1, 1)) & (all_events['Date'] >= datetime(2017, 1, 1))].sort_values(['Date'], ascending=[True])
-events_past2018 = all_events[(all_events['Date'] < datetime(2019, 1, 1)) & (all_events['Date'] >= datetime(2018, 1, 1))].sort_values(['Date'], ascending=[True])
-events_past2019 = all_events[(all_events['Date'] > datetime(2019, 1, 1)) & (all_events['Date'] < pd.Timestamp(datetime.today().date()))].sort_values(['Date'], ascending=[True])
-events_future = (all_events.loc[all_events['Date'] >=  pd.Timestamp(datetime.today().date())]).sort_values(['Date'], ascending=[True])
-
-# Make a list of dataframes - each dataframe belongs to a tab in the HTML:
-df_all_events_by_tab = [events_2016, events_past2017, events_past2018, events_past2019, events_future]
+events = orderedDict([
+    ("events_2016", all_events.loc[all_events['Date'] < datetime(2017, 1, 1)].sort_values(['Date'], ascending=[True])),
+    ("events_2017",all_events[(all_events['Date'] < datetime(2018, 1, 1)) & (all_events['Date'] >= datetime(2017, 1, 1))].sort_values(['Date'], ascending=[True])),
+    ("events_2018",all_events[(all_events['Date'] < datetime(2019, 1, 1)) & (all_events['Date'] >= datetime(2018, 1, 1))].sort_values(['Date'], ascending=[True])),
+    ("events_past2019",all_events[(all_events['Date'] > datetime(2019, 1, 1)) & (all_events['Date'] < pd.Timestamp(datetime.today().date()))].sort_values(['Date'], ascending=[True])),
+    ("events_future",(all_events.loc[all_events['Date'] >=  pd.Timestamp(datetime.today().date())]).sort_values(['Date'], ascending=[True]))
+    ])
 
 # Create the string of HTML for each tab in the HTML:
 list_of_strings_4_html = []
 for df in df_all_events_by_tab:
+for key,value in events.items():
     events_str = ""
-    for i, row in df.iterrows():
+    # each value of "event" orderedDict is a df:
+    for i, row in value.iterrows():
         if row['Publish?']=='V':
             events_str = "".join([events_str, '<div class="row">\n'])
             #events_2_paste = "".join([events_2_paste, '<div class="col-md-1"><p>', 
@@ -71,7 +73,7 @@ for df in df_all_events_by_tab:
 
 # Add events to HTML file:
 
-placeholders = [f'PLACEHOLDER_{e[6:].upper}' for e in df_all_events_by_tab]
+placeholders = [f'PLACEHOLDER_{key[6:].upper}' for key in events]
 
 f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")
