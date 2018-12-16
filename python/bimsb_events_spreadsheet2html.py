@@ -20,12 +20,14 @@ scope = ['https://spreadsheets.google.com/feeds',
 creds = ServiceAccountCredentials.from_json_keyfile_name("".join([script_folder+'client_secret.json']), scope)
 client = gspread.authorize(creds)
 
+sheet_n = 4;
+
 # Get each of the worksheets in the spreadsheet (result - list of the worksheets):
-sheet = [client.open("BIMSB Seminar Series Calendar").get_worksheet(i) for i in range(4)]
+sheet = [client.open("BIMSB Seminar Series Calendar").get_worksheet(i) for i in range(sheet_n)]
 # For each worksheet - put the records in a list of hashes:
-list_of_hashes = [sheet[i].get_all_records() for i in range(3)]
+list_of_hashes = [sheet[i].get_all_records() for i in range(sheet_n)]
 # Convert each list of hashes to a dataframe:
-all_events = [pd.DataFrame(list_of_hashes[i]) for i in range(3)]
+all_events = [pd.DataFrame(list_of_hashes[i]) for i in range(sheet_n)]
 # Concatinate all dataframes together:
 all_events = pd.concat(all_events, sort=True)
 
