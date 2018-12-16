@@ -82,6 +82,7 @@ f_r_dump = f_r_dump.replace(placeholders[0], list_of_strings_4_html[0])
 f_r_dump = f_r_dump.replace(placeholders[1], list_of_strings_4_html[1])
 f_r_dump = f_r_dump.replace(placeholders[2], list_of_strings_4_html[2])
 f_r_dump = f_r_dump.replace(placeholders[3], list_of_strings_4_html[3])
+f_r_dump = f_r_dump.replace(placeholders[4], list_of_strings_4_html[4])
 
 f_write.write(f_r_dump)
 
