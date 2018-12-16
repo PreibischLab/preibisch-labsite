@@ -72,7 +72,7 @@ for key,value in events.items():
 
 # Add events to HTML file:
 
-placeholders = [f'PLACEHOLDER_{key[6:].upper}' for key in events]
+placeholders = [f'PLACEHOLDER_{key[7:].upper}' for key in events]
 
 f_read = open (script_folder + "bimsb_with_placeholder.txt", "r") 
 f_write = open (folder + "bimsb_seminar.html", "w")

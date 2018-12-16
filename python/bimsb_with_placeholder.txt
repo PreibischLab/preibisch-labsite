@@ -49,11 +49,11 @@ published: false
 
 	</div>
 
-        <div id="bimsb-past-2016" class="tab-pane fade">
-            
+    <div id="bimsb-past-2016" class="tab-pane fade">
+        
         PLACEHOLDER_2016
 
-        </div>
+    </div>
 
     </div>
 
