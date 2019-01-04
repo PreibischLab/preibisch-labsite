@@ -7,6 +7,23 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **February 2019**
+
+04 - 15    
+<a class="link-laura">Laura</a> @ the [EMBO Practical Course Methods for studying phase separation in biology](http://meetings.embo.org/event/18-phase-separation){:target="_blank"} at Max Planck Institute of Molecular
+Cell Biology and Genetics in Dresden. 
+
+<hr/> <!--line separator-->
+
+
+#### **January 2019**
+
+01 - 29    
+<a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
+
+<hr/> <!--line separator-->
+
+
 #### **December 2018**
 
 08 - 12  
@@ -59,6 +76,9 @@ weight: 3
 
 <a class="link-laura">Laura</a> @ [Nuclear Organization & Function conference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
 <small>Poster presentation on transcription regulation in the context of dosage compensation in C. elegans.</small>
+
+01 - 30   
+<a class="link-laura">Laura</a> @ the [lab of Sevinc Ercan](https://sites.google.com/site/ercanlab/){:target="_blank"} at NYU for a collaboration visit. 
 
 <hr/> <!--line separator-->
 
