@@ -13,17 +13,22 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> December 5 (Wed), FMP Seminar room, 9:30 AM. </div>
+<div class="col-md-2"> Jan. 30 (Wed), 15:00. Bld.89, Room 2.17 </div>
 <div class="col-md-10" markdown="1">
 	
-**Demo an ultra-compact microscope for confocal/SIM/TIRF/single molecule imaging**, [Nanoimager](https://oni.bio/). 
+**Friedrich Preusser** (Preibisch Lab). FISHing under microscopes: An overview of recent techniques for spatial transcriptomics. 
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
-	
+
+<div class="col-md-2"> 5.12.2018 </div>
+<div class="col-md-10" markdown="1">
+**Demo an ultra-compact microscope for confocal/SIM/TIRF/single molecule imaging**, [Nanoimager](https://oni.bio/). 
+</div>
+
 <div class="col-md-2"> 15.11.2018 </div>
 <div class="col-md-10" markdown="1">
 **Christopher Schmied**, [FMP](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/wiesner/research.html). Digital images and their analysis.
