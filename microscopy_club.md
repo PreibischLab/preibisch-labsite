@@ -17,6 +17,12 @@ weight: 4
 <div class="col-md-10" markdown="1">
 	
 **Friedrich Preusser** (Preibisch Lab). FISHing under microscopes: An overview of recent techniques for spatial transcriptomics. 
+
+Journal club (F. Preusser): [DNA microscopy: Optics-free spatio-genetic imaging by a stand-alone chemical reaction
+J.A. Weinstein, A.Regev, F.Zhang](https://doi.org/10.1101/471219)
+
+**Nikita Vladimirov** (Preibisch Lab). Metrology 101: how to measure hair width and other tiny things with micron precision *without* a microscope.
+
 </div>
 </div>
 
