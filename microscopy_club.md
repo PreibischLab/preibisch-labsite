@@ -6,9 +6,8 @@ weight: 4
 ---
 
 <div class="micro-club-description">
-	<p>The aim of our club is to bring together people who do microscopy or want to learn about it. Our club is highly interdisciplinary: we have physicists, biologists, computer scientists, and DIY geeks among us. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteer and guest speakers are very welcome! </p>
+	<p>The aim of our club is to bring together people who do microscopy or want to learn about it. Our club is highly interdisciplinary: we are physicists, biologists, computer scientists, and DIY geeks. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteers and guest speakers are welcome! </p>
 	<p>To subscribe to the mailing list, write an email to <a href="mailto:nikita.vladimirov@mdc-berlin.de" target="_blank">Nikita Vladimirov</a>. To unsubscribe, write an empty email with subject “unsubscribe”. </p>
-	<p> Contact the club admin (NV) for access to presentations. </p>
 </div>
 
 <div class="row">
