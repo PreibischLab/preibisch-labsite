@@ -12,14 +12,10 @@ weight: 4
 
 <div class="row">
 <p><b>Next meeting:</b></p>
-<div class="col-md-2"> Jan. 30 (Wed), 15:00. Bld.89, Room 2.17 </div>
+<div class="col-md-2"> TBA </div>
 <div class="col-md-10" markdown="1">
 	
-**Friedrich Preusser** (Preibisch Lab). FISHing under microscopes: An overview of recent techniques for spatial transcriptomics. 
-
-Journal club (F. Preusser): [DNA microscopy](https://doi.org/10.1101/471219): Optics-free spatio-genetic imaging by a stand-alone chemical reaction. J.A. Weinstein, A.Regev, F.Zhang.
-
-**Nikita Vladimirov** (Preibisch Lab). Metrology hands-on demo: how to measure hair width and other tiny things with micron precision *without* a microscope.
+TBA
 
 </div>
 </div>
@@ -27,6 +23,14 @@ Journal club (F. Preusser): [DNA microscopy](https://doi.org/10.1101/471219): Op
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+
+<div class="col-md-2"> 30.01.2019 </div>
+<div class="col-md-10" markdown="1">
+**Friedrich Preusser** (Preibisch Lab). FISHing under microscopes: An overview of recent techniques for spatial transcriptomics. 
+
+Journal club (F. Preusser): [DNA microscopy](https://doi.org/10.1101/471219): Optics-free spatio-genetic imaging by a stand-alone chemical reaction. J.A. Weinstein, A.Regev, F.Zhang.
+
+**Nikita Vladimirov** (Preibisch Lab). Metrology hands-on demo: how to measure hair width and other tiny things with micron precision *without* a microscope.
 
 <div class="col-md-2"> 5.12.2018 </div>
 <div class="col-md-10" markdown="1">
