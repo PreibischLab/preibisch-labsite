@@ -7,14 +7,15 @@ weight: 4
 
 <div class="micro-club-description">
 	<p>The aim of our club is to bring together people who do microscopy or want to learn about it. Our club is highly interdisciplinary: we are physicists, biologists, computer scientists, and DIY geeks. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteers and guest speakers are welcome! </p>
-	<p>To subscribe to the mailing list, write an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com" target="_blank">mclub-berlin+subscribe@googlegroups.com</a>. To unsubscribe, write an email <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com" target="_blank">mclub-berlin+unsubscribe@googlegroups.com</a>. 
-	Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com" target="_blank">mclub-berlin@googlegroups.com</a></p>
+	<p>To subscribe to the mailing list, write an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com" target="_blank">mclub-berlin+subscribe@googlegroups.com</a>. </p>
+	<p>To unsubscribe, write an email <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com" target="_blank">mclub-berlin+unsubscribe@googlegroups.com</a>. </p>
+	<p>Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com" target="_blank">mclub-berlin@googlegroups.com</a></p>
 </div>
 
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> Feb. 27 (Wed), 15:00, MDC.89, R.1.17 </div>
+<div class="col-md-2"> Feb. 27 (Wed), 15:00, MDC.89, Room 1.17 </div>
 <div class="col-md-10" markdown="1"> 
 **Marie Walde** (Woehler Lab). Confocal detectors.
 	
