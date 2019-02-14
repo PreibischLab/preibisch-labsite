@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microscopy Club
+title: mClub
 permalink: /microscopy-club/
 weight: 4
 ---
