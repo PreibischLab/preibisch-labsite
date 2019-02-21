@@ -40,6 +40,7 @@ weight: 4
 <div class="col-md-2"> 30.05.2018 </div>
 <div class="col-md-10" markdown="1">
 **Remo Monti, Lippert Lab**. Deep Learning for Clinical Brain MRI Segmentation - a Comparison of 2D Convolutional Models, 3D Convolutional Models and More.
+[view slides](https://www.slideshare.net/secret/F3T1b3XkCrts0O){:target="_blank"}
 </div>
 
 <div class="col-md-2"> 16.05.2018 </div>
