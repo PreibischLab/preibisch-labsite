@@ -15,7 +15,7 @@ weight: 4
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> Feb. 27 (Wed), 15:00, MDC.89, Room 1.17 </div>
+<div class="col-md-2"> March 6 (Wed), 15:00, MDC.89, Room 1.17 </div>
 <div class="col-md-10" markdown="1"> 
 **Marie Walde** (Woehler Lab). Confocal detectors.
 	
