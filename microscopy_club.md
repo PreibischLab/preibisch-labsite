@@ -10,7 +10,7 @@ weight: 4
 	<p>To subscribe to the mailing list, send an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com">mclub-berlin+subscribe@googlegroups.com</a>. </p>
 	<p>Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com">mclub-berlin@googlegroups.com</a></p>
 	<p>To unsubscribe, send an email to <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com">mclub-berlin+unsubscribe@googlegroups.com</a>. </p>
-<p> You can add [mClub](https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to your Google calendar to stay up-to-date.</p>
+<p> You can also add <a href="https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">mClub</a>. to your Google calendar to stay up-to-date.</p>
 </div>
 
 <div class="row">
