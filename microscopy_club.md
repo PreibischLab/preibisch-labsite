@@ -10,23 +10,29 @@ weight: 4
 	<p>To subscribe to the mailing list, send an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com">mclub-berlin+subscribe@googlegroups.com</a>. </p>
 	<p>Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com">mclub-berlin@googlegroups.com</a></p>
 	<p>To unsubscribe, send an email to <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com">mclub-berlin+unsubscribe@googlegroups.com</a>. </p>
+
+You can add [mClub](https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to your Google calendar to stay up-to-date.
 </div>
 
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> March 6 (Wed), 15:00, MDC.89, Room 1.17 </div>
+<div class="col-md-2"> March 13 (Wed), 15:00, MDC.89, Room 2.17 </div>
 <div class="col-md-10" markdown="1"> 
-**Marie Walde** (Woehler Lab). Confocal detectors.
-	
-**Nikita Vladimirov** (Preibisch Lab). Deconvolution for dummies.
-
+**Martin Fritsch** and **Svenja Kunerth** (Leica Microsystems). Lightning and Thunder adaptive image extraction and deconvolution.
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+	
+<div class="col-md-2"> 6.03.2019 </div>
+<div class="col-md-10" markdown="1"> 
+**Marie Walde** (Woehler Lab). Confocal detectors.
+	
+**Nikita Vladimirov** (Preibisch Lab). Deconvolution for dummies.
+</div>
 
 <div class="col-md-2"> 30.01.2019 </div>
 <div class="col-md-10" markdown="1">
