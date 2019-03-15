@@ -48,10 +48,6 @@ weight: 2
     <p class="marwan-img-text">Marwan<br/>Zouinkhi</p>
   </div>
   <div class="member-img-small">
-    <img class="img-andrea" id="small-andrea" onclick="scrollDown('andrea');" onmouseover="displayName('andrea');" onmouseout="hideName('andrea');"/>
-    <p class="andrea-img-text">Andrea<br/>Grybowski</p>
-  </div>
-  <div class="member-img-small">
     <img class="img-mandy" id="small-mandy" onclick="scrollDown('mandy');" onmouseover="displayName('mandy');" onmouseout="hideName('mandy');"/>
     <p class="mandy-img-text">Mandy<br/>Terne</p>
   </div>
@@ -374,31 +370,6 @@ Marwan did his Dipl.-Ing. in software engineering at ISSAT Sousse University, Tu
 <br>
 
 ---------------------------------------
-
-<br>
-
-<div id="andrea" class="member"></div>
-<div class="row">
-
-  <div class="col-md-3">
-    <img class="member-img img-andrea">
-  </div>
-
-  <div class="col-md-9" markdown="1">
-
-
-### Andrea Grybowski
-
-#### Technical Assistant
-
-**E-mail:** [<img class="img-email">](mailto:andrea.grybowski@mdc-berlin.de){:target="_blank"}
-
-  </div>
-</div>
-
-<br>
-
----------------------------------------
 <br>
 
 <div id="mandy" class="member"></div>
@@ -502,6 +473,28 @@ Kushtrim did his B.Sc. in Biotechnology at the Technical University of Berlin at
 
 <br><br><br><br><br><br>
 #### Varun Kapoor, PhD
+
+  </div>
+</div>
+
+<br>
+
+
+---------------------------------------
+
+<br>
+
+<div id="andrea" class="member"></div>
+<div class="row">
+
+  <div class="col-md-3">
+    <img class="member-img img-andrea">
+  </div>
+
+  <div class="col-md-9" markdown="1">
+
+<br><br><br><br><br><br>
+### Andrea Grybowski
 
   </div>
 </div>
