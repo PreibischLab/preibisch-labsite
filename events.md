@@ -7,6 +7,14 @@ weight: 3
 
 <div id="events" markdown="1">
 
+#### **March 2019**
+
+20 - 22    
+<a class="link-friedrich">Laura</a> @ the [KNIME Spring Summit 2019](https://www.knime.com/about/events/knime-spring-summit-2019-berlin){:target="_blank"}.
+<small>Friedrich presented a poster about how to use KNIME and open-source hardware to build a behavioral tracker for C. elegans.</small>
+
+<hr/> <!--line separator-->
+
 #### **February 2019**
 
 04 - 15    
