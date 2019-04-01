@@ -27,9 +27,9 @@ weight: 4
 [view slides](https://www.slideshare.net/secret/5F2Cen67Ylm0lc){:target="_blank"}
 </div>
 
-<div class="col-md-2"> 3.12.2018 </div>
+<div class="col-md-2"> 03.12.2018 </div>
 <div class="col-md-10" markdown="1">
-**Uwe Schmidt and Martin Weigert, FMP**. Deep learning based image restoration and cell segmentation for fluorescence microscopy.
+**Uwe Schmidt and Martin Weigert, MPI-CBG**. Deep learning based image restoration and cell segmentation for fluorescence microscopy.
 </div>
 
 <div class="col-md-2"> 26.06.2018 </div>
