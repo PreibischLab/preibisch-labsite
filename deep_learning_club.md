@@ -57,12 +57,12 @@ weight: 4
 	
 <div class="col-md-2"> 04.04.2018 </div>
 <div class="col-md-10" markdown="1">
-**Bastiaan Spanjaard, Junker Lab, MDC**. Jurnal club: DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning.
+**Bastiaan Spanjaard, Junker Lab, MDC**. Journal club: DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning.
 </div>
 
 <div class="col-md-2"> 21.03.2018 </div>
 <div class="col-md-10" markdown="1">
-**Jonathan Ronen, Akalin Lab, MDC**. variational autoencoders. 
+**Jonathan Ronen, Akalin Lab, MDC**. Variational autoencoders. 
 [view slides](https://www.slideshare.net/JonathanRonen/jonathan-ronen-variational-autoencoders-tutorial){:target="_blank"}
 </div>
 
@@ -84,7 +84,7 @@ weight: 4
 
 <div class="col-md-2"> 13.12.2017 </div>
 <div class="col-md-10" markdown="1">
-**Ella Bahry, Preibisch Lab, MDC**. Jurnal club: U-Net: Convolutional Networks for Biomedical Image Segmentation.
+**Ella Bahry, Preibisch Lab, MDC**. Journal club: U-Net: Convolutional Networks for Biomedical Image Segmentation.
 [paper link](https://arxiv.org/pdf/1505.04597.pdf){:target="_blank"}, 
 [view slides](https://drive.google.com/file/d/1AMSAJOvztkYBjMS4JNqNrTHnEUqb_nf2/view?usp=sharing){:target="_blank"}
 </div>
