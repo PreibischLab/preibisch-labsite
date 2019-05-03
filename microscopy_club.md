@@ -16,16 +16,24 @@ weight: 4
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> March 13 (Wed), 15:00, MDC.89, Room 2.17 </div>
+<div class="col-md-2"> May (Wed), 10:00, BIMSB (Hannoversche str. 28), room tba </div>
 <div class="col-md-10" markdown="1"> 
-**Martin Fritsch** and **Svenja Kunerth** (Leica Microsystems). Lightning and Thunder adaptive image extraction and deconvolution.
+**Stephan Prebisch**: Simulating light propagation in tissues using raytracing.
+
+**Nikita Vladimirov**: Highlights from Swiss Light-sheet Microscopy Workshop. 
 </div>
 </div>
 
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
-	
+
+<div class="col-md-2"> 13.03.2019 </div>
+<div class="col-md-10" markdown="1"> 
+**Martin Fritsch** and **Svenja Kunerth** (Leica Microsystems). Lightning and Thunder adaptive image extraction and deconvolution.
+</div>
+</div>
+
 <div class="col-md-2"> 6.03.2019 </div>
 <div class="col-md-10" markdown="1"> 
 **Marie Walde** (Woehler Lab). Confocal detectors.
