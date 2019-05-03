@@ -16,7 +16,7 @@ weight: 4
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> May (Wed), 10:00, BIMSB (Hannoversche str. 28), room tba </div>
+<div class="col-md-2"> May 15 (Wed), 10:00, BIMSB (Hannoversche str. 28), room tba </div>
 <div class="col-md-10" markdown="1"> 
 **Stephan Prebisch**: Simulating light propagation in tissues using raytracing.
 
@@ -31,7 +31,6 @@ weight: 4
 <div class="col-md-2"> 13.03.2019 </div>
 <div class="col-md-10" markdown="1"> 
 **Martin Fritsch** and **Svenja Kunerth** (Leica Microsystems). Lightning and Thunder adaptive image extraction and deconvolution.
-</div>
 </div>
 
 <div class="col-md-2"> 6.03.2019 </div>
