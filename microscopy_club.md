@@ -16,7 +16,7 @@ weight: 4
 <div class="row">
 <p><b>Next meeting:</b></p>
 	
-<div class="col-md-2"> May 15 (Wed), 10:00, BIMSB (Hannoversche str. 28), room tba </div>
+<div class="col-md-2"> May 15 (Wed), 9:30, BIMSB (Hannoversche str. 28), room 2.04 </div>
 <div class="col-md-10" markdown="1"> 
 **Stephan Prebisch**: Simulating light propagation in tissues using raytracing.
 
