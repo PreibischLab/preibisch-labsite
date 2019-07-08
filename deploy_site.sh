@@ -5,4 +5,4 @@ git commit -m "automatic commit - bimsb_seminar";
 git push;
 git pull;
 jekyll build;
-rsync -r --progress _site/* ebahry@mdcuserweb.mdc-berlin.de:/var/www/html/004_preibischlab/
+rsync -r --progress _site/* ebahry@preibischlab.mdc-berlin.de:/var/www/html/004_preibischlab/
