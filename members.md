@@ -530,32 +530,32 @@ Kushtrim did his B.Sc. in Biotechnology at the Technical University of Berlin at
 <script>
 
 // YOU CAN CHANGE YOUR IMAGE SOURCE HERE:
-$('.img-stephan').attr({src: "http://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
-$('.img-nikita').attr({src: "http://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimirov"});
-$('.img-ella').attr({src: "http://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
-$('.img-laura').attr({src: "http://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
-$('.img-dhana').attr({src: "http://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
+$('.img-stephan').attr({src: "https://i.imgur.com/J4zjb7R.png", alt: "Stephan Preibisch"});
+$('.img-nikita').attr({src: "https://imgur.com/5GMQPX3.jpg", alt: "Nikita Vladimirov"});
+$('.img-ella').attr({src: "https://i.imgur.com/h4sMUr2.jpg", alt: "Ella Bahry"});
+$('.img-laura').attr({src: "https://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breimann"});
+$('.img-dhana').attr({src: "https://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
 $('.img-peter').attr({src: "https://i.imgur.com/vk3FldK.jpg", alt: "peter Hirsch"});
 $('.img-david').attr({src: "https://i.imgur.com/RzZ8MRi.jpg", alt: "David Hörl"});
 $('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
-$('.img-friedrich').attr({src: "http://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
+$('.img-friedrich').attr({src: "https://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
 $('.img-marwan').attr({src: "https://i.imgur.com/lylOvFJ.jpg", alt: "Friedrich Preusser"});
-$('.img-lennon').attr({src: "http://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
-$('.img-andrea').attr({src: "http://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
+$('.img-lennon').attr({src: "https://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
+$('.img-andrea').attr({src: "https://i.imgur.com/yi80S2r.jpg", alt: "Andrea Grybowski"});
 $('.img-mandy').attr({src: "https://i.imgur.com/wJscFAJ.jpg", alt: "Mandy Terne"});
 $('.img-kushtrim').attr({src: "https://i.imgur.com/lFbe5EJ.jpg", alt: "Kushtrim Cerimi"});
 
-$('.img-varun').attr({src: "http://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
+$('.img-varun').attr({src: "https://imgur.com/BBPgTxi.jpg", alt: "Varun Kapoor"});
 
 
-$('.img-twitter').attr({src: "http://i.imgur.com/oxJIrNq.png", alt: "twitter"});
-$('.img-youtube').attr({src: "http://i.imgur.com/Nt4ZEqC.png", alt: "youtube"});
-$('.img-github').attr({src: "http://i.imgur.com/NaATgAs.png", alt: "github"});
-$('.img-linkedin').attr({src: "http://i.imgur.com/rRWygl5.png", alt: "linkedin"});
-$('.img-website').attr({src: "http://i.imgur.com/65OpIvc.png", alt: "website"});
-$('.img-email').attr({src: "http://i.imgur.com/ctzrCqr.png", alt: "email"});
-$('.img-rg').attr({src: "http://i.imgur.com/HQdLAxp.png", alt: "researchgate"});
-$('.img-scholar').attr({src: "http://imgur.com/1p3CcvJ.jpg", alt: "google-scholar"});
+$('.img-twitter').attr({src: "https://i.imgur.com/oxJIrNq.png", alt: "twitter"});
+$('.img-youtube').attr({src: "https://i.imgur.com/Nt4ZEqC.png", alt: "youtube"});
+$('.img-github').attr({src: "https://i.imgur.com/NaATgAs.png", alt: "github"});
+$('.img-linkedin').attr({src: "https://i.imgur.com/rRWygl5.png", alt: "linkedin"});
+$('.img-website').attr({src: "https://i.imgur.com/65OpIvc.png", alt: "website"});
+$('.img-email').attr({src: "https://i.imgur.com/ctzrCqr.png", alt: "email"});
+$('.img-rg').attr({src: "https://i.imgur.com/HQdLAxp.png", alt: "researchgate"});
+$('.img-scholar').attr({src: "https://imgur.com/1p3CcvJ.jpg", alt: "google-scholar"});
 
 
 function scrollDown(member_name) {
