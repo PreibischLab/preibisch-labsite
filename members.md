@@ -83,8 +83,8 @@ Stephan Preibisch received his master of computer science from the Technical Uni
 [<img class="img-github">](https://github.com/StephanPreibisch){:target="_blank"}
 [<img class="img-linkedin">](https://de.linkedin.com/in/stephan-preibisch-009a1a4){:target="_blank"}
 
-**Personal webpage and email:**  
-[<img class="img-website">](http://www.preibisch.net){:target="_blank"}
+**E-mail:**
+<!--[<img class="img-website">](https://www.preibisch.net){:target="_blank"}-->
 [<img class="img-email">](mailto:stephan.preibisch@mdc-berlin.de){:target="_blank"}
 
   </div>
@@ -301,7 +301,7 @@ Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk 
 [<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
 
 **Personal webpage and email:**  
-[<img class="img-website">](http://milkyklim.com){:target="_blank"}
+[<img class="img-website">](https://milkyklim.com){:target="_blank"}
 [<img class="img-email">](mailto:klim.kolyvanov@mdc-berlin.de){:target="_blank"}
 
   </div>
@@ -537,7 +537,7 @@ $('.img-laura').attr({src: "https://i.imgur.com/jlvMGMA.jpg", alt: "Laura Breima
 $('.img-dhana').attr({src: "https://i.imgur.com/YI5I3ls.jpg", alt: "Dhana Friedrich"});
 $('.img-peter').attr({src: "https://i.imgur.com/vk3FldK.jpg", alt: "peter Hirsch"});
 $('.img-david').attr({src: "https://i.imgur.com/RzZ8MRi.jpg", alt: "David Hörl"});
-$('.img-klim').attr({src: "http://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
+$('.img-klim').attr({src: "https://i.imgur.com/b64z1QH.jpg", alt: "Klim Kolyvanov"});
 $('.img-friedrich').attr({src: "https://i.imgur.com/skIvscx.jpg", alt: "Friedrich Preusser"});
 $('.img-marwan').attr({src: "https://i.imgur.com/lylOvFJ.jpg", alt: "Friedrich Preusser"});
 $('.img-lennon').attr({src: "https://i.imgur.com/F9vMzmK.jpg", alt: "Lenon Matchett-Oates"});
