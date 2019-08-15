@@ -86,7 +86,7 @@ published: false
               <h2 class="section-heading text-uppercase">About the Conference</h2>
               <p class="text-muted text-left">Light sheet microscopy has emerged in the last 15 years as a powerful tool to interrogate living biological systems with unprecedented imaging speeds for as long as it takes. Large, fixed, cleared or expanded biological samples can be imaged with high resolution in a fraction of time compared to conventional microscopy approaches. When combined, the spatial coverage and temporal resolution leads to in toto recording of complex biological phenomena.</p>
               <p class="text-muted text-left">Light sheets opened entirely new windows into the inner workings of cells and organisms and re-invigorated several research fields including developmental and cell biology, physiology, neurobiology and biodiversity research. This conference marks the <b>10th Anniversary of Light Sheet Fluorescence Microscopy</b> (LSFM) meetings that <b>started in 2009 in Dresden</b>. It will bring together the technology developers and users of light sheets, showcase the latest light sheet set-ups and how to best deploy them for the benefit of the biological research community.</p>
-              <p class="text-muted text-left">A unique feature of the conference is that it immediately follows the <a href="http://meetings.embo.org/event/18-lsm" target="_blank">3rd EMBO practical course on light sheet microscopy</a> held in Dresden between August 2nd and 11th 2018. This course teaches light sheet microscopy to the next generation of scientists who will present the results of their light sheet experiments at the conference. Additionally, a <b>full range of commercial light sheet microscopy hardware</b> used at the course will be demonstrated at the conference.</p>
+              <p class="text-muted text-left">A unique feature of the conference is that it immediately follows the <a href="https://meetings.embo.org/event/18-lsm" target="_blank">3rd EMBO practical course on light sheet microscopy</a> held in Dresden between August 2nd and 11th 2018. This course teaches light sheet microscopy to the next generation of scientists who will present the results of their light sheet experiments at the conference. Additionally, a <b>full range of commercial light sheet microscopy hardware</b> used at the course will be demonstrated at the conference.</p>
               <br/>
             </div>
           </div>
@@ -166,14 +166,14 @@ published: false
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Reto Fiolka.jpg" alt="">
-                <h4><a href="http://profiles.utsouthwestern.edu/profile/150662/reto-fiolka.html" target="_blank">Reto Fiolka</a></h4>
+                <h4><a href="https://profiles.utsouthwestern.edu/profile/150662/reto-fiolka.html" target="_blank">Reto Fiolka</a></h4>
                 <p class="text-muted">UT Southwestern Medical Center, Dallas, USA</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Scott Fraser.jpg" alt="">
-                <h4><a href="http://fraserlab.usc.edu/" target="_blank">Scott E. Fraser</a></h4>
+                <h4><a href="https://fraserlab.usc.edu/" target="_blank">Scott E. Fraser</a></h4>
                 <p class="text-muted">University of Southern California, Los Angeles, USA</p>
               </div>
             </div>
@@ -215,7 +215,7 @@ published: false
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Srigokul Upadhyayula.jpg" alt="">
-                <h4><a href="http://www.idi.harvard.edu/investigators_research/investigator/kirchhausen_lab/" target="_blank">Srigokul Upadhyayula</a></h4>
+                <h4><a href="https://www.idi.harvard.edu/investigators_research/investigator/kirchhausen_lab/" target="_blank">Srigokul Upadhyayula</a></h4>
                 <p class="text-muted">Boston Children's Hospital, Harvard Medical School, Boston, USA</p>
               </div>
             </div>
@@ -257,14 +257,14 @@ published: false
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Nadine Peyrieras.jpg" alt="">
-                <h4><a href="http://neuro-psi.cnrs.fr/spip.php?article378&lang=fr" target="_blank">Nadine Peyrieras</a></h4>
+                <h4><a href="https://neuro-psi.cnrs.fr/spip.php?article378&lang=fr" target="_blank">Nadine Peyrieras</a></h4>
                 <p class="text-muted">CNRS Laboratory USR3695 BioEmergences, FR</p>
               </div>
             </div>
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Peter Santi.jpg" alt="">
-                <h4><a href="http://www.neuroscience.umn.edu/people/peter-santi-phd" target="_blank">Peter Santi</a></h4>
+                <h4><a href="https://www.neuroscience.umn.edu/people/peter-santi-phd" target="_blank">Peter Santi</a></h4>
                 <p class="text-muted">University of Minnesota, Minneapolis, USA</p>
               </div>
             </div>
@@ -299,7 +299,7 @@ published: false
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Raju Tomer.jpg" alt="">
-                <h4><a href="http://tomerlab.org/" target="_blank">Raju Tomer</a></h4>
+                <h4><a href="https://tomerlab.org/" target="_blank">Raju Tomer</a></h4>
                 <p class="text-muted">Biological Sciences, Columbia University, USA</p>
               </div>
             </div>
@@ -432,8 +432,8 @@ published: false
             </div>
             <div class="col-sm-4">
               <div class="team-member">
-                <img class="mx-auto rounded-circle" src="http://i.imgur.com/J4zjb7R.png" alt="">
-                <h4><a href="http://preibischlab.mdc-berlin.de/" target="_blank">Stephan Preibisch</a></h4>
+                <img class="mx-auto rounded-circle" src="https://i.imgur.com/J4zjb7R.png" alt="">
+                <h4><a href="https://preibischlab.mdc-berlin.de/" target="_blank">Stephan Preibisch</a></h4>
                 <p class="text-muted" style="margin:0;"><a href="https://twitter.com/preibischs" target="_blank">@preibischs</a></p>
                 <p class="text-muted">Max-Delbrück-Centrum für Molekulare Medizin (MDC), Berlin, DE</p>
               </div>
@@ -441,7 +441,7 @@ published: false
             <div class="col-sm-4">
               <div class="team-member">
                 <img class="mx-auto rounded-circle" src="img/team/Emmanuel Reynaud.jpg" alt="">
-                <h4><a href="http://cellbiology.ucd.ie" target="_blank">Emmanuel Reynaud</a></h4>
+                <h4><a href="https://cellbiology.ucd.ie" target="_blank">Emmanuel Reynaud</a></h4>
                 <p class="text-muted" style="margin:0;"><a href="https://twitter.com/reynaudemmanuel" target="_blank">@ReynaudEmmanuel</a></p>
                 <p class="text-muted">Conway Institute of Biomolecular and Biomedical Science, Dublin, IE</p>
 
@@ -510,9 +510,9 @@ published: false
 
                 <h4 class="about-heading text-left">Transportation</h4>
                 <p class="text-left"><b>Via Plane</b></p>
-                <p class="text-muted text-left"><b>Dresden</b> has a relatively small <a href="http://www.dresden-airport.de/" target="_blank">airport</a> connected by Lufthansa to major German hubs such as Frankfurt, Munich and Düsseldorf. There is also an Air France flight from London.</p>
-                <p class="text-muted text-left"><a href="http://www.berlin-airport.de/de/reisende-sxf/index.php" target="_blank">Berlin Schoenefeld International airport</a> is about 172 km from Dresden, easily reachable by regular trains or busses.</p>
-                <p class="text-muted text-left"><a href="http://www.prg.aero/en/" target="blank">Vaclav Havel Airport Prague</a> in the Czech Republic is another option, 160 km away, also connected by trains (about every two hours) and busses.</p>
+                <p class="text-muted text-left"><b>Dresden</b> has a relatively small <a href="https://www.dresden-airport.de/" target="_blank">airport</a> connected by Lufthansa to major German hubs such as Frankfurt, Munich and Düsseldorf. There is also an Air France flight from London.</p>
+                <p class="text-muted text-left"><a href="https://www.berlin-airport.de/de/reisende-sxf/index.php" target="_blank">Berlin Schoenefeld International airport</a> is about 172 km from Dresden, easily reachable by regular trains or busses.</p>
+                <p class="text-muted text-left"><a href="https://www.prg.aero/en/" target="blank">Vaclav Havel Airport Prague</a> in the Czech Republic is another option, 160 km away, also connected by trains (about every two hours) and busses.</p>
                 <p class="text-muted text-left">From the Dresden Airport, please take the train S2 available every 30 min to the train station Bahnhof-Neustadt. Then take the tram 6, direction Niedersedlitz, to the station Königsheimplatz. Cross the street and walk along Schubertstraße until you come to Pfotenhauerstraße and turn left. Our institute is at Pfotenhauerstraße 108. It is a green and blue building. It takes about 40 minutes.</p>
                 <p class="text-left"><b>Via Train</b></p>
                 <p class="text-muted text-left"><b>Dresden</b> is easily reachable by train. There are two train stations in Dresden: <b>Hauptbahnhof</b> and <b>Bahnhof-Neustadt</b>.</p>
@@ -522,7 +522,7 @@ published: false
                 <p class="text-left"><b>Reaching the Institute via tram or bus</b></p>
                 <p class="text-muted text-left">Take tram 6 or 12 to the station Königsheimplatz. Walk along Schubertstraße until you come to Pfotenhauerstraße and turn left.</p>
                 <p class="text-muted text-left">Alternatively, take bus 62 to Johannstadt or 64 to stop Pfotenhauerstraße.</p>
-                <p class="text-muted text-left">To check the schedule of public transport use this <a href="http://www.dvb.de/en/Timetable/Journey-planner/index.aspx?vaform%5Bzieltypeswitch_address%5D=1&vaform%5Bzielort%5D=Dresden&vaform%5Bzielname%5D=Pfotenhauerstra%C3%9Fe+108" target="_blank">website</a>.</p>
+                <p class="text-muted text-left">To check the schedule of public transport use this <a href="https://www.dvb.de/en/Timetable/Journey-planner/index.aspx?vaform%5Bzieltypeswitch_address%5D=1&vaform%5Bzielort%5D=Dresden&vaform%5Bzielname%5D=Pfotenhauerstra%C3%9Fe+108" target="_blank">website</a>.</p>
                 <p class="text-left"><b>Via Car</b></p>
                 <p class="text-muted text-left">From Berlin (north)</p>
                 <p class="text-muted text-left">Leave A4 at the exit Dresden-Hellerau, which will take you onto the B 170 heading towards the city center (Zentrum). Stay on the B 170 for about 5 km until it reaches the intersection "Carolaplatz". At the next intersection turn right onto the "Albertbrücke" bridge. From now on follow the signs "Uniklinikum" to the medical clinic. Once over the bridge, you have to drive a circle in order to turn to the left, which means taking the second street to the right, then turn to the right and to the right again onto "Käthe-Kollwitz-Ufer." Follow "Käthe-Kollwitz-Ufer" and turn right into "Fetscherstraße." At the first intersection turn left into "Pfotenhauerstraße." Our institute is on the right.</p>
@@ -532,7 +532,7 @@ published: false
                 <p class="text-muted text-left">Follow the highway D8 going north from the Prague circle towards Aussig (Usti nad Labem) or Teplitz (Teplice) and Dresden. The highway is interrupted in the middle by the scenic Ceske Stredohori mountain for about 20 km (narrow road, follow signs for Dresden). The trip takes about two hours.</p>
 
                 <h4 class="about-heading text-left">About the Area</h4>
-                <p class="text-muted text-left"><a href="http://www.mpi-cbg.de/" target="blank">The Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)</a>, founded in 1998, is one of 80 institutes of the Max Planck Society, an independent non-profit organization in Germany.</p>
+                <p class="text-muted text-left"><a href="https://www.mpi-cbg.de/" target="blank">The Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)</a>, founded in 1998, is one of 80 institutes of the Max Planck Society, an independent non-profit organization in Germany.</p>
                 <p class="text-muted text-left">In recent years Dresden has developed at a tremendous pace into one of the leading scientific centers in the areas of cell and developmental biology, biomedicine, biophysics and bioengineering. Dresden is characterized by a vibrant international community of researchers that perform cross-disciplinary research at the highest level in state-of-the-art research centers at the Technische Universität Dresden (TUD), the Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG), the Max Planck Institute for the Physics of Complex Systems (MPI-PKS) and several Leibniz and Fraunhofer Institutes.</p>
                 <p class="text-muted text-left">Dresden is considered one of the most beautiful cities of Germany. It is located in the east of Germany in the valley of the river Elbe. Dresden is about 2.5 hrs away from Berlin as well as Prague. Being the capital of Saxony it has been a center of political and cultural life for centuries, and its skyline with the Zwinger, the Green Vault, the Painting Gallery, the castle, the Semper Opera, the Court Chapel, Taschenberg Palace, and the recently rebuilt Frauenkirche are world-famous. But the city is not only famous for its baroque architecture and beautiful surrounding landscapes. Dresden has evolved into a vivid and international scientific and industrial center and is one of the most outstanding locations for research and science in Germany with emphasis on biotechnology, nano- and microelectronics. In appreciation of this dynamic development, Dresden has been awarded the “City of Science” in 2006.</p>
 

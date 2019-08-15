@@ -18,7 +18,7 @@ weight: 3
 #### **February 2019**
 
 04 - 15    
-<a class="link-laura">Laura</a> @ the [EMBO Practical Course Methods for studying phase separation in biology](http://meetings.embo.org/event/18-phase-separation){:target="_blank"} at Max Planck Institute of Molecular
+<a class="link-laura">Laura</a> @ the [EMBO Practical Course Methods for studying phase separation in biology](https://meetings.embo.org/event/18-phase-separation){:target="_blank"} at Max Planck Institute of Molecular
 Cell Biology and Genetics in Dresden. 
 
 <hr/> <!--line separator-->
@@ -67,20 +67,20 @@ Cell Biology and Genetics in Dresden.
 #### **July 2018**
 
 30 June - 08  
-<a class="link-friedrich">Friedrich</a> @  [3D developmental imaging EMBO practical course](http://meetings.embo.org/event/18-developmental-imaging){:target="_blank"} at the Instituto Gulbenkian de Ciência in Oeiras, Portugal.  
+<a class="link-friedrich">Friedrich</a> @  [3D developmental imaging EMBO practical course](https://meetings.embo.org/event/18-developmental-imaging){:target="_blank"} at the Instituto Gulbenkian de Ciência in Oeiras, Portugal.  
 
 <hr/> <!--line separator-->
 
 #### **June 2018**
 
 13 - 17  
-<a class="link-friedrich">Friedrich</a> @  [C. elegans development, cell biology and gene expression](http://meetings.embo.org/event/18-c-elegans){:target="_blank"} in Barcelona, Spain.  
+<a class="link-friedrich">Friedrich</a> @  [C. elegans development, cell biology and gene expression](https://meetings.embo.org/event/18-c-elegans){:target="_blank"} in Barcelona, Spain.  
 <small>Poster on characterizing mechanisms of neuronal plasticity in the dauer-exiting C. elegans larva.</small>
 
 <hr/> <!--line separator-->
 
 #### **May 2018**
-[Microscopy club](http://preibischlab.mdc-berlin.de/microscopy-club/) meeting about co-localization analysis of fluorescence images.
+[Microscopy club](https://preibischlab.mdc-berlin.de/microscopy-club/) meeting about co-localization analysis of fluorescence images.
 
 <a class="link-laura">Laura</a> @ [Nuclear Organization & Function conference](https://meetings.cshl.edu/meetings.aspx?meet=NUCLEUS&year=18){:target="_blank"} in Cold Spring Harbor.   
 <small>Poster presentation on transcription regulation in the context of dosage compensation in C. elegans.</small>
@@ -98,7 +98,7 @@ Cell Biology and Genetics in Dresden.
 
 12 – 14  
 The whole lab went to a lab retreat in Sintra, Portugal.   
-<small>We discussed our work and had great talks by our guests [Bruno Costa-Silva](http://neuro.fchampalimaud.org/en/research/investigators/research-groups/group/Costa-Silva/) and [Gaby Martins](http://www.gabygmartins.info). </small>
+<small>We discussed our work and had great talks by our guests [Bruno Costa-Silva](https://neuro.fchampalimaud.org/en/research/investigators/research-groups/group/Costa-Silva/) and [Gaby Martins](https://www.gabygmartins.info). </small>
 
 
 01 – 03  
@@ -164,14 +164,14 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 #### **July 2017**
 
 05 – 07  
-<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](http://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
+<a class="link-dhana">Dhana</a>  @  [Systems Biology of Human Disease Conference](https://www.sbhd-conference.org/2017/){:target="_blank"} in Heidelberg.  
 <small>Dhana will give a short talk on p53 dynamics and stochastic gene expression in the DNA damage response.</small>
 <hr/> <!--line separator-->
 
 #### **June 2017**
 
 21 – 25  
-<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](http://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
+<a class="link-stephan">Stephan</a>, <a class="link-laura">Laura</a> & <a class="link-ella">Ella</a> @ [International <i>C. elegans</i> Conference](https://www.genetics-gsa.org/celegans/2017/){:target="_blank"} in LA.   
 <small>Ella will give a short talk and Laura will present a poster.</small>
 
 
@@ -181,12 +181,12 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 
 
 14 – 17  
-<a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](http://lsfm2017.org/){:target="_blank"} in Singapore.   
+<a class="link-stephan">Stephan</a> @ [Light Sheet Fluorescence Microscopy International Conference](https://lsfm2017.org/){:target="_blank"} in Singapore.   
 <small>Invited Speaker</small>
 
 
 13 – 16  
-<a class="link-laura">Laura</a> @ [Second international meeting on SMC proteins](http://www.smcproteins2017.org){:target="_blank"} in Yamagata, Japan.   
+<a class="link-laura">Laura</a> @ [Second international meeting on SMC proteins](https://www.smcproteins2017.org){:target="_blank"} in Yamagata, Japan.   
 <small>Poster presentation on role of chromosome condensation on RNA Pol II and transcription. </small>
 
 
@@ -197,14 +197,14 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 #### **April 2017**
 
 09 – 12  
-<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & David  @ [Focus on Microscopy](http://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & David  @ [Focus on Microscopy](https://www.focusonmicroscopy.org){:target="_blank"} in Bordeaux, France.   
 <small>Presentation: Big Stitcher - Efficient Alignment of Multi-Tile and Multi-View Lightsheet Data of Cleared Samples</small>
 <hr/> <!--line separator-->
 
 #### **March 2017**
 
 22 – 24  
-<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](http://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
+<a class="link-stephan">Stephan</a>, <a class="link-nikita">Nikita</a> & <a class="link-klim">Klim</a>  @ [Symposium on Microscopy Imaging: From Molecules to Organisms](https://www.leibniz-ipht.de/termine/detail/symposium-microscopy-imaging-from-molecules-to-organism.html){:target="_blank"} in Jena, Germany.   
 <small>Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 05 – 07  
@@ -215,7 +215,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 #### **February 2017**
 
 01 – 03  
-<a class="link-stephan">Stephan</a> & David  @ [NEUBIAS2020 Syposium](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
+<a class="link-stephan">Stephan</a> & David  @ [NEUBIAS2020 Syposium](https://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/symposium-lisbon-15-17-feb/){:target="_blank"} in Lisbon, Portugal.   
 <small>Presentation by Stephan: Reconstruction of Large Tiled Image Acquisitions using ImgLib2 and BigDataViewer
 </small>  
 <small>David presented the BigStitcher at the Open Software Lounge</small>
@@ -231,7 +231,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-klim">Klim</a> @ [Zeiss Hackathon](https://www.zeiss-hackathon-jena.com){:target="_blank"} in Jena.
 
 08 – 13  
-<a class="link-klim">Klim</a> & <a class="link-ella">Ella</a> @ Computer Science & Engineering Computer Vision School [CSE](http://www.as.huji.ac.il/cse){:target="_blank"} at the Hebrew University in Jerusalem, Israel. 
+<a class="link-klim">Klim</a> & <a class="link-ella">Ella</a> @ Computer Science & Engineering Computer Vision School [CSE](https://www.as.huji.ac.il/cse){:target="_blank"} at the Hebrew University in Jerusalem, Israel. 
 
 
 <hr/> <!--line separator-->
@@ -242,7 +242,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 <a class="link-klim">Klim</a> @ MPI-CBG Hackathon [hackDD16](https://twitter.com/hashtag/hackDD16?src=hash){:target="_blank"} in Dresden. 
 
 02  
-<a class="link-stephan">Stephan</a> @ [9th Annual NYU Developmental Genetics Symposium](http://biology.as.nyu.edu/object/biology.events.dg2016){:target="_blank"} in New York, USA.   
+<a class="link-stephan">Stephan</a> @ [9th Annual NYU Developmental Genetics Symposium](https://biology.as.nyu.edu/object/biology.events.dg2016){:target="_blank"} in New York, USA.   
 <small>Invited Presentation: Image Reconstruction and Application to Whole-Organism Transcription Imaging</small>
 
 <hr/> <!--line separator-->
@@ -250,7 +250,7 @@ The whole lab went to a lab retreat in Sintra, Portugal. 
 #### **November 2016**
 
 14 - 18  
-The Preibisch and Woehler lab organized the first [EU-Life Course on Biological Image Reconstruction and Analysis](http://bioimage2016.mdc-berlin.de){:target="_blank"} at the MDC Berlin, Germany.   
+The Preibisch and Woehler lab organized the first [EU-Life Course on Biological Image Reconstruction and Analysis](https://bioimage2016.mdc-berlin.de){:target="_blank"} at the MDC Berlin, Germany.   
 <small>25 selected international students experienced a week full of exciting presentations and hands-on workshops by internationally renowned experts in the field of image analysis.</small>
 
 <hr/> <!--line separator-->
@@ -258,7 +258,7 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 #### **October 2016**
 
 03  
-<a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](http://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
+<a class="link-laura">Laura</a> @ The New York Academy of Sciences [Genome Integrity Discussion Group](https://www.nyas.org/whatwedo/fos/genome.aspx){:target="_blank"} in New York. 
 
 <hr/> <!--line separator-->
 
@@ -282,28 +282,28 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 #### **August 2016**
 
 31 – 2 Sep  
-<a class="link-stephan">Stephan</a> @ [3rd Light Sheet Fluorescence Microscopy International Conference](http://www.lsfm2016.org/){:target="_blank"} at the [University Sheffield](http://www.sheffield.ac.uk/){:target="_blank"} in Sheffield, UK.   
+<a class="link-stephan">Stephan</a> @ [3rd Light Sheet Fluorescence Microscopy International Conference](https://www.lsfm2016.org/){:target="_blank"} at the [University Sheffield](https://www.sheffield.ac.uk/){:target="_blank"} in Sheffield, UK.   
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 22 – 27  
-<a class="link-varun">Varun</a> and <a class="link-klim">Klim</a>  @ [Vision and Sports Summer School](http://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
+<a class="link-varun">Varun</a> and <a class="link-klim">Klim</a>  @ [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2016/){:target="_blank"} in Prague, Czech Republic.
 
 17 – 19  
-<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "Lightsheet microscopy"](http://events.embo.org/16-lsm/){:target="_blank"} at the [MPI-CBG](http://www.mpi-cbg.de){:target="_blank"} in Dresden, Germany.   
+<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "Lightsheet microscopy"](https://events.embo.org/16-lsm/){:target="_blank"} at the [MPI-CBG](https://www.mpi-cbg.de){:target="_blank"} in Dresden, Germany.   
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 01 – 06  
-<a class="link-ella">Ella</a> @ [Medical Imaging Summer School (MISS)](http://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
+<a class="link-ella">Ella</a> @ [Medical Imaging Summer School (MISS)](https://iplab.dmi.unict.it/miss16/){:target="_blank"} in Sicily, Italy. 
 
 <hr/> <!--line separator-->
 
 #### **July 2016**
 
 17 – 22  
-<a class="link-varun">Varun</a> @ [International Computer Vision Summer School](http://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
+<a class="link-varun">Varun</a> @ [International Computer Vision Summer School](https://svg.dmi.unict.it/icvss2016){:target="_blank"} in Sicily, Italy.
 
 06 – 08   
-<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "3D developmental imaging"](http://events.embo.org/16-developmental-imaging/){:target="_blank"} at the [Gulbenkian Institute](http://www.igc.gulbenkian.pt){:target="_blank"} in Oeiras, Portugal.   
+<a class="link-stephan">Stephan</a> @ [EMBO Practical Course "3D developmental imaging"](https://events.embo.org/16-developmental-imaging/){:target="_blank"} at the [Gulbenkian Institute](https://www.igc.gulbenkian.pt){:target="_blank"} in Oeiras, Portugal.   
 <small>Presentation and hands-on course on the reconstruction of multiview lightsheet data.</small>
 
 <hr/> <!--line separator-->
@@ -319,10 +319,10 @@ The Preibisch and Woehler lab organized the first [EU-Life Course on Biological 
 <small>Poster presentation on p53 signaling dynamics and stochastic gene expression.</small>
 
 06 – 10  
-<a class="link-stephan">Stephan</a> @  [EU-Life Meeting](http://eu-life.eu/event/fapespeu-life-symposium-cancer-genomics-inflammation-immunity){:target="_blank"} at [FAPESP](http://www.fapesp.br/){:target="_blank"} in São Paulo, Brazil. 
+<a class="link-stephan">Stephan</a> @  [EU-Life Meeting](https://eu-life.eu/event/fapespeu-life-symposium-cancer-genomics-inflammation-immunity){:target="_blank"} at [FAPESP](https://www.fapesp.br/){:target="_blank"} in São Paulo, Brazil. 
 
 01 – 03  
-We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}.  
+We all were @ the MDC hosted the [European Worm Meeting](https://www.wormmeeting-berlin.de/cms/default.asp?id=0){:target="_blank"}.  
 <small><a class="link-ella">Ella</a> presented her work in a poster "Active Contour based Segmentation of C. elegans Electron Microscopy Data".</small>
 
 <hr/> <!--line separator-->
@@ -338,13 +338,13 @@ We all were @ the MDC hosted the [European Worm Meeting](http://www.wormmeeting-
 #### **March 2016**
 
 14 – 16  
-<a class="link-laura">Laura</a> @ [International Meeting of the the German Society for Cell Biology (DGZ)](http://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
+<a class="link-laura">Laura</a> @ [International Meeting of the the German Society for Cell Biology (DGZ)](https://www.zellbiologie2016.de/Home.697.0.html){:target="_blank"} in Munich, Germany. 
 
 10 – 12  
-<a class="link-laura">Laura</a> @ [Chromatin Dynamics Symposium](http://www.sfb1064.med.uni-muenchen.de/chromatin_symposium_2016/index.html){:target="_blank"} in Munich, Germany.
+<a class="link-laura">Laura</a> @ [Chromatin Dynamics Symposium](https://www.sfb1064.med.uni-muenchen.de/chromatin_symposium_2016/index.html){:target="_blank"} in Munich, Germany.
 
 Feb 27 – Mar 05  
-<a class="link-dhana">Dhana</a> @ [SysBio2016 - Advanced Lecture Course on Systems Biology](http://www.sysbio2016.org){:target="_blank"} in Innsbruck, Austria.  
+<a class="link-dhana">Dhana</a> @ [SysBio2016 - Advanced Lecture Course on Systems Biology](https://www.sysbio2016.org){:target="_blank"} in Innsbruck, Austria.  
 <small> Poster presentation about experimental and mathematical approaches to correlate transcription factor dynamics and stochastic gene expression. </small>
 
 
@@ -353,21 +353,21 @@ Feb 27 – Mar 05
 #### **February 2016**
 
 15 – 18  
-<a class="link-stephan">Stephan</a> @ [Genshagener Kreis](http://www.genshagenerkreis.de/){:target="_blank"} at Schloss Genshagen, Berlin, Germany.  
+<a class="link-stephan">Stephan</a> @ [Genshagener Kreis](https://www.genshagenerkreis.de/){:target="_blank"} at Schloss Genshagen, Berlin, Germany.  
 
 14 – 17  
 <a class="link-dhana">Dhana</a> @ [SignGene Winter School](https://signgene-events.mdc-berlin.de/?page_id=5){:target="_blank"} in Haifa, Israel.  
 <small> Talk about "Building the bridge: From p53 dynamics to stochatic gene expression". </small>
 
 02 – 03  
-<a class="link-stephan">Stephan</a> @ [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} at the [Institute Pasteur](http://www.pasteur.fr/){:target="_blank"} in Paris, France.
+<a class="link-stephan">Stephan</a> @ [Molecular Biology of the Cell Course](https://www.pasteur.fr/en/teaching/institut-pasteur-courses/mechanisms-living-organisms-theme/molecular-biology-cell){:target="_blank"} at the [Institute Pasteur](https://www.pasteur.fr/){:target="_blank"} in Paris, France.
 
 <hr/> <!--line separator-->
 
 #### **January 2016**
 
 18 – 22  
-<a class="link-laura">Laura</a> @ [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](http://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
+<a class="link-laura">Laura</a> @ [FranceBioimaging Advanced Training (FBIAT) microscopy workshop](https://fbiat.weebly.com/){:target="_blank"} in Montpellier, France.
 
 <hr/> <!--line separator-->
 
@@ -384,7 +384,7 @@ Feb 27 – Mar 05
 <a class="link-stephan">Stephan</a> @ [Bioimage Informatics Meeting](https://www.mdc-berlin.de/14187058/en/bimsb/phd_program){:target="_blank"} in Paris, France.
 
 09 – 10  
-<a class="link-stephan">Stephan</a> @ [Biochemistry Department](http://www.bioch.ox.ac.uk){:target="_blank"} in Oxford, UK.
+<a class="link-stephan">Stephan</a> @ [Biochemistry Department](https://www.bioch.ox.ac.uk){:target="_blank"} in Oxford, UK.
 
 <hr/> <!--line separator-->
 
@@ -395,7 +395,7 @@ Feb 27 – Mar 05
 <small>with a talk about lightsheet microscopy reconstruction.</small>
 
 14 – 16  
-<a class="link-stephan">Stephan</a> @ [Bioimage Informatics Conference 2015](http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the NIST in Gaithersburg, MD, USA.  
+<a class="link-stephan">Stephan</a> @ [Bioimage Informatics Conference 2015](https://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm){:target="_blank"} of the NIST in Gaithersburg, MD, USA.  
 <small>with his talk about the work on lightsheet microscopy reconstruction and the BigDataViewer.<small>
 
 6 – 7  
@@ -413,7 +413,7 @@ Feb 27 – Mar 05
 #### **July 2015**
 
 12 – 15  
-<a class="link-stephan">Stephan</a> @ the [HFSP Meeting Awardee Meeting](http://www.hfsp.org/awardees/past-awardees-meetings/san-diego-usa-2015){:target="_blank"} at the [Salk Institute](http://www.salk.edu/){:target="_blank"} in San Diego, CA, USA.  
+<a class="link-stephan">Stephan</a> @ the [HFSP Meeting Awardee Meeting](https://www.hfsp.org/awardees/past-awardees-meetings/san-diego-usa-2015){:target="_blank"} at the [Salk Institute](https://www.salk.edu/){:target="_blank"} in San Diego, CA, USA.  
 
 
 <hr/> <!--line separator-->
@@ -421,8 +421,8 @@ Feb 27 – Mar 05
 #### **June 2015**
 
 29 – 3  
-<a class="link-stephan">Stephan</a> organized a Hackathon at the [BIMSB/MDC](http://www.mdc-berlin.de/bimsb){:target="_blank"} in Berlin, Germany.  
-<small>The focus of the hackathon was to adapt the [Multiview Reconstruction software](http://imagej.net/Multiview-Reconstruction){:target="_blank"} so it is easier to call it externaly and to introduce more programmers into the general layout and functionality of the software.</small>
+<a class="link-stephan">Stephan</a> organized a Hackathon at the [BIMSB/MDC](https://www.mdc-berlin.de/bimsb){:target="_blank"} in Berlin, Germany.  
+<small>The focus of the hackathon was to adapt the [Multiview Reconstruction software](https://imagej.net/Multiview-Reconstruction){:target="_blank"} so it is easier to call it externaly and to introduce more programmers into the general layout and functionality of the software.</small>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
