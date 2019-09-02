@@ -20,14 +20,14 @@ weight: 4
 <div class="col-md-10" markdown="1"> 
 **Simone Reber** "How Complexity Arises from Molecular Interactions"
 
-**Tobias Kletter** “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
+**Tobias Kletter** (Reber Lab) “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
 </div>
 
 <div class="col-md-2"> Oct. 30, 10:00, IRI, Maud-Menten room (3.floor)  </div>
 <div class="col-md-10" markdown="1"> 
-**Abin Biswas** "Optical Diffraction Tomography: A quantitative label-free 3D imaging tool"
+**Abin Biswas** (Reber Lab)  "Optical Diffraction Tomography: A quantitative label-free 3D imaging tool"
 
-**Ella de Gaulejac** "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
+**Ella de Gaulejac** (Reber Lab)  "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
 </div>
 
 </div>
