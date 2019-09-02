@@ -14,11 +14,18 @@ weight: 4
 </div>
 
 <div class="row">
-<p><b>Next meeting:</b></p>
+<p><b>Next meetings:</b></p>
 	
-<div class="col-md-2"> TBA  </div>
-<div class="col-md-10" markdown="1"> 
-</div>
+<div class="col-md-2"> Oct. 9, 10:00, BIMSB, Seminar room 1.04  </div>
+<div class="col-md-10" markdown="1"> **Simone Reber** "How Complexity Arises from Molecular Interactions"
+
+**Tobias Kletter** “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  </div>
+
+<div class="col-md-2"> Oct. 30, 10:00, [IRI](https://goo.gl/maps/iFGqLaAEKRMyvjLZ9), Maud-Menten room (3.floor)  </div>
+<div class="col-md-10" markdown="1"> **Abin Biswas** "Optical Diffraction Tomography: A quantitative label-free 3D imaging tool"
+
+**Ella de Gaulejac** "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” </div>
+
 </div>
 
 <div class="row">
