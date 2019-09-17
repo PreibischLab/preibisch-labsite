@@ -7,10 +7,10 @@ weight: 4
 
 <div class="micro-club-description">
 	<p>We are eople who do microscopy or want to learn about it. Our club is very diverse: physicists, biologists, computer scientists, and DIY geeks. We meet monthly and talk about ray and wave optics, old and new microscopy methods, fluorescent probes, cameras, objectives, etc. Volunteers and guest speakers are welcome! </p>
-	<p>To subscribe to the mailing list, send an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com">mclub-berlin+subscribe@googlegroups.com</a>. </p>
+	<p>To subscribe, send an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com">mclub-berlin+subscribe@googlegroups.com</a>. </p>
 	<p>Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com">mclub-berlin@googlegroups.com</a></p>
 	<p>To unsubscribe, send an email to <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com">mclub-berlin+unsubscribe@googlegroups.com</a>. </p>
-<p> Add <a href="https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">mClub</a> to your Google calendar and stay updated!.</p>
+<p> <a href="https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Add  mClub</a> to your Google calendar and stay updated!</p>
 </div>
 
 <div class="row">
@@ -34,13 +34,9 @@ weight: 4
 <div class="col-md-10" markdown="1"> 
 **Maximilian Hoffmann** [Judkewitz Lab](https://www.jlab.berlin/)  "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!
 
-</div>
-
 <div class="col-md-2"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04 </div>
 <div class="col-md-10" markdown="1"> 
-
 **Daniel von Wangenheim**  [3i](https://www.intelligent-imaging.com/)  "Advanced microscopy by 3i - Intelligent Imaging Innovations"
-
 </div>
 
 </div>
