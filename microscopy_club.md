@@ -30,14 +30,14 @@ weight: 4
 **Ella de Gaulejac** (Reber Lab)  "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
 </div>
 
-<div class="col-md-2"> Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007 </div>
+<div class="col-md-2"> Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007 
 <div class="col-md-10" markdown="1">
 **Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/))  "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope! 
 
-<div class="col-md-2"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04 </div>
+<div class="col-md-2"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04 
 <div class="col-md-10" markdown="1">
 **Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/))  "Advanced microscopy by 3i - Intelligent Imaging Innovations"
-</div>
+
 
 </div>
 
