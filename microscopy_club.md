@@ -32,7 +32,7 @@ weight: 4
 
 <div class="col-md-2"> Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007 </div>
 <div class="col-md-10" markdown="1">
-**Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/))  "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope! </div>
+**Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/))  "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope! 
 
 <div class="col-md-2"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04 </div>
 <div class="col-md-10" markdown="1">
