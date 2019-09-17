@@ -10,11 +10,11 @@ weight: 4
 	<p>To subscribe to the mailing list, send an email to <a href="mailto:mclub-berlin+subscribe@googlegroups.com">mclub-berlin+subscribe@googlegroups.com</a>. </p>
 	<p>Once you are a member, post your messages to the mClub by writing an email to  <a href="mailto:mclub-berlin@googlegroups.com">mclub-berlin@googlegroups.com</a></p>
 	<p>To unsubscribe, send an email to <a href="mailto:mclub-berlin+unsubscribe@googlegroups.com">mclub-berlin+unsubscribe@googlegroups.com</a>. </p>
-<p> You can add <a href="https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">mClub</a> events to your Google calendar.</p>
+<p> Add <a href="https://calendar.google.com/calendar?cid=bjNwZTA3Z29hZW81djNkdmo0c2lrM2o5aWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">mClub</a> to your Google calendar and stay updated!.</p>
 </div>
 
 <div class="row">
-<p><b>Next meetings:</b></p>
+<p><b>Upcoming meetings:</b></p>
 	
 <div class="col-md-2"> Oct. 9, 10:00, BIMSB, Seminar room 1.04  </div>
 <div class="col-md-10" markdown="1"> 
@@ -33,11 +33,14 @@ weight: 4
 <div class="col-md-2"> Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007 </div>
 <div class="col-md-10" markdown="1"> 
 **Maximilian Hoffmann** [Judkewitz Lab](https://www.jlab.berlin/)  "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!
+
 </div>
 
 <div class="col-md-2"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04 </div>
 <div class="col-md-10" markdown="1"> 
-**Daniel von Wangenheim**  [3i](https://www.intelligent-imaging.com/)  "Advanced microscopy by 3i - Intelligent Imaging Innovations" 
+
+**Daniel von Wangenheim**  [3i](https://www.intelligent-imaging.com/)  "Advanced microscopy by 3i - Intelligent Imaging Innovations"
+
 </div>
 
 </div>
