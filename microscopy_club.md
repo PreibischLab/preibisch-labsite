@@ -20,7 +20,7 @@ weight: 4
 <div class="col-md-10" markdown="1"> 
 **Simone Reber** "How Complexity Arises from Molecular Interactions"
 
-**Tobias Kletter** [Reber Lab](https://www.thereberlab.com/) “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
+**Tobias Kletter** ([Reber Lab](https://www.thereberlab.com/)) “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
 </div>
 
 <div class="col-md-2"> Oct. 30, 10:00, IRI (Mitte), Maud-Menten room (3.floor)  </div>
