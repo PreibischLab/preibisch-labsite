@@ -15,13 +15,6 @@ weight: 4
 
 <div class="row">
 <p><b>Upcoming meetings:</b></p>
-	
-<div class="col-md-2"> Oct. 9, 10:00, BIMSB, Seminar room 1.04  </div>
-<div class="col-md-10" markdown="1"> 
-**Simone Reber** "How Complexity Arises from Molecular Interactions"
-
-**Tobias Kletter** ([Reber Lab](https://www.thereberlab.com/)) “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
-</div>
 
 <div class="col-md-2"> Oct. 30, 10:00, IRI (Mitte), Maud-Menten room (3.floor)  </div>
 <div class="col-md-10" markdown="1"> 
@@ -30,11 +23,11 @@ weight: 4
 **Ella de Gaulejac** (Reber Lab)  "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
 </div>
 
-<div class="col-md-2">Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007</div>
+<div class="col-md-2"> Nov. 6, 10:00, Charite (Mitte), Hufelandweg 14, room 01 007</div>
 <div class="col-md-10" markdown="1">**Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/)) "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!
 </div>
 
-<div class="col-md-10" markdown="1">Nov. 27, 15:00, BIMSB (Mitte), room 2.04; **Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/)) "Advanced microscopy by 3i - Intelligent Imaging Innovations"
+<div class="col-md-10" markdown="1"> Nov. 27, 15:00, BIMSB (Mitte), room 2.04; **Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/)) "Advanced microscopy by 3i - Intelligent Imaging Innovations"
 </div>
 
 </div>
@@ -42,6 +35,13 @@ weight: 4
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+
+<div class="col-md-2"> 9.10.2019  </div>
+<div class="col-md-10" markdown="1"> 
+**Simone Reber** "How Complexity Arises from Molecular Interactions"
+
+**Tobias Kletter** ([Reber Lab](https://www.thereberlab.com/)) “Teaching machines to do all the work: using adaptive feedback microscopy on complex samples”  
+</div>
 
 <div class="col-md-2"> 15.05.2019 </div>
 <div class="col-md-10" markdown="1"> 
