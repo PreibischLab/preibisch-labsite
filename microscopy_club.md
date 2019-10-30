@@ -26,6 +26,8 @@ weight: 4
 **Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/)) "Advanced microscopy by 3i - Intelligent Imaging Innovations."
 </div>
 
+</div>
+
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
