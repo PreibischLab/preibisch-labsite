@@ -28,13 +28,12 @@ weight: 4
 <p></p>
 <p><b>Past meetings:</b></p>
 	
-<div class="col-md-2"> 6.11 Charite (Mitte)</div>
+<div class="col-md-2"> 6.11.2019</div>
 <div class="col-md-10" markdown="1">
 **Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/)) "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!  
 </div>
 
 </div>
-<p></p>
 <div class="col-md-2"> 30.10.2019 </div>
 <div class="col-md-10" markdown="1"> 
 **Ella de Gaulejac** (Reber Lab)  "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
