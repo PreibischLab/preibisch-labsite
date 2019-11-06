@@ -16,13 +16,6 @@ weight: 4
 <div class="row">
 <p><b>Upcoming meetings:</b></p>
 
-<div class="col-md-2"> 6.11 15:00, Charite (Mitte), Hufelandweg 14, room 01 007</div>
-<div class="col-md-10" markdown="1">
-**Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/)) "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!  
-</div>
-
-</div>
-<p></p>
 <div class="row">
 <div class="col-md-2"> 27.11, 15:00, BIMSB (Mitte), room 2.04</div>
 <div class="col-md-10" markdown="1">
@@ -34,7 +27,14 @@ weight: 4
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
+	
+<div class="col-md-2"> 6.11 Charite (Mitte)</div>
+<div class="col-md-10" markdown="1">
+**Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/)) "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!  
+</div>
 
+</div>
+<p></p>
 <div class="col-md-2"> 30.10.2019 </div>
 <div class="col-md-10" markdown="1"> 
 **Ella de Gaulejac** (Reber Lab)  "Combining Expansion Microscopy and STED Microscopy: current tools towards super resolution in fluorescence microscopy” 
