@@ -24,6 +24,7 @@ weight: 4
 
 </div>
 
+<p></p>
 <div class="row">
 <div class="col-md-2"> 12.12, 10:00, BIMSB (Mitte), room 1.04</div>
 <div class="col-md-10" markdown="1">
