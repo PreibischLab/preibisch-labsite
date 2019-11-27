@@ -15,15 +15,6 @@ weight: 4
 
 <div class="row">
 <p><b>Upcoming meetings:</b></p>
-
-<div class="row">
-<div class="col-md-2"> 27.11, 15:00, BIMSB (Mitte), room 2.04</div>
-<div class="col-md-10" markdown="1">
-**Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/)) "Advanced microscopy by 3i - Intelligent Imaging Innovations."
-</div>
-
-</div>
-
 <p></p>
 <div class="row">
 <div class="col-md-2"> 12.12, 10:00, BIMSB (Mitte), room 1.04</div>
@@ -36,7 +27,13 @@ weight: 4
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
-	
+
+<div class="row">
+<div class="col-md-2"> 27.11.2019 </div>
+<div class="col-md-10" markdown="1">
+**Daniel von Wangenheim** ([3i](https://www.intelligent-imaging.com/)) "Advanced microscopy by 3i - Intelligent Imaging Innovations."
+</div>
+
 <div class="col-md-2"> 6.11.2019</div>
 <div class="col-md-10" markdown="1">
 **Maximilian Hoffmann** ([Judkewitz Lab](https://www.jlab.berlin/)) "Oblique plane microscopy for large field of views." Talk + DEMO of the brand new microscope!  
