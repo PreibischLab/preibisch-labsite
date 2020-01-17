@@ -25,7 +25,7 @@ weight: 4
 
 <div class="col-md-2"> 13.05.2019 </div>
 <div class="col-md-10" markdown="1">
-**Dr. Henrik Seidel, Dr. Djork-Arné Clevert, and Robin Winter, Bayer AI**. Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations.
+**Dr. Henrik Seidel, Dr. Djork-Arné Clevert, and Robin Winter, Bayer AI**. Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations.  
 **Dr. Wolfgang Kopp, Akalin/Ohler Labs**  Janggu - a python package for DL in genomics.  
 **Jonathan Ronen, Akalin Lab**. Maui - Evaluation of colorectal cancer subtypes and cell lines using deep learning.  
 **Ella Bahry, Preibisch Lab**. CNN based approach for accurate drosophila wing registration. 
