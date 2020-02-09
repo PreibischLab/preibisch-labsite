@@ -19,7 +19,7 @@ weight: 4
 <div class="row">
 <div class="col-md-2"> 12.02.2020, 15:00, BIMSB (Mitte), room 5.04</div>
 <div class="col-md-10" markdown="1">
-**Inna Kviatkovsky** ([Ramelow Lab, HU](https://www.physics.hu-berlin.de/en/niqo/people)) "Microscopy with *undetected* photons in the mid-IR"
+**Inna Kviatovsky** ([Ramelow Lab, HU](https://www.physics.hu-berlin.de/en/niqo/people)) "Microscopy with *undetected* photons in the mid-IR"
 </div>
 
 </div>
