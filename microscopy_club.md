@@ -19,8 +19,6 @@ weight: 4
 TBA
 </div>
 
-</div>
-
 <div class="row">
 <p></p>
 <p><b>Past meetings:</b></p>
@@ -29,6 +27,7 @@ TBA
 <div class="col-md-2"> 12.02.2020 </div>
 <div class="col-md-10" markdown="1">
 **Inna Kviatovsky** ([Ramelow Lab, HU](https://www.physics.hu-berlin.de/en/niqo/people)) "Microscopy with *undetected* photons in the mid-IR"
+</div>
 	
 <div class="row">
 <div class="col-md-2"> 12.12.2019 </div>
