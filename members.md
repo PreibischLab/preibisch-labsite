@@ -282,37 +282,6 @@ David did a Bachelors in computer science at TU and LMU Munich as well as a Bach
 
 <br>
 
-<div id="klim" class="member"></div>
-<div class="row">
-
-  <div class="col-md-3">
-    <img class="member-img img-klim"/>
-  </div>
-
-  <div class="col-md-9" markdown="1">
-
-### Klim Kolyvanov
-
-#### PhD Student
-
-Klim graduated with BSc. in Applied Mathematics and Computer Science from Tomsk Polytechnic University, Russia, followed by MSc. in Simulation Sciences at RWTH, Germany. He is passionate about PDEs, image processing and implementation of the related algorithms.
-
-**Find him on:**  
-[<img class="img-github">](https://github.com/milkyklim){:target="_blank"}
-
-**Personal webpage and email:**  
-[<img class="img-website">](https://milkyklim.com){:target="_blank"}
-[<img class="img-email">](mailto:klim.kolyvanov@mdc-berlin.de){:target="_blank"}
-
-  </div>
-</div>
-
-<br>
-
----------------------------------------
-
-<br>
-
 <div id="friedrich" class="member"></div>
 <div class="row">
 
